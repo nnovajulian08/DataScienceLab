@@ -1,0 +1,4321 @@
+,code,region,Value,Outlet_Type,year,month
+0,11A,Área Metropolitana do Porto,2388,Total,2024,12
+1,11A0104,Arouca,9,Total,2024,12
+2,11A0107,Espinho,25,Total,2024,12
+3,11A1304,Gondomar,113,Total,2024,12
+4,11A1306,Maia,177,Total,2024,12
+5,11A1308,Matosinhos,357,Total,2024,12
+6,11A0113,Oliveira de Azeméis,24,Total,2024,12
+7,11A1310,Paredes,62,Total,2024,12
+8,11A1312,Porto,566,Total,2024,12
+9,11A1313,Póvoa de Varzim,88,Total,2024,12
+10,11A0109,Santa Maria da Feira,194,Total,2024,12
+11,11A1314,Santo Tirso,62,Total,2024,12
+12,11A0116,São João da Madeira,65,Total,2024,12
+13,11A1318,Trofa,33,Total,2024,12
+14,11A0119,Vale de Cambra,12,Total,2024,12
+15,11A1315,Valongo,104,Total,2024,12
+16,11A1316,Vila do Conde,95,Total,2024,12
+17,11A1317,Vila Nova de Gaia,402,Total,2024,12
+18,11A,Área Metropolitana do Porto,1584,Mennekes,2024,12
+19,11A0104,Arouca,7,Mennekes,2024,12
+20,11A0107,Espinho,17,Mennekes,2024,12
+21,11A1304,Gondomar,69,Mennekes,2024,12
+22,11A1306,Maia,130,Mennekes,2024,12
+23,11A1308,Matosinhos,243,Mennekes,2024,12
+24,11A0113,Oliveira de Azeméis,15,Mennekes,2024,12
+25,11A1310,Paredes,29,Mennekes,2024,12
+26,11A1312,Porto,411,Mennekes,2024,12
+27,11A1313,Póvoa de Varzim,53,Mennekes,2024,12
+28,11A0109,Santa Maria da Feira,135,Mennekes,2024,12
+29,11A1314,Santo Tirso,30,Mennekes,2024,12
+30,11A0116,São João da Madeira,53,Mennekes,2024,12
+31,11A1318,Trofa,15,Mennekes,2024,12
+32,11A0119,Vale de Cambra,5,Mennekes,2024,12
+33,11A1315,Valongo,53,Mennekes,2024,12
+34,11A1316,Vila do Conde,63,Mennekes,2024,12
+35,11A1317,Vila Nova de Gaia,256,Mennekes,2024,12
+36,11A,Área Metropolitana do Porto,326,CHAdeMO,2024,12
+37,11A0104,Arouca,1,CHAdeMO,2024,12
+38,11A0107,Espinho,4,CHAdeMO,2024,12
+39,11A1304,Gondomar,16,CHAdeMO,2024,12
+40,11A1306,Maia,19,CHAdeMO,2024,12
+41,11A1308,Matosinhos,39,CHAdeMO,2024,12
+42,11A0113,Oliveira de Azeméis,4,CHAdeMO,2024,12
+43,11A1310,Paredes,12,CHAdeMO,2024,12
+44,11A1312,Porto,71,CHAdeMO,2024,12
+45,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,12
+46,11A0109,Santa Maria da Feira,21,CHAdeMO,2024,12
+47,11A1314,Santo Tirso,15,CHAdeMO,2024,12
+48,11A0116,São João da Madeira,5,CHAdeMO,2024,12
+49,11A1318,Trofa,8,CHAdeMO,2024,12
+50,11A0119,Vale de Cambra,4,CHAdeMO,2024,12
+51,11A1315,Valongo,20,CHAdeMO,2024,12
+52,11A1316,Vila do Conde,11,CHAdeMO,2024,12
+53,11A1317,Vila Nova de Gaia,64,CHAdeMO,2024,12
+54,11A,Área Metropolitana do Porto,478,CCS,2024,12
+55,11A0104,Arouca,1,CCS,2024,12
+56,11A0107,Espinho,4,CCS,2024,12
+57,11A1304,Gondomar,28,CCS,2024,12
+58,11A1306,Maia,28,CCS,2024,12
+59,11A1308,Matosinhos,75,CCS,2024,12
+60,11A0113,Oliveira de Azeméis,5,CCS,2024,12
+61,11A1310,Paredes,21,CCS,2024,12
+62,11A1312,Porto,84,CCS,2024,12
+63,11A1313,Póvoa de Varzim,23,CCS,2024,12
+64,11A0109,Santa Maria da Feira,38,CCS,2024,12
+65,11A1314,Santo Tirso,17,CCS,2024,12
+66,11A0116,São João da Madeira,7,CCS,2024,12
+67,11A1318,Trofa,10,CCS,2024,12
+68,11A0119,Vale de Cambra,3,CCS,2024,12
+69,11A1315,Valongo,31,CCS,2024,12
+70,11A1316,Vila do Conde,21,CCS,2024,12
+71,11A1317,Vila Nova de Gaia,82,CCS,2024,12
+72,11A,Área Metropolitana do Porto,,Industrial,2024,12
+73,11A0104,Arouca,,Industrial,2024,12
+74,11A0107,Espinho,,Industrial,2024,12
+75,11A1304,Gondomar,,Industrial,2024,12
+76,11A1306,Maia,,Industrial,2024,12
+77,11A1308,Matosinhos,,Industrial,2024,12
+78,11A0113,Oliveira de Azeméis,,Industrial,2024,12
+79,11A1310,Paredes,,Industrial,2024,12
+80,11A1312,Porto,,Industrial,2024,12
+81,11A1313,Póvoa de Varzim,,Industrial,2024,12
+82,11A0109,Santa Maria da Feira,,Industrial,2024,12
+83,11A1314,Santo Tirso,,Industrial,2024,12
+84,11A0116,São João da Madeira,,Industrial,2024,12
+85,11A1318,Trofa,,Industrial,2024,12
+86,11A0119,Vale de Cambra,,Industrial,2024,12
+87,11A1315,Valongo,,Industrial,2024,12
+88,11A1316,Vila do Conde,,Industrial,2024,12
+89,11A1317,Vila Nova de Gaia,,Industrial,2024,12
+90,11A,Área Metropolitana do Porto,2323,Total,2024,11
+91,11A0104,Arouca,9,Total,2024,11
+92,11A0107,Espinho,24,Total,2024,11
+93,11A1304,Gondomar,112,Total,2024,11
+94,11A1306,Maia,177,Total,2024,11
+95,11A1308,Matosinhos,355,Total,2024,11
+96,11A0113,Oliveira de Azeméis,24,Total,2024,11
+97,11A1310,Paredes,54,Total,2024,11
+98,11A1312,Porto,548,Total,2024,11
+99,11A1313,Póvoa de Varzim,88,Total,2024,11
+100,11A0109,Santa Maria da Feira,185,Total,2024,11
+101,11A1314,Santo Tirso,59,Total,2024,11
+102,11A0116,São João da Madeira,51,Total,2024,11
+103,11A1318,Trofa,33,Total,2024,11
+104,11A0119,Vale de Cambra,12,Total,2024,11
+105,11A1315,Valongo,101,Total,2024,11
+106,11A1316,Vila do Conde,94,Total,2024,11
+107,11A1317,Vila Nova de Gaia,397,Total,2024,11
+108,11A,Área Metropolitana do Porto,1541,Mennekes,2024,11
+109,11A0104,Arouca,7,Mennekes,2024,11
+110,11A0107,Espinho,16,Mennekes,2024,11
+111,11A1304,Gondomar,68,Mennekes,2024,11
+112,11A1306,Maia,130,Mennekes,2024,11
+113,11A1308,Matosinhos,246,Mennekes,2024,11
+114,11A0113,Oliveira de Azeméis,15,Mennekes,2024,11
+115,11A1310,Paredes,29,Mennekes,2024,11
+116,11A1312,Porto,395,Mennekes,2024,11
+117,11A1313,Póvoa de Varzim,53,Mennekes,2024,11
+118,11A0109,Santa Maria da Feira,131,Mennekes,2024,11
+119,11A1314,Santo Tirso,27,Mennekes,2024,11
+120,11A0116,São João da Madeira,39,Mennekes,2024,11
+121,11A1318,Trofa,15,Mennekes,2024,11
+122,11A0119,Vale de Cambra,5,Mennekes,2024,11
+123,11A1315,Valongo,52,Mennekes,2024,11
+124,11A1316,Vila do Conde,62,Mennekes,2024,11
+125,11A1317,Vila Nova de Gaia,251,Mennekes,2024,11
+126,11A,Área Metropolitana do Porto,324,CHAdeMO,2024,11
+127,11A0104,Arouca,1,CHAdeMO,2024,11
+128,11A0107,Espinho,4,CHAdeMO,2024,11
+129,11A1304,Gondomar,16,CHAdeMO,2024,11
+130,11A1306,Maia,19,CHAdeMO,2024,11
+131,11A1308,Matosinhos,39,CHAdeMO,2024,11
+132,11A0113,Oliveira de Azeméis,4,CHAdeMO,2024,11
+133,11A1310,Paredes,12,CHAdeMO,2024,11
+134,11A1312,Porto,70,CHAdeMO,2024,11
+135,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,11
+136,11A0109,Santa Maria da Feira,20,CHAdeMO,2024,11
+137,11A1314,Santo Tirso,15,CHAdeMO,2024,11
+138,11A0116,São João da Madeira,5,CHAdeMO,2024,11
+139,11A1318,Trofa,8,CHAdeMO,2024,11
+140,11A0119,Vale de Cambra,4,CHAdeMO,2024,11
+141,11A1315,Valongo,20,CHAdeMO,2024,11
+142,11A1316,Vila do Conde,11,CHAdeMO,2024,11
+143,11A1317,Vila Nova de Gaia,64,CHAdeMO,2024,11
+144,11A,Área Metropolitana do Porto,458,CCS,2024,11
+145,11A0104,Arouca,1,CCS,2024,11
+146,11A0107,Espinho,4,CCS,2024,11
+147,11A1304,Gondomar,28,CCS,2024,11
+148,11A1306,Maia,28,CCS,2024,11
+149,11A1308,Matosinhos,70,CCS,2024,11
+150,11A0113,Oliveira de Azeméis,5,CCS,2024,11
+151,11A1310,Paredes,13,CCS,2024,11
+152,11A1312,Porto,83,CCS,2024,11
+153,11A1313,Póvoa de Varzim,23,CCS,2024,11
+154,11A0109,Santa Maria da Feira,34,CCS,2024,11
+155,11A1314,Santo Tirso,17,CCS,2024,11
+156,11A0116,São João da Madeira,7,CCS,2024,11
+157,11A1318,Trofa,10,CCS,2024,11
+158,11A0119,Vale de Cambra,3,CCS,2024,11
+159,11A1315,Valongo,29,CCS,2024,11
+160,11A1316,Vila do Conde,21,CCS,2024,11
+161,11A1317,Vila Nova de Gaia,82,CCS,2024,11
+162,11A,Área Metropolitana do Porto,,Industrial,2024,11
+163,11A0104,Arouca,,Industrial,2024,11
+164,11A0107,Espinho,,Industrial,2024,11
+165,11A1304,Gondomar,,Industrial,2024,11
+166,11A1306,Maia,,Industrial,2024,11
+167,11A1308,Matosinhos,,Industrial,2024,11
+168,11A0113,Oliveira de Azeméis,,Industrial,2024,11
+169,11A1310,Paredes,,Industrial,2024,11
+170,11A1312,Porto,,Industrial,2024,11
+171,11A1313,Póvoa de Varzim,,Industrial,2024,11
+172,11A0109,Santa Maria da Feira,,Industrial,2024,11
+173,11A1314,Santo Tirso,,Industrial,2024,11
+174,11A0116,São João da Madeira,,Industrial,2024,11
+175,11A1318,Trofa,,Industrial,2024,11
+176,11A0119,Vale de Cambra,,Industrial,2024,11
+177,11A1315,Valongo,,Industrial,2024,11
+178,11A1316,Vila do Conde,,Industrial,2024,11
+179,11A1317,Vila Nova de Gaia,,Industrial,2024,11
+180,11A,Área Metropolitana do Porto,2225,Total,2024,10
+181,11A0104,Arouca,9,Total,2024,10
+182,11A0107,Espinho,24,Total,2024,10
+183,11A1304,Gondomar,112,Total,2024,10
+184,11A1306,Maia,176,Total,2024,10
+185,11A1308,Matosinhos,352,Total,2024,10
+186,11A0113,Oliveira de Azeméis,22,Total,2024,10
+187,11A1310,Paredes,54,Total,2024,10
+188,11A1312,Porto,515,Total,2024,10
+189,11A1313,Póvoa de Varzim,87,Total,2024,10
+190,11A0109,Santa Maria da Feira,185,Total,2024,10
+191,11A1314,Santo Tirso,58,Total,2024,10
+192,11A0116,São João da Madeira,31,Total,2024,10
+193,11A1318,Trofa,33,Total,2024,10
+194,11A0119,Vale de Cambra,12,Total,2024,10
+195,11A1315,Valongo,98,Total,2024,10
+196,11A1316,Vila do Conde,91,Total,2024,10
+197,11A1317,Vila Nova de Gaia,366,Total,2024,10
+198,11A,Área Metropolitana do Porto,1461,Mennekes,2024,10
+199,11A0104,Arouca,7,Mennekes,2024,10
+200,11A0107,Espinho,16,Mennekes,2024,10
+201,11A1304,Gondomar,68,Mennekes,2024,10
+202,11A1306,Maia,129,Mennekes,2024,10
+203,11A1308,Matosinhos,245,Mennekes,2024,10
+204,11A0113,Oliveira de Azeméis,13,Mennekes,2024,10
+205,11A1310,Paredes,29,Mennekes,2024,10
+206,11A1312,Porto,364,Mennekes,2024,10
+207,11A1313,Póvoa de Varzim,52,Mennekes,2024,10
+208,11A0109,Santa Maria da Feira,131,Mennekes,2024,10
+209,11A1314,Santo Tirso,26,Mennekes,2024,10
+210,11A0116,São João da Madeira,19,Mennekes,2024,10
+211,11A1318,Trofa,15,Mennekes,2024,10
+212,11A0119,Vale de Cambra,5,Mennekes,2024,10
+213,11A1315,Valongo,49,Mennekes,2024,10
+214,11A1316,Vila do Conde,61,Mennekes,2024,10
+215,11A1317,Vila Nova de Gaia,232,Mennekes,2024,10
+216,11A,Área Metropolitana do Porto,317,CHAdeMO,2024,10
+217,11A0104,Arouca,1,CHAdeMO,2024,10
+218,11A0107,Espinho,4,CHAdeMO,2024,10
+219,11A1304,Gondomar,16,CHAdeMO,2024,10
+220,11A1306,Maia,19,CHAdeMO,2024,10
+221,11A1308,Matosinhos,39,CHAdeMO,2024,10
+222,11A0113,Oliveira de Azeméis,4,CHAdeMO,2024,10
+223,11A1310,Paredes,12,CHAdeMO,2024,10
+224,11A1312,Porto,69,CHAdeMO,2024,10
+225,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,10
+226,11A0109,Santa Maria da Feira,20,CHAdeMO,2024,10
+227,11A1314,Santo Tirso,15,CHAdeMO,2024,10
+228,11A0116,São João da Madeira,5,CHAdeMO,2024,10
+229,11A1318,Trofa,8,CHAdeMO,2024,10
+230,11A0119,Vale de Cambra,4,CHAdeMO,2024,10
+231,11A1315,Valongo,20,CHAdeMO,2024,10
+232,11A1316,Vila do Conde,10,CHAdeMO,2024,10
+233,11A1317,Vila Nova de Gaia,59,CHAdeMO,2024,10
+234,11A,Área Metropolitana do Porto,447,CCS,2024,10
+235,11A0104,Arouca,1,CCS,2024,10
+236,11A0107,Espinho,4,CCS,2024,10
+237,11A1304,Gondomar,28,CCS,2024,10
+238,11A1306,Maia,28,CCS,2024,10
+239,11A1308,Matosinhos,68,CCS,2024,10
+240,11A0113,Oliveira de Azeméis,5,CCS,2024,10
+241,11A1310,Paredes,13,CCS,2024,10
+242,11A1312,Porto,82,CCS,2024,10
+243,11A1313,Póvoa de Varzim,23,CCS,2024,10
+244,11A0109,Santa Maria da Feira,34,CCS,2024,10
+245,11A1314,Santo Tirso,17,CCS,2024,10
+246,11A0116,São João da Madeira,7,CCS,2024,10
+247,11A1318,Trofa,10,CCS,2024,10
+248,11A0119,Vale de Cambra,3,CCS,2024,10
+249,11A1315,Valongo,29,CCS,2024,10
+250,11A1316,Vila do Conde,20,CCS,2024,10
+251,11A1317,Vila Nova de Gaia,75,CCS,2024,10
+252,11A,Área Metropolitana do Porto,,Industrial,2024,10
+253,11A0104,Arouca,,Industrial,2024,10
+254,11A0107,Espinho,,Industrial,2024,10
+255,11A1304,Gondomar,,Industrial,2024,10
+256,11A1306,Maia,,Industrial,2024,10
+257,11A1308,Matosinhos,,Industrial,2024,10
+258,11A0113,Oliveira de Azeméis,,Industrial,2024,10
+259,11A1310,Paredes,,Industrial,2024,10
+260,11A1312,Porto,,Industrial,2024,10
+261,11A1313,Póvoa de Varzim,,Industrial,2024,10
+262,11A0109,Santa Maria da Feira,,Industrial,2024,10
+263,11A1314,Santo Tirso,,Industrial,2024,10
+264,11A0116,São João da Madeira,,Industrial,2024,10
+265,11A1318,Trofa,,Industrial,2024,10
+266,11A0119,Vale de Cambra,,Industrial,2024,10
+267,11A1315,Valongo,,Industrial,2024,10
+268,11A1316,Vila do Conde,,Industrial,2024,10
+269,11A1317,Vila Nova de Gaia,,Industrial,2024,10
+270,11A,Área Metropolitana do Porto,2167,Total,2024,9
+271,11A0104,Arouca,9,Total,2024,9
+272,11A0107,Espinho,24,Total,2024,9
+273,11A1304,Gondomar,103,Total,2024,9
+274,11A1306,Maia,163,Total,2024,9
+275,11A1308,Matosinhos,352,Total,2024,9
+276,11A0113,Oliveira de Azeméis,20,Total,2024,9
+277,11A1310,Paredes,54,Total,2024,9
+278,11A1312,Porto,511,Total,2024,9
+279,11A1313,Póvoa de Varzim,85,Total,2024,9
+280,11A0109,Santa Maria da Feira,179,Total,2024,9
+281,11A1314,Santo Tirso,56,Total,2024,9
+282,11A0116,São João da Madeira,29,Total,2024,9
+283,11A1318,Trofa,33,Total,2024,9
+284,11A0119,Vale de Cambra,12,Total,2024,9
+285,11A1315,Valongo,95,Total,2024,9
+286,11A1316,Vila do Conde,85,Total,2024,9
+287,11A1317,Vila Nova de Gaia,357,Total,2024,9
+288,11A,Área Metropolitana do Porto,1411,Mennekes,2024,9
+289,11A0104,Arouca,7,Mennekes,2024,9
+290,11A0107,Espinho,16,Mennekes,2024,9
+291,11A1304,Gondomar,63,Mennekes,2024,9
+292,11A1306,Maia,118,Mennekes,2024,9
+293,11A1308,Matosinhos,243,Mennekes,2024,9
+294,11A0113,Oliveira de Azeméis,11,Mennekes,2024,9
+295,11A1310,Paredes,29,Mennekes,2024,9
+296,11A1312,Porto,360,Mennekes,2024,9
+297,11A1313,Póvoa de Varzim,50,Mennekes,2024,9
+298,11A0109,Santa Maria da Feira,127,Mennekes,2024,9
+299,11A1314,Santo Tirso,24,Mennekes,2024,9
+300,11A0116,São João da Madeira,17,Mennekes,2024,9
+301,11A1318,Trofa,15,Mennekes,2024,9
+302,11A0119,Vale de Cambra,5,Mennekes,2024,9
+303,11A1315,Valongo,46,Mennekes,2024,9
+304,11A1316,Vila do Conde,55,Mennekes,2024,9
+305,11A1317,Vila Nova de Gaia,225,Mennekes,2024,9
+306,11A,Área Metropolitana do Porto,314,CHAdeMO,2024,9
+307,11A0104,Arouca,1,CHAdeMO,2024,9
+308,11A0107,Espinho,4,CHAdeMO,2024,9
+309,11A1304,Gondomar,15,CHAdeMO,2024,9
+310,11A1306,Maia,18,CHAdeMO,2024,9
+311,11A1308,Matosinhos,40,CHAdeMO,2024,9
+312,11A0113,Oliveira de Azeméis,4,CHAdeMO,2024,9
+313,11A1310,Paredes,12,CHAdeMO,2024,9
+314,11A1312,Porto,69,CHAdeMO,2024,9
+315,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,9
+316,11A0109,Santa Maria da Feira,19,CHAdeMO,2024,9
+317,11A1314,Santo Tirso,15,CHAdeMO,2024,9
+318,11A0116,São João da Madeira,5,CHAdeMO,2024,9
+319,11A1318,Trofa,8,CHAdeMO,2024,9
+320,11A0119,Vale de Cambra,4,CHAdeMO,2024,9
+321,11A1315,Valongo,20,CHAdeMO,2024,9
+322,11A1316,Vila do Conde,10,CHAdeMO,2024,9
+323,11A1317,Vila Nova de Gaia,58,CHAdeMO,2024,9
+324,11A,Área Metropolitana do Porto,442,CCS,2024,9
+325,11A0104,Arouca,1,CCS,2024,9
+326,11A0107,Espinho,4,CCS,2024,9
+327,11A1304,Gondomar,25,CCS,2024,9
+328,11A1306,Maia,27,CCS,2024,9
+329,11A1308,Matosinhos,69,CCS,2024,9
+330,11A0113,Oliveira de Azeméis,5,CCS,2024,9
+331,11A1310,Paredes,13,CCS,2024,9
+332,11A1312,Porto,82,CCS,2024,9
+333,11A1313,Póvoa de Varzim,23,CCS,2024,9
+334,11A0109,Santa Maria da Feira,33,CCS,2024,9
+335,11A1314,Santo Tirso,17,CCS,2024,9
+336,11A0116,São João da Madeira,7,CCS,2024,9
+337,11A1318,Trofa,10,CCS,2024,9
+338,11A0119,Vale de Cambra,3,CCS,2024,9
+339,11A1315,Valongo,29,CCS,2024,9
+340,11A1316,Vila do Conde,20,CCS,2024,9
+341,11A1317,Vila Nova de Gaia,74,CCS,2024,9
+342,11A,Área Metropolitana do Porto,,Industrial,2024,9
+343,11A0104,Arouca,,Industrial,2024,9
+344,11A0107,Espinho,,Industrial,2024,9
+345,11A1304,Gondomar,,Industrial,2024,9
+346,11A1306,Maia,,Industrial,2024,9
+347,11A1308,Matosinhos,,Industrial,2024,9
+348,11A0113,Oliveira de Azeméis,,Industrial,2024,9
+349,11A1310,Paredes,,Industrial,2024,9
+350,11A1312,Porto,,Industrial,2024,9
+351,11A1313,Póvoa de Varzim,,Industrial,2024,9
+352,11A0109,Santa Maria da Feira,,Industrial,2024,9
+353,11A1314,Santo Tirso,,Industrial,2024,9
+354,11A0116,São João da Madeira,,Industrial,2024,9
+355,11A1318,Trofa,,Industrial,2024,9
+356,11A0119,Vale de Cambra,,Industrial,2024,9
+357,11A1315,Valongo,,Industrial,2024,9
+358,11A1316,Vila do Conde,,Industrial,2024,9
+359,11A1317,Vila Nova de Gaia,,Industrial,2024,9
+360,11A,Área Metropolitana do Porto,2128,Total,2024,8
+361,11A0104,Arouca,9,Total,2024,8
+362,11A0107,Espinho,24,Total,2024,8
+363,11A1304,Gondomar,103,Total,2024,8
+364,11A1306,Maia,161,Total,2024,8
+365,11A1308,Matosinhos,344,Total,2024,8
+366,11A0113,Oliveira de Azeméis,18,Total,2024,8
+367,11A1310,Paredes,51,Total,2024,8
+368,11A1312,Porto,500,Total,2024,8
+369,11A1313,Póvoa de Varzim,85,Total,2024,8
+370,11A0109,Santa Maria da Feira,178,Total,2024,8
+371,11A1314,Santo Tirso,56,Total,2024,8
+372,11A0116,São João da Madeira,28,Total,2024,8
+373,11A1318,Trofa,33,Total,2024,8
+374,11A0119,Vale de Cambra,12,Total,2024,8
+375,11A1315,Valongo,95,Total,2024,8
+376,11A1316,Vila do Conde,81,Total,2024,8
+377,11A1317,Vila Nova de Gaia,350,Total,2024,8
+378,11A,Área Metropolitana do Porto,1390,Mennekes,2024,8
+379,11A0104,Arouca,7,Mennekes,2024,8
+380,11A0107,Espinho,16,Mennekes,2024,8
+381,11A1304,Gondomar,63,Mennekes,2024,8
+382,11A1306,Maia,116,Mennekes,2024,8
+383,11A1308,Matosinhos,237,Mennekes,2024,8
+384,11A0113,Oliveira de Azeméis,11,Mennekes,2024,8
+385,11A1310,Paredes,28,Mennekes,2024,8
+386,11A1312,Porto,353,Mennekes,2024,8
+387,11A1313,Póvoa de Varzim,50,Mennekes,2024,8
+388,11A0109,Santa Maria da Feira,126,Mennekes,2024,8
+389,11A1314,Santo Tirso,24,Mennekes,2024,8
+390,11A0116,São João da Madeira,18,Mennekes,2024,8
+391,11A1318,Trofa,15,Mennekes,2024,8
+392,11A0119,Vale de Cambra,5,Mennekes,2024,8
+393,11A1315,Valongo,46,Mennekes,2024,8
+394,11A1316,Vila do Conde,53,Mennekes,2024,8
+395,11A1317,Vila Nova de Gaia,222,Mennekes,2024,8
+396,11A,Área Metropolitana do Porto,305,CHAdeMO,2024,8
+397,11A0104,Arouca,1,CHAdeMO,2024,8
+398,11A0107,Espinho,4,CHAdeMO,2024,8
+399,11A1304,Gondomar,15,CHAdeMO,2024,8
+400,11A1306,Maia,18,CHAdeMO,2024,8
+401,11A1308,Matosinhos,39,CHAdeMO,2024,8
+402,11A0113,Oliveira de Azeméis,3,CHAdeMO,2024,8
+403,11A1310,Paredes,11,CHAdeMO,2024,8
+404,11A1312,Porto,67,CHAdeMO,2024,8
+405,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,8
+406,11A0109,Santa Maria da Feira,19,CHAdeMO,2024,8
+407,11A1314,Santo Tirso,15,CHAdeMO,2024,8
+408,11A0116,São João da Madeira,4,CHAdeMO,2024,8
+409,11A1318,Trofa,8,CHAdeMO,2024,8
+410,11A0119,Vale de Cambra,4,CHAdeMO,2024,8
+411,11A1315,Valongo,20,CHAdeMO,2024,8
+412,11A1316,Vila do Conde,9,CHAdeMO,2024,8
+413,11A1317,Vila Nova de Gaia,56,CHAdeMO,2024,8
+414,11A,Área Metropolitana do Porto,433,CCS,2024,8
+415,11A0104,Arouca,1,CCS,2024,8
+416,11A0107,Espinho,4,CCS,2024,8
+417,11A1304,Gondomar,25,CCS,2024,8
+418,11A1306,Maia,27,CCS,2024,8
+419,11A1308,Matosinhos,68,CCS,2024,8
+420,11A0113,Oliveira de Azeméis,4,CCS,2024,8
+421,11A1310,Paredes,12,CCS,2024,8
+422,11A1312,Porto,80,CCS,2024,8
+423,11A1313,Póvoa de Varzim,23,CCS,2024,8
+424,11A0109,Santa Maria da Feira,33,CCS,2024,8
+425,11A1314,Santo Tirso,17,CCS,2024,8
+426,11A0116,São João da Madeira,6,CCS,2024,8
+427,11A1318,Trofa,10,CCS,2024,8
+428,11A0119,Vale de Cambra,3,CCS,2024,8
+429,11A1315,Valongo,29,CCS,2024,8
+430,11A1316,Vila do Conde,19,CCS,2024,8
+431,11A1317,Vila Nova de Gaia,72,CCS,2024,8
+432,11A,Área Metropolitana do Porto,,Industrial,2024,8
+433,11A0104,Arouca,,Industrial,2024,8
+434,11A0107,Espinho,,Industrial,2024,8
+435,11A1304,Gondomar,,Industrial,2024,8
+436,11A1306,Maia,,Industrial,2024,8
+437,11A1308,Matosinhos,,Industrial,2024,8
+438,11A0113,Oliveira de Azeméis,,Industrial,2024,8
+439,11A1310,Paredes,,Industrial,2024,8
+440,11A1312,Porto,,Industrial,2024,8
+441,11A1313,Póvoa de Varzim,,Industrial,2024,8
+442,11A0109,Santa Maria da Feira,,Industrial,2024,8
+443,11A1314,Santo Tirso,,Industrial,2024,8
+444,11A0116,São João da Madeira,,Industrial,2024,8
+445,11A1318,Trofa,,Industrial,2024,8
+446,11A0119,Vale de Cambra,,Industrial,2024,8
+447,11A1315,Valongo,,Industrial,2024,8
+448,11A1316,Vila do Conde,,Industrial,2024,8
+449,11A1317,Vila Nova de Gaia,,Industrial,2024,8
+450,11A,Área Metropolitana do Porto,2080,Total,2024,7
+451,11A0104,Arouca,9,Total,2024,7
+452,11A0107,Espinho,24,Total,2024,7
+453,11A1304,Gondomar,100,Total,2024,7
+454,11A1306,Maia,158,Total,2024,7
+455,11A1308,Matosinhos,332,Total,2024,7
+456,11A0113,Oliveira de Azeméis,18,Total,2024,7
+457,11A1310,Paredes,47,Total,2024,7
+458,11A1312,Porto,496,Total,2024,7
+459,11A1313,Póvoa de Varzim,85,Total,2024,7
+460,11A0109,Santa Maria da Feira,173,Total,2024,7
+461,11A1314,Santo Tirso,51,Total,2024,7
+462,11A0116,São João da Madeira,28,Total,2024,7
+463,11A1318,Trofa,31,Total,2024,7
+464,11A0119,Vale de Cambra,12,Total,2024,7
+465,11A1315,Valongo,95,Total,2024,7
+466,11A1316,Vila do Conde,81,Total,2024,7
+467,11A1317,Vila Nova de Gaia,340,Total,2024,7
+468,11A,Área Metropolitana do Porto,1370,Mennekes,2024,7
+469,11A0104,Arouca,7,Mennekes,2024,7
+470,11A0107,Espinho,16,Mennekes,2024,7
+471,11A1304,Gondomar,60,Mennekes,2024,7
+472,11A1306,Maia,113,Mennekes,2024,7
+473,11A1308,Matosinhos,234,Mennekes,2024,7
+474,11A0113,Oliveira de Azeméis,11,Mennekes,2024,7
+475,11A1310,Paredes,26,Mennekes,2024,7
+476,11A1312,Porto,351,Mennekes,2024,7
+477,11A1313,Póvoa de Varzim,50,Mennekes,2024,7
+478,11A0109,Santa Maria da Feira,123,Mennekes,2024,7
+479,11A1314,Santo Tirso,23,Mennekes,2024,7
+480,11A0116,São João da Madeira,18,Mennekes,2024,7
+481,11A1318,Trofa,15,Mennekes,2024,7
+482,11A0119,Vale de Cambra,5,Mennekes,2024,7
+483,11A1315,Valongo,46,Mennekes,2024,7
+484,11A1316,Vila do Conde,53,Mennekes,2024,7
+485,11A1317,Vila Nova de Gaia,219,Mennekes,2024,7
+486,11A,Área Metropolitana do Porto,293,CHAdeMO,2024,7
+487,11A0104,Arouca,1,CHAdeMO,2024,7
+488,11A0107,Espinho,4,CHAdeMO,2024,7
+489,11A1304,Gondomar,15,CHAdeMO,2024,7
+490,11A1306,Maia,18,CHAdeMO,2024,7
+491,11A1308,Matosinhos,36,CHAdeMO,2024,7
+492,11A0113,Oliveira de Azeméis,3,CHAdeMO,2024,7
+493,11A1310,Paredes,10,CHAdeMO,2024,7
+494,11A1312,Porto,66,CHAdeMO,2024,7
+495,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,7
+496,11A0109,Santa Maria da Feira,18,CHAdeMO,2024,7
+497,11A1314,Santo Tirso,13,CHAdeMO,2024,7
+498,11A0116,São João da Madeira,4,CHAdeMO,2024,7
+499,11A1318,Trofa,8,CHAdeMO,2024,7
+500,11A0119,Vale de Cambra,4,CHAdeMO,2024,7
+501,11A1315,Valongo,20,CHAdeMO,2024,7
+502,11A1316,Vila do Conde,9,CHAdeMO,2024,7
+503,11A1317,Vila Nova de Gaia,52,CHAdeMO,2024,7
+504,11A,Área Metropolitana do Porto,417,CCS,2024,7
+505,11A0104,Arouca,1,CCS,2024,7
+506,11A0107,Espinho,4,CCS,2024,7
+507,11A1304,Gondomar,25,CCS,2024,7
+508,11A1306,Maia,27,CCS,2024,7
+509,11A1308,Matosinhos,62,CCS,2024,7
+510,11A0113,Oliveira de Azeméis,4,CCS,2024,7
+511,11A1310,Paredes,11,CCS,2024,7
+512,11A1312,Porto,79,CCS,2024,7
+513,11A1313,Póvoa de Varzim,23,CCS,2024,7
+514,11A0109,Santa Maria da Feira,32,CCS,2024,7
+515,11A1314,Santo Tirso,15,CCS,2024,7
+516,11A0116,São João da Madeira,6,CCS,2024,7
+517,11A1318,Trofa,8,CCS,2024,7
+518,11A0119,Vale de Cambra,3,CCS,2024,7
+519,11A1315,Valongo,29,CCS,2024,7
+520,11A1316,Vila do Conde,19,CCS,2024,7
+521,11A1317,Vila Nova de Gaia,69,CCS,2024,7
+522,11A,Área Metropolitana do Porto,,Industrial,2024,7
+523,11A0104,Arouca,,Industrial,2024,7
+524,11A0107,Espinho,,Industrial,2024,7
+525,11A1304,Gondomar,,Industrial,2024,7
+526,11A1306,Maia,,Industrial,2024,7
+527,11A1308,Matosinhos,,Industrial,2024,7
+528,11A0113,Oliveira de Azeméis,,Industrial,2024,7
+529,11A1310,Paredes,,Industrial,2024,7
+530,11A1312,Porto,,Industrial,2024,7
+531,11A1313,Póvoa de Varzim,,Industrial,2024,7
+532,11A0109,Santa Maria da Feira,,Industrial,2024,7
+533,11A1314,Santo Tirso,,Industrial,2024,7
+534,11A0116,São João da Madeira,,Industrial,2024,7
+535,11A1318,Trofa,,Industrial,2024,7
+536,11A0119,Vale de Cambra,,Industrial,2024,7
+537,11A1315,Valongo,,Industrial,2024,7
+538,11A1316,Vila do Conde,,Industrial,2024,7
+539,11A1317,Vila Nova de Gaia,,Industrial,2024,7
+540,11A,Área Metropolitana do Porto,2038,Total,2024,6
+541,11A0104,Arouca,9,Total,2024,6
+542,11A0107,Espinho,24,Total,2024,6
+543,11A1304,Gondomar,96,Total,2024,6
+544,11A1306,Maia,158,Total,2024,6
+545,11A1308,Matosinhos,327,Total,2024,6
+546,11A0113,Oliveira de Azeméis,16,Total,2024,6
+547,11A1310,Paredes,46,Total,2024,6
+548,11A1312,Porto,489,Total,2024,6
+549,11A1313,Póvoa de Varzim,83,Total,2024,6
+550,11A0109,Santa Maria da Feira,166,Total,2024,6
+551,11A1314,Santo Tirso,51,Total,2024,6
+552,11A0116,São João da Madeira,28,Total,2024,6
+553,11A1318,Trofa,31,Total,2024,6
+554,11A0119,Vale de Cambra,12,Total,2024,6
+555,11A1315,Valongo,94,Total,2024,6
+556,11A1316,Vila do Conde,81,Total,2024,6
+557,11A1317,Vila Nova de Gaia,327,Total,2024,6
+558,11A,Área Metropolitana do Porto,1335,Mennekes,2024,6
+559,11A0104,Arouca,7,Mennekes,2024,6
+560,11A0107,Espinho,16,Mennekes,2024,6
+561,11A1304,Gondomar,57,Mennekes,2024,6
+562,11A1306,Maia,113,Mennekes,2024,6
+563,11A1308,Matosinhos,229,Mennekes,2024,6
+564,11A0113,Oliveira de Azeméis,9,Mennekes,2024,6
+565,11A1310,Paredes,25,Mennekes,2024,6
+566,11A1312,Porto,346,Mennekes,2024,6
+567,11A1313,Póvoa de Varzim,48,Mennekes,2024,6
+568,11A0109,Santa Maria da Feira,118,Mennekes,2024,6
+569,11A1314,Santo Tirso,23,Mennekes,2024,6
+570,11A0116,São João da Madeira,18,Mennekes,2024,6
+571,11A1318,Trofa,15,Mennekes,2024,6
+572,11A0119,Vale de Cambra,5,Mennekes,2024,6
+573,11A1315,Valongo,45,Mennekes,2024,6
+574,11A1316,Vila do Conde,53,Mennekes,2024,6
+575,11A1317,Vila Nova de Gaia,208,Mennekes,2024,6
+576,11A,Área Metropolitana do Porto,293,CHAdeMO,2024,6
+577,11A0104,Arouca,1,CHAdeMO,2024,6
+578,11A0107,Espinho,4,CHAdeMO,2024,6
+579,11A1304,Gondomar,15,CHAdeMO,2024,6
+580,11A1306,Maia,18,CHAdeMO,2024,6
+581,11A1308,Matosinhos,36,CHAdeMO,2024,6
+582,11A0113,Oliveira de Azeméis,3,CHAdeMO,2024,6
+583,11A1310,Paredes,10,CHAdeMO,2024,6
+584,11A1312,Porto,66,CHAdeMO,2024,6
+585,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,6
+586,11A0109,Santa Maria da Feira,18,CHAdeMO,2024,6
+587,11A1314,Santo Tirso,13,CHAdeMO,2024,6
+588,11A0116,São João da Madeira,4,CHAdeMO,2024,6
+589,11A1318,Trofa,8,CHAdeMO,2024,6
+590,11A0119,Vale de Cambra,4,CHAdeMO,2024,6
+591,11A1315,Valongo,20,CHAdeMO,2024,6
+592,11A1316,Vila do Conde,9,CHAdeMO,2024,6
+593,11A1317,Vila Nova de Gaia,52,CHAdeMO,2024,6
+594,11A,Área Metropolitana do Porto,410,CCS,2024,6
+595,11A0104,Arouca,1,CCS,2024,6
+596,11A0107,Espinho,4,CCS,2024,6
+597,11A1304,Gondomar,24,CCS,2024,6
+598,11A1306,Maia,27,CCS,2024,6
+599,11A1308,Matosinhos,62,CCS,2024,6
+600,11A0113,Oliveira de Azeméis,4,CCS,2024,6
+601,11A1310,Paredes,11,CCS,2024,6
+602,11A1312,Porto,77,CCS,2024,6
+603,11A1313,Póvoa de Varzim,23,CCS,2024,6
+604,11A0109,Santa Maria da Feira,30,CCS,2024,6
+605,11A1314,Santo Tirso,15,CCS,2024,6
+606,11A0116,São João da Madeira,6,CCS,2024,6
+607,11A1318,Trofa,8,CCS,2024,6
+608,11A0119,Vale de Cambra,3,CCS,2024,6
+609,11A1315,Valongo,29,CCS,2024,6
+610,11A1316,Vila do Conde,19,CCS,2024,6
+611,11A1317,Vila Nova de Gaia,67,CCS,2024,6
+612,11A,Área Metropolitana do Porto,,Industrial,2024,6
+613,11A0104,Arouca,,Industrial,2024,6
+614,11A0107,Espinho,,Industrial,2024,6
+615,11A1304,Gondomar,,Industrial,2024,6
+616,11A1306,Maia,,Industrial,2024,6
+617,11A1308,Matosinhos,,Industrial,2024,6
+618,11A0113,Oliveira de Azeméis,,Industrial,2024,6
+619,11A1310,Paredes,,Industrial,2024,6
+620,11A1312,Porto,,Industrial,2024,6
+621,11A1313,Póvoa de Varzim,,Industrial,2024,6
+622,11A0109,Santa Maria da Feira,,Industrial,2024,6
+623,11A1314,Santo Tirso,,Industrial,2024,6
+624,11A0116,São João da Madeira,,Industrial,2024,6
+625,11A1318,Trofa,,Industrial,2024,6
+626,11A0119,Vale de Cambra,,Industrial,2024,6
+627,11A1315,Valongo,,Industrial,2024,6
+628,11A1316,Vila do Conde,,Industrial,2024,6
+629,11A1317,Vila Nova de Gaia,,Industrial,2024,6
+630,11A,Área Metropolitana do Porto,2019,Total,2024,5
+631,11A0104,Arouca,9,Total,2024,5
+632,11A0107,Espinho,23,Total,2024,5
+633,11A1304,Gondomar,96,Total,2024,5
+634,11A1306,Maia,158,Total,2024,5
+635,11A1308,Matosinhos,324,Total,2024,5
+636,11A0113,Oliveira de Azeméis,15,Total,2024,5
+637,11A1310,Paredes,46,Total,2024,5
+638,11A1312,Porto,487,Total,2024,5
+639,11A1313,Póvoa de Varzim,80,Total,2024,5
+640,11A0109,Santa Maria da Feira,165,Total,2024,5
+641,11A1314,Santo Tirso,51,Total,2024,5
+642,11A0116,São João da Madeira,28,Total,2024,5
+643,11A1318,Trofa,31,Total,2024,5
+644,11A0119,Vale de Cambra,12,Total,2024,5
+645,11A1315,Valongo,92,Total,2024,5
+646,11A1316,Vila do Conde,81,Total,2024,5
+647,11A1317,Vila Nova de Gaia,321,Total,2024,5
+648,11A,Área Metropolitana do Porto,1322,Mennekes,2024,5
+649,11A0104,Arouca,7,Mennekes,2024,5
+650,11A0107,Espinho,15,Mennekes,2024,5
+651,11A1304,Gondomar,57,Mennekes,2024,5
+652,11A1306,Maia,113,Mennekes,2024,5
+653,11A1308,Matosinhos,226,Mennekes,2024,5
+654,11A0113,Oliveira de Azeméis,8,Mennekes,2024,5
+655,11A1310,Paredes,25,Mennekes,2024,5
+656,11A1312,Porto,344,Mennekes,2024,5
+657,11A1313,Póvoa de Varzim,47,Mennekes,2024,5
+658,11A0109,Santa Maria da Feira,117,Mennekes,2024,5
+659,11A1314,Santo Tirso,23,Mennekes,2024,5
+660,11A0116,São João da Madeira,18,Mennekes,2024,5
+661,11A1318,Trofa,15,Mennekes,2024,5
+662,11A0119,Vale de Cambra,5,Mennekes,2024,5
+663,11A1315,Valongo,43,Mennekes,2024,5
+664,11A1316,Vila do Conde,53,Mennekes,2024,5
+665,11A1317,Vila Nova de Gaia,206,Mennekes,2024,5
+666,11A,Área Metropolitana do Porto,291,CHAdeMO,2024,5
+667,11A0104,Arouca,1,CHAdeMO,2024,5
+668,11A0107,Espinho,4,CHAdeMO,2024,5
+669,11A1304,Gondomar,15,CHAdeMO,2024,5
+670,11A1306,Maia,18,CHAdeMO,2024,5
+671,11A1308,Matosinhos,36,CHAdeMO,2024,5
+672,11A0113,Oliveira de Azeméis,3,CHAdeMO,2024,5
+673,11A1310,Paredes,10,CHAdeMO,2024,5
+674,11A1312,Porto,66,CHAdeMO,2024,5
+675,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,5
+676,11A0109,Santa Maria da Feira,18,CHAdeMO,2024,5
+677,11A1314,Santo Tirso,13,CHAdeMO,2024,5
+678,11A0116,São João da Madeira,4,CHAdeMO,2024,5
+679,11A1318,Trofa,8,CHAdeMO,2024,5
+680,11A0119,Vale de Cambra,4,CHAdeMO,2024,5
+681,11A1315,Valongo,20,CHAdeMO,2024,5
+682,11A1316,Vila do Conde,9,CHAdeMO,2024,5
+683,11A1317,Vila Nova de Gaia,50,CHAdeMO,2024,5
+684,11A,Área Metropolitana do Porto,406,CCS,2024,5
+685,11A0104,Arouca,1,CCS,2024,5
+686,11A0107,Espinho,4,CCS,2024,5
+687,11A1304,Gondomar,24,CCS,2024,5
+688,11A1306,Maia,27,CCS,2024,5
+689,11A1308,Matosinhos,62,CCS,2024,5
+690,11A0113,Oliveira de Azeméis,4,CCS,2024,5
+691,11A1310,Paredes,11,CCS,2024,5
+692,11A1312,Porto,77,CCS,2024,5
+693,11A1313,Póvoa de Varzim,21,CCS,2024,5
+694,11A0109,Santa Maria da Feira,30,CCS,2024,5
+695,11A1314,Santo Tirso,15,CCS,2024,5
+696,11A0116,São João da Madeira,6,CCS,2024,5
+697,11A1318,Trofa,8,CCS,2024,5
+698,11A0119,Vale de Cambra,3,CCS,2024,5
+699,11A1315,Valongo,29,CCS,2024,5
+700,11A1316,Vila do Conde,19,CCS,2024,5
+701,11A1317,Vila Nova de Gaia,65,CCS,2024,5
+702,11A,Área Metropolitana do Porto,,Industrial,2024,5
+703,11A0104,Arouca,,Industrial,2024,5
+704,11A0107,Espinho,,Industrial,2024,5
+705,11A1304,Gondomar,,Industrial,2024,5
+706,11A1306,Maia,,Industrial,2024,5
+707,11A1308,Matosinhos,,Industrial,2024,5
+708,11A0113,Oliveira de Azeméis,,Industrial,2024,5
+709,11A1310,Paredes,,Industrial,2024,5
+710,11A1312,Porto,,Industrial,2024,5
+711,11A1313,Póvoa de Varzim,,Industrial,2024,5
+712,11A0109,Santa Maria da Feira,,Industrial,2024,5
+713,11A1314,Santo Tirso,,Industrial,2024,5
+714,11A0116,São João da Madeira,,Industrial,2024,5
+715,11A1318,Trofa,,Industrial,2024,5
+716,11A0119,Vale de Cambra,,Industrial,2024,5
+717,11A1315,Valongo,,Industrial,2024,5
+718,11A1316,Vila do Conde,,Industrial,2024,5
+719,11A1317,Vila Nova de Gaia,,Industrial,2024,5
+720,11A,Área Metropolitana do Porto,1950,Total,2024,4
+721,11A0104,Arouca,9,Total,2024,4
+722,11A0107,Espinho,22,Total,2024,4
+723,11A1304,Gondomar,95,Total,2024,4
+724,11A1306,Maia,155,Total,2024,4
+725,11A1308,Matosinhos,302,Total,2024,4
+726,11A0113,Oliveira de Azeméis,12,Total,2024,4
+727,11A1310,Paredes,43,Total,2024,4
+728,11A1312,Porto,476,Total,2024,4
+729,11A1313,Póvoa de Varzim,73,Total,2024,4
+730,11A0109,Santa Maria da Feira,162,Total,2024,4
+731,11A1314,Santo Tirso,51,Total,2024,4
+732,11A0116,São João da Madeira,28,Total,2024,4
+733,11A1318,Trofa,29,Total,2024,4
+734,11A0119,Vale de Cambra,12,Total,2024,4
+735,11A1315,Valongo,92,Total,2024,4
+736,11A1316,Vila do Conde,75,Total,2024,4
+737,11A1317,Vila Nova de Gaia,314,Total,2024,4
+738,11A,Área Metropolitana do Porto,1265,Mennekes,2024,4
+739,11A0104,Arouca,7,Mennekes,2024,4
+740,11A0107,Espinho,14,Mennekes,2024,4
+741,11A1304,Gondomar,56,Mennekes,2024,4
+742,11A1306,Maia,113,Mennekes,2024,4
+743,11A1308,Matosinhos,206,Mennekes,2024,4
+744,11A0113,Oliveira de Azeméis,8,Mennekes,2024,4
+745,11A1310,Paredes,24,Mennekes,2024,4
+746,11A1312,Porto,334,Mennekes,2024,4
+747,11A1313,Póvoa de Varzim,40,Mennekes,2024,4
+748,11A0109,Santa Maria da Feira,114,Mennekes,2024,4
+749,11A1314,Santo Tirso,23,Mennekes,2024,4
+750,11A0116,São João da Madeira,18,Mennekes,2024,4
+751,11A1318,Trofa,13,Mennekes,2024,4
+752,11A0119,Vale de Cambra,5,Mennekes,2024,4
+753,11A1315,Valongo,43,Mennekes,2024,4
+754,11A1316,Vila do Conde,47,Mennekes,2024,4
+755,11A1317,Vila Nova de Gaia,200,Mennekes,2024,4
+756,11A,Área Metropolitana do Porto,287,CHAdeMO,2024,4
+757,11A0104,Arouca,1,CHAdeMO,2024,4
+758,11A0107,Espinho,4,CHAdeMO,2024,4
+759,11A1304,Gondomar,15,CHAdeMO,2024,4
+760,11A1306,Maia,17,CHAdeMO,2024,4
+761,11A1308,Matosinhos,35,CHAdeMO,2024,4
+762,11A0113,Oliveira de Azeméis,2,CHAdeMO,2024,4
+763,11A1310,Paredes,9,CHAdeMO,2024,4
+764,11A1312,Porto,66,CHAdeMO,2024,4
+765,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,4
+766,11A0109,Santa Maria da Feira,18,CHAdeMO,2024,4
+767,11A1314,Santo Tirso,13,CHAdeMO,2024,4
+768,11A0116,São João da Madeira,4,CHAdeMO,2024,4
+769,11A1318,Trofa,8,CHAdeMO,2024,4
+770,11A0119,Vale de Cambra,4,CHAdeMO,2024,4
+771,11A1315,Valongo,20,CHAdeMO,2024,4
+772,11A1316,Vila do Conde,9,CHAdeMO,2024,4
+773,11A1317,Vila Nova de Gaia,50,CHAdeMO,2024,4
+774,11A,Área Metropolitana do Porto,398,CCS,2024,4
+775,11A0104,Arouca,1,CCS,2024,4
+776,11A0107,Espinho,4,CCS,2024,4
+777,11A1304,Gondomar,24,CCS,2024,4
+778,11A1306,Maia,25,CCS,2024,4
+779,11A1308,Matosinhos,61,CCS,2024,4
+780,11A0113,Oliveira de Azeméis,2,CCS,2024,4
+781,11A1310,Paredes,10,CCS,2024,4
+782,11A1312,Porto,76,CCS,2024,4
+783,11A1313,Póvoa de Varzim,21,CCS,2024,4
+784,11A0109,Santa Maria da Feira,30,CCS,2024,4
+785,11A1314,Santo Tirso,15,CCS,2024,4
+786,11A0116,São João da Madeira,6,CCS,2024,4
+787,11A1318,Trofa,8,CCS,2024,4
+788,11A0119,Vale de Cambra,3,CCS,2024,4
+789,11A1315,Valongo,29,CCS,2024,4
+790,11A1316,Vila do Conde,19,CCS,2024,4
+791,11A1317,Vila Nova de Gaia,64,CCS,2024,4
+792,11A,Área Metropolitana do Porto,,Industrial,2024,4
+793,11A0104,Arouca,,Industrial,2024,4
+794,11A0107,Espinho,,Industrial,2024,4
+795,11A1304,Gondomar,,Industrial,2024,4
+796,11A1306,Maia,,Industrial,2024,4
+797,11A1308,Matosinhos,,Industrial,2024,4
+798,11A0113,Oliveira de Azeméis,,Industrial,2024,4
+799,11A1310,Paredes,,Industrial,2024,4
+800,11A1312,Porto,,Industrial,2024,4
+801,11A1313,Póvoa de Varzim,,Industrial,2024,4
+802,11A0109,Santa Maria da Feira,,Industrial,2024,4
+803,11A1314,Santo Tirso,,Industrial,2024,4
+804,11A0116,São João da Madeira,,Industrial,2024,4
+805,11A1318,Trofa,,Industrial,2024,4
+806,11A0119,Vale de Cambra,,Industrial,2024,4
+807,11A1315,Valongo,,Industrial,2024,4
+808,11A1316,Vila do Conde,,Industrial,2024,4
+809,11A1317,Vila Nova de Gaia,,Industrial,2024,4
+810,11A,Área Metropolitana do Porto,1887,Total,2024,3
+811,11A0104,Arouca,9,Total,2024,3
+812,11A0107,Espinho,21,Total,2024,3
+813,11A1304,Gondomar,92,Total,2024,3
+814,11A1306,Maia,147,Total,2024,3
+815,11A1308,Matosinhos,293,Total,2024,3
+816,11A0113,Oliveira de Azeméis,9,Total,2024,3
+817,11A1310,Paredes,42,Total,2024,3
+818,11A1312,Porto,463,Total,2024,3
+819,11A1313,Póvoa de Varzim,73,Total,2024,3
+820,11A0109,Santa Maria da Feira,159,Total,2024,3
+821,11A1314,Santo Tirso,51,Total,2024,3
+822,11A0116,São João da Madeira,28,Total,2024,3
+823,11A1318,Trofa,29,Total,2024,3
+824,11A0119,Vale de Cambra,12,Total,2024,3
+825,11A1315,Valongo,86,Total,2024,3
+826,11A1316,Vila do Conde,68,Total,2024,3
+827,11A1317,Vila Nova de Gaia,305,Total,2024,3
+828,11A,Área Metropolitana do Porto,1214,Mennekes,2024,3
+829,11A0104,Arouca,7,Mennekes,2024,3
+830,11A0107,Espinho,13,Mennekes,2024,3
+831,11A1304,Gondomar,54,Mennekes,2024,3
+832,11A1306,Maia,107,Mennekes,2024,3
+833,11A1308,Matosinhos,197,Mennekes,2024,3
+834,11A0113,Oliveira de Azeméis,7,Mennekes,2024,3
+835,11A1310,Paredes,23,Mennekes,2024,3
+836,11A1312,Porto,324,Mennekes,2024,3
+837,11A1313,Póvoa de Varzim,40,Mennekes,2024,3
+838,11A0109,Santa Maria da Feira,111,Mennekes,2024,3
+839,11A1314,Santo Tirso,23,Mennekes,2024,3
+840,11A0116,São João da Madeira,18,Mennekes,2024,3
+841,11A1318,Trofa,13,Mennekes,2024,3
+842,11A0119,Vale de Cambra,5,Mennekes,2024,3
+843,11A1315,Valongo,41,Mennekes,2024,3
+844,11A1316,Vila do Conde,40,Mennekes,2024,3
+845,11A1317,Vila Nova de Gaia,191,Mennekes,2024,3
+846,11A,Área Metropolitana do Porto,283,CHAdeMO,2024,3
+847,11A0104,Arouca,1,CHAdeMO,2024,3
+848,11A0107,Espinho,4,CHAdeMO,2024,3
+849,11A1304,Gondomar,15,CHAdeMO,2024,3
+850,11A1306,Maia,16,CHAdeMO,2024,3
+851,11A1308,Matosinhos,35,CHAdeMO,2024,3
+852,11A0113,Oliveira de Azeméis,1,CHAdeMO,2024,3
+853,11A1310,Paredes,9,CHAdeMO,2024,3
+854,11A1312,Porto,65,CHAdeMO,2024,3
+855,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,3
+856,11A0109,Santa Maria da Feira,18,CHAdeMO,2024,3
+857,11A1314,Santo Tirso,13,CHAdeMO,2024,3
+858,11A0116,São João da Madeira,4,CHAdeMO,2024,3
+859,11A1318,Trofa,8,CHAdeMO,2024,3
+860,11A0119,Vale de Cambra,4,CHAdeMO,2024,3
+861,11A1315,Valongo,19,CHAdeMO,2024,3
+862,11A1316,Vila do Conde,9,CHAdeMO,2024,3
+863,11A1317,Vila Nova de Gaia,50,CHAdeMO,2024,3
+864,11A,Área Metropolitana do Porto,390,CCS,2024,3
+865,11A0104,Arouca,1,CCS,2024,3
+866,11A0107,Espinho,4,CCS,2024,3
+867,11A1304,Gondomar,23,CCS,2024,3
+868,11A1306,Maia,24,CCS,2024,3
+869,11A1308,Matosinhos,61,CCS,2024,3
+870,11A0113,Oliveira de Azeméis,1,CCS,2024,3
+871,11A1310,Paredes,10,CCS,2024,3
+872,11A1312,Porto,74,CCS,2024,3
+873,11A1313,Póvoa de Varzim,21,CCS,2024,3
+874,11A0109,Santa Maria da Feira,30,CCS,2024,3
+875,11A1314,Santo Tirso,15,CCS,2024,3
+876,11A0116,São João da Madeira,6,CCS,2024,3
+877,11A1318,Trofa,8,CCS,2024,3
+878,11A0119,Vale de Cambra,3,CCS,2024,3
+879,11A1315,Valongo,26,CCS,2024,3
+880,11A1316,Vila do Conde,19,CCS,2024,3
+881,11A1317,Vila Nova de Gaia,64,CCS,2024,3
+882,11A,Área Metropolitana do Porto,,Industrial,2024,3
+883,11A0104,Arouca,,Industrial,2024,3
+884,11A0107,Espinho,,Industrial,2024,3
+885,11A1304,Gondomar,,Industrial,2024,3
+886,11A1306,Maia,,Industrial,2024,3
+887,11A1308,Matosinhos,,Industrial,2024,3
+888,11A0113,Oliveira de Azeméis,,Industrial,2024,3
+889,11A1310,Paredes,,Industrial,2024,3
+890,11A1312,Porto,,Industrial,2024,3
+891,11A1313,Póvoa de Varzim,,Industrial,2024,3
+892,11A0109,Santa Maria da Feira,,Industrial,2024,3
+893,11A1314,Santo Tirso,,Industrial,2024,3
+894,11A0116,São João da Madeira,,Industrial,2024,3
+895,11A1318,Trofa,,Industrial,2024,3
+896,11A0119,Vale de Cambra,,Industrial,2024,3
+897,11A1315,Valongo,,Industrial,2024,3
+898,11A1316,Vila do Conde,,Industrial,2024,3
+899,11A1317,Vila Nova de Gaia,,Industrial,2024,3
+900,11A,Área Metropolitana do Porto,1865,Total,2024,2
+901,11A0104,Arouca,9,Total,2024,2
+902,11A0107,Espinho,21,Total,2024,2
+903,11A1304,Gondomar,97,Total,2024,2
+904,11A1306,Maia,145,Total,2024,2
+905,11A1308,Matosinhos,295,Total,2024,2
+906,11A0113,Oliveira de Azeméis,9,Total,2024,2
+907,11A1310,Paredes,42,Total,2024,2
+908,11A1312,Porto,459,Total,2024,2
+909,11A1313,Póvoa de Varzim,73,Total,2024,2
+910,11A0109,Santa Maria da Feira,159,Total,2024,2
+911,11A1314,Santo Tirso,47,Total,2024,2
+912,11A0116,São João da Madeira,26,Total,2024,2
+913,11A1318,Trofa,29,Total,2024,2
+914,11A0119,Vale de Cambra,12,Total,2024,2
+915,11A1315,Valongo,79,Total,2024,2
+916,11A1316,Vila do Conde,65,Total,2024,2
+917,11A1317,Vila Nova de Gaia,298,Total,2024,2
+918,11A,Área Metropolitana do Porto,1194,Mennekes,2024,2
+919,11A0104,Arouca,7,Mennekes,2024,2
+920,11A0107,Espinho,13,Mennekes,2024,2
+921,11A1304,Gondomar,55,Mennekes,2024,2
+922,11A1306,Maia,105,Mennekes,2024,2
+923,11A1308,Matosinhos,199,Mennekes,2024,2
+924,11A0113,Oliveira de Azeméis,7,Mennekes,2024,2
+925,11A1310,Paredes,23,Mennekes,2024,2
+926,11A1312,Porto,317,Mennekes,2024,2
+927,11A1313,Póvoa de Varzim,40,Mennekes,2024,2
+928,11A0109,Santa Maria da Feira,111,Mennekes,2024,2
+929,11A1314,Santo Tirso,22,Mennekes,2024,2
+930,11A0116,São João da Madeira,16,Mennekes,2024,2
+931,11A1318,Trofa,13,Mennekes,2024,2
+932,11A0119,Vale de Cambra,5,Mennekes,2024,2
+933,11A1315,Valongo,36,Mennekes,2024,2
+934,11A1316,Vila do Conde,39,Mennekes,2024,2
+935,11A1317,Vila Nova de Gaia,186,Mennekes,2024,2
+936,11A,Área Metropolitana do Porto,282,CHAdeMO,2024,2
+937,11A0104,Arouca,1,CHAdeMO,2024,2
+938,11A0107,Espinho,4,CHAdeMO,2024,2
+939,11A1304,Gondomar,17,CHAdeMO,2024,2
+940,11A1306,Maia,16,CHAdeMO,2024,2
+941,11A1308,Matosinhos,35,CHAdeMO,2024,2
+942,11A0113,Oliveira de Azeméis,1,CHAdeMO,2024,2
+943,11A1310,Paredes,9,CHAdeMO,2024,2
+944,11A1312,Porto,66,CHAdeMO,2024,2
+945,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,2
+946,11A0109,Santa Maria da Feira,18,CHAdeMO,2024,2
+947,11A1314,Santo Tirso,12,CHAdeMO,2024,2
+948,11A0116,São João da Madeira,4,CHAdeMO,2024,2
+949,11A1318,Trofa,8,CHAdeMO,2024,2
+950,11A0119,Vale de Cambra,4,CHAdeMO,2024,2
+951,11A1315,Valongo,18,CHAdeMO,2024,2
+952,11A1316,Vila do Conde,8,CHAdeMO,2024,2
+953,11A1317,Vila Nova de Gaia,49,CHAdeMO,2024,2
+954,11A,Área Metropolitana do Porto,389,CCS,2024,2
+955,11A0104,Arouca,1,CCS,2024,2
+956,11A0107,Espinho,4,CCS,2024,2
+957,11A1304,Gondomar,25,CCS,2024,2
+958,11A1306,Maia,24,CCS,2024,2
+959,11A1308,Matosinhos,61,CCS,2024,2
+960,11A0113,Oliveira de Azeméis,1,CCS,2024,2
+961,11A1310,Paredes,10,CCS,2024,2
+962,11A1312,Porto,76,CCS,2024,2
+963,11A1313,Póvoa de Varzim,21,CCS,2024,2
+964,11A0109,Santa Maria da Feira,30,CCS,2024,2
+965,11A1314,Santo Tirso,13,CCS,2024,2
+966,11A0116,São João da Madeira,6,CCS,2024,2
+967,11A1318,Trofa,8,CCS,2024,2
+968,11A0119,Vale de Cambra,3,CCS,2024,2
+969,11A1315,Valongo,25,CCS,2024,2
+970,11A1316,Vila do Conde,18,CCS,2024,2
+971,11A1317,Vila Nova de Gaia,63,CCS,2024,2
+972,11A,Área Metropolitana do Porto,,Industrial,2024,2
+973,11A0104,Arouca,,Industrial,2024,2
+974,11A0107,Espinho,,Industrial,2024,2
+975,11A1304,Gondomar,,Industrial,2024,2
+976,11A1306,Maia,,Industrial,2024,2
+977,11A1308,Matosinhos,,Industrial,2024,2
+978,11A0113,Oliveira de Azeméis,,Industrial,2024,2
+979,11A1310,Paredes,,Industrial,2024,2
+980,11A1312,Porto,,Industrial,2024,2
+981,11A1313,Póvoa de Varzim,,Industrial,2024,2
+982,11A0109,Santa Maria da Feira,,Industrial,2024,2
+983,11A1314,Santo Tirso,,Industrial,2024,2
+984,11A0116,São João da Madeira,,Industrial,2024,2
+985,11A1318,Trofa,,Industrial,2024,2
+986,11A0119,Vale de Cambra,,Industrial,2024,2
+987,11A1315,Valongo,,Industrial,2024,2
+988,11A1316,Vila do Conde,,Industrial,2024,2
+989,11A1317,Vila Nova de Gaia,,Industrial,2024,2
+990,11A,Área Metropolitana do Porto,1802,Total,2024,1
+991,11A0104,Arouca,9,Total,2024,1
+992,11A0107,Espinho,24,Total,2024,1
+993,11A1304,Gondomar,96,Total,2024,1
+994,11A1306,Maia,143,Total,2024,1
+995,11A1308,Matosinhos,281,Total,2024,1
+996,11A0113,Oliveira de Azeméis,9,Total,2024,1
+997,11A1310,Paredes,42,Total,2024,1
+998,11A1312,Porto,448,Total,2024,1
+999,11A1313,Póvoa de Varzim,72,Total,2024,1
+1000,11A0109,Santa Maria da Feira,157,Total,2024,1
+1001,11A1314,Santo Tirso,44,Total,2024,1
+1002,11A0116,São João da Madeira,29,Total,2024,1
+1003,11A1318,Trofa,27,Total,2024,1
+1004,11A0119,Vale de Cambra,12,Total,2024,1
+1005,11A1315,Valongo,74,Total,2024,1
+1006,11A1316,Vila do Conde,45,Total,2024,1
+1007,11A1317,Vila Nova de Gaia,290,Total,2024,1
+1008,11A,Área Metropolitana do Porto,1151,Mennekes,2024,1
+1009,11A0104,Arouca,7,Mennekes,2024,1
+1010,11A0107,Espinho,14,Mennekes,2024,1
+1011,11A1304,Gondomar,54,Mennekes,2024,1
+1012,11A1306,Maia,103,Mennekes,2024,1
+1013,11A1308,Matosinhos,193,Mennekes,2024,1
+1014,11A0113,Oliveira de Azeméis,7,Mennekes,2024,1
+1015,11A1310,Paredes,22,Mennekes,2024,1
+1016,11A1312,Porto,311,Mennekes,2024,1
+1017,11A1313,Póvoa de Varzim,39,Mennekes,2024,1
+1018,11A0109,Santa Maria da Feira,109,Mennekes,2024,1
+1019,11A1314,Santo Tirso,19,Mennekes,2024,1
+1020,11A0116,São João da Madeira,17,Mennekes,2024,1
+1021,11A1318,Trofa,11,Mennekes,2024,1
+1022,11A0119,Vale de Cambra,5,Mennekes,2024,1
+1023,11A1315,Valongo,33,Mennekes,2024,1
+1024,11A1316,Vila do Conde,23,Mennekes,2024,1
+1025,11A1317,Vila Nova de Gaia,184,Mennekes,2024,1
+1026,11A,Área Metropolitana do Porto,275,CHAdeMO,2024,1
+1027,11A0104,Arouca,1,CHAdeMO,2024,1
+1028,11A0107,Espinho,5,CHAdeMO,2024,1
+1029,11A1304,Gondomar,17,CHAdeMO,2024,1
+1030,11A1306,Maia,16,CHAdeMO,2024,1
+1031,11A1308,Matosinhos,31,CHAdeMO,2024,1
+1032,11A0113,Oliveira de Azeméis,1,CHAdeMO,2024,1
+1033,11A1310,Paredes,10,CHAdeMO,2024,1
+1034,11A1312,Porto,64,CHAdeMO,2024,1
+1035,11A1313,Póvoa de Varzim,12,CHAdeMO,2024,1
+1036,11A0109,Santa Maria da Feira,18,CHAdeMO,2024,1
+1037,11A1314,Santo Tirso,12,CHAdeMO,2024,1
+1038,11A0116,São João da Madeira,5,CHAdeMO,2024,1
+1039,11A1318,Trofa,8,CHAdeMO,2024,1
+1040,11A0119,Vale de Cambra,4,CHAdeMO,2024,1
+1041,11A1315,Valongo,18,CHAdeMO,2024,1
+1042,11A1316,Vila do Conde,7,CHAdeMO,2024,1
+1043,11A1317,Vila Nova de Gaia,46,CHAdeMO,2024,1
+1044,11A,Área Metropolitana do Porto,376,CCS,2024,1
+1045,11A0104,Arouca,1,CCS,2024,1
+1046,11A0107,Espinho,5,CCS,2024,1
+1047,11A1304,Gondomar,25,CCS,2024,1
+1048,11A1306,Maia,24,CCS,2024,1
+1049,11A1308,Matosinhos,57,CCS,2024,1
+1050,11A0113,Oliveira de Azeméis,1,CCS,2024,1
+1051,11A1310,Paredes,10,CCS,2024,1
+1052,11A1312,Porto,73,CCS,2024,1
+1053,11A1313,Póvoa de Varzim,21,CCS,2024,1
+1054,11A0109,Santa Maria da Feira,30,CCS,2024,1
+1055,11A1314,Santo Tirso,13,CCS,2024,1
+1056,11A0116,São João da Madeira,7,CCS,2024,1
+1057,11A1318,Trofa,8,CCS,2024,1
+1058,11A0119,Vale de Cambra,3,CCS,2024,1
+1059,11A1315,Valongo,23,CCS,2024,1
+1060,11A1316,Vila do Conde,15,CCS,2024,1
+1061,11A1317,Vila Nova de Gaia,60,CCS,2024,1
+1062,11A,Área Metropolitana do Porto,,Industrial,2024,1
+1063,11A0104,Arouca,,Industrial,2024,1
+1064,11A0107,Espinho,,Industrial,2024,1
+1065,11A1304,Gondomar,,Industrial,2024,1
+1066,11A1306,Maia,,Industrial,2024,1
+1067,11A1308,Matosinhos,,Industrial,2024,1
+1068,11A0113,Oliveira de Azeméis,,Industrial,2024,1
+1069,11A1310,Paredes,,Industrial,2024,1
+1070,11A1312,Porto,,Industrial,2024,1
+1071,11A1313,Póvoa de Varzim,,Industrial,2024,1
+1072,11A0109,Santa Maria da Feira,,Industrial,2024,1
+1073,11A1314,Santo Tirso,,Industrial,2024,1
+1074,11A0116,São João da Madeira,,Industrial,2024,1
+1075,11A1318,Trofa,,Industrial,2024,1
+1076,11A0119,Vale de Cambra,,Industrial,2024,1
+1077,11A1315,Valongo,,Industrial,2024,1
+1078,11A1316,Vila do Conde,,Industrial,2024,1
+1079,11A1317,Vila Nova de Gaia,,Industrial,2024,1
+1080,11A,Área Metropolitana do Porto,1738,Total,2023,12
+1081,11A0104,Arouca,9,Total,2023,12
+1082,11A0107,Espinho,22,Total,2023,12
+1083,11A1304,Gondomar,90,Total,2023,12
+1084,11A1306,Maia,137,Total,2023,12
+1085,11A1308,Matosinhos,282,Total,2023,12
+1086,11A0113,Oliveira de Azeméis,7,Total,2023,12
+1087,11A1310,Paredes,42,Total,2023,12
+1088,11A1312,Porto,434,Total,2023,12
+1089,11A1313,Póvoa de Varzim,57,Total,2023,12
+1090,11A0109,Santa Maria da Feira,155,Total,2023,12
+1091,11A1314,Santo Tirso,44,Total,2023,12
+1092,11A0116,São João da Madeira,29,Total,2023,12
+1093,11A1318,Trofa,26,Total,2023,12
+1094,11A0119,Vale de Cambra,14,Total,2023,12
+1095,11A1315,Valongo,73,Total,2023,12
+1096,11A1316,Vila do Conde,39,Total,2023,12
+1097,11A1317,Vila Nova de Gaia,278,Total,2023,12
+1098,11A,Área Metropolitana do Porto,1101,Mennekes,2023,12
+1099,11A0104,Arouca,7,Mennekes,2023,12
+1100,11A0107,Espinho,12,Mennekes,2023,12
+1101,11A1304,Gondomar,49,Mennekes,2023,12
+1102,11A1306,Maia,97,Mennekes,2023,12
+1103,11A1308,Matosinhos,188,Mennekes,2023,12
+1104,11A0113,Oliveira de Azeméis,5,Mennekes,2023,12
+1105,11A1310,Paredes,22,Mennekes,2023,12
+1106,11A1312,Porto,302,Mennekes,2023,12
+1107,11A1313,Póvoa de Varzim,34,Mennekes,2023,12
+1108,11A0109,Santa Maria da Feira,107,Mennekes,2023,12
+1109,11A1314,Santo Tirso,19,Mennekes,2023,12
+1110,11A0116,São João da Madeira,17,Mennekes,2023,12
+1111,11A1318,Trofa,10,Mennekes,2023,12
+1112,11A0119,Vale de Cambra,7,Mennekes,2023,12
+1113,11A1315,Valongo,32,Mennekes,2023,12
+1114,11A1316,Vila do Conde,19,Mennekes,2023,12
+1115,11A1317,Vila Nova de Gaia,174,Mennekes,2023,12
+1116,11A,Área Metropolitana do Porto,274,CHAdeMO,2023,12
+1117,11A0104,Arouca,1,CHAdeMO,2023,12
+1118,11A0107,Espinho,5,CHAdeMO,2023,12
+1119,11A1304,Gondomar,17,CHAdeMO,2023,12
+1120,11A1306,Maia,16,CHAdeMO,2023,12
+1121,11A1308,Matosinhos,35,CHAdeMO,2023,12
+1122,11A0113,Oliveira de Azeméis,1,CHAdeMO,2023,12
+1123,11A1310,Paredes,10,CHAdeMO,2023,12
+1124,11A1312,Porto,62,CHAdeMO,2023,12
+1125,11A1313,Póvoa de Varzim,11,CHAdeMO,2023,12
+1126,11A0109,Santa Maria da Feira,18,CHAdeMO,2023,12
+1127,11A1314,Santo Tirso,12,CHAdeMO,2023,12
+1128,11A0116,São João da Madeira,5,CHAdeMO,2023,12
+1129,11A1318,Trofa,8,CHAdeMO,2023,12
+1130,11A0119,Vale de Cambra,4,CHAdeMO,2023,12
+1131,11A1315,Valongo,18,CHAdeMO,2023,12
+1132,11A1316,Vila do Conde,6,CHAdeMO,2023,12
+1133,11A1317,Vila Nova de Gaia,45,CHAdeMO,2023,12
+1134,11A,Área Metropolitana do Porto,363,CCS,2023,12
+1135,11A0104,Arouca,1,CCS,2023,12
+1136,11A0107,Espinho,5,CCS,2023,12
+1137,11A1304,Gondomar,24,CCS,2023,12
+1138,11A1306,Maia,24,CCS,2023,12
+1139,11A1308,Matosinhos,59,CCS,2023,12
+1140,11A0113,Oliveira de Azeméis,1,CCS,2023,12
+1141,11A1310,Paredes,10,CCS,2023,12
+1142,11A1312,Porto,70,CCS,2023,12
+1143,11A1313,Póvoa de Varzim,12,CCS,2023,12
+1144,11A0109,Santa Maria da Feira,30,CCS,2023,12
+1145,11A1314,Santo Tirso,13,CCS,2023,12
+1146,11A0116,São João da Madeira,7,CCS,2023,12
+1147,11A1318,Trofa,8,CCS,2023,12
+1148,11A0119,Vale de Cambra,3,CCS,2023,12
+1149,11A1315,Valongo,23,CCS,2023,12
+1150,11A1316,Vila do Conde,14,CCS,2023,12
+1151,11A1317,Vila Nova de Gaia,59,CCS,2023,12
+1152,11A,Área Metropolitana do Porto,,Industrial,2023,12
+1153,11A0104,Arouca,,Industrial,2023,12
+1154,11A0107,Espinho,,Industrial,2023,12
+1155,11A1304,Gondomar,,Industrial,2023,12
+1156,11A1306,Maia,,Industrial,2023,12
+1157,11A1308,Matosinhos,,Industrial,2023,12
+1158,11A0113,Oliveira de Azeméis,,Industrial,2023,12
+1159,11A1310,Paredes,,Industrial,2023,12
+1160,11A1312,Porto,,Industrial,2023,12
+1161,11A1313,Póvoa de Varzim,,Industrial,2023,12
+1162,11A0109,Santa Maria da Feira,,Industrial,2023,12
+1163,11A1314,Santo Tirso,,Industrial,2023,12
+1164,11A0116,São João da Madeira,,Industrial,2023,12
+1165,11A1318,Trofa,,Industrial,2023,12
+1166,11A0119,Vale de Cambra,,Industrial,2023,12
+1167,11A1315,Valongo,,Industrial,2023,12
+1168,11A1316,Vila do Conde,,Industrial,2023,12
+1169,11A1317,Vila Nova de Gaia,,Industrial,2023,12
+1170,11A,Área Metropolitana do Porto,1644,Total,2023,11
+1171,11A0104,Arouca,9,Total,2023,11
+1172,11A0107,Espinho,19,Total,2023,11
+1173,11A1304,Gondomar,89,Total,2023,11
+1174,11A1306,Maia,120,Total,2023,11
+1175,11A1308,Matosinhos,266,Total,2023,11
+1176,11A0113,Oliveira de Azeméis,5,Total,2023,11
+1177,11A1310,Paredes,33,Total,2023,11
+1178,11A1312,Porto,431,Total,2023,11
+1179,11A1313,Póvoa de Varzim,55,Total,2023,11
+1180,11A0109,Santa Maria da Feira,136,Total,2023,11
+1181,11A1314,Santo Tirso,43,Total,2023,11
+1182,11A0116,São João da Madeira,29,Total,2023,11
+1183,11A1318,Trofa,22,Total,2023,11
+1184,11A0119,Vale de Cambra,12,Total,2023,11
+1185,11A1315,Valongo,73,Total,2023,11
+1186,11A1316,Vila do Conde,41,Total,2023,11
+1187,11A1317,Vila Nova de Gaia,261,Total,2023,11
+1188,11A,Área Metropolitana do Porto,1034,Mennekes,2023,11
+1189,11A0104,Arouca,7,Mennekes,2023,11
+1190,11A0107,Espinho,11,Mennekes,2023,11
+1191,11A1304,Gondomar,48,Mennekes,2023,11
+1192,11A1306,Maia,78,Mennekes,2023,11
+1193,11A1308,Matosinhos,178,Mennekes,2023,11
+1194,11A0113,Oliveira de Azeméis,5,Mennekes,2023,11
+1195,11A1310,Paredes,19,Mennekes,2023,11
+1196,11A1312,Porto,299,Mennekes,2023,11
+1197,11A1313,Póvoa de Varzim,32,Mennekes,2023,11
+1198,11A0109,Santa Maria da Feira,92,Mennekes,2023,11
+1199,11A1314,Santo Tirso,18,Mennekes,2023,11
+1200,11A0116,São João da Madeira,17,Mennekes,2023,11
+1201,11A1318,Trofa,10,Mennekes,2023,11
+1202,11A0119,Vale de Cambra,7,Mennekes,2023,11
+1203,11A1315,Valongo,32,Mennekes,2023,11
+1204,11A1316,Vila do Conde,20,Mennekes,2023,11
+1205,11A1317,Vila Nova de Gaia,161,Mennekes,2023,11
+1206,11A,Área Metropolitana do Porto,262,CHAdeMO,2023,11
+1207,11A0104,Arouca,1,CHAdeMO,2023,11
+1208,11A0107,Espinho,4,CHAdeMO,2023,11
+1209,11A1304,Gondomar,17,CHAdeMO,2023,11
+1210,11A1306,Maia,17,CHAdeMO,2023,11
+1211,11A1308,Matosinhos,33,CHAdeMO,2023,11
+1212,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,11
+1213,11A1310,Paredes,7,CHAdeMO,2023,11
+1214,11A1312,Porto,62,CHAdeMO,2023,11
+1215,11A1313,Póvoa de Varzim,11,CHAdeMO,2023,11
+1216,11A0109,Santa Maria da Feira,16,CHAdeMO,2023,11
+1217,11A1314,Santo Tirso,12,CHAdeMO,2023,11
+1218,11A0116,São João da Madeira,5,CHAdeMO,2023,11
+1219,11A1318,Trofa,6,CHAdeMO,2023,11
+1220,11A0119,Vale de Cambra,3,CHAdeMO,2023,11
+1221,11A1315,Valongo,18,CHAdeMO,2023,11
+1222,11A1316,Vila do Conde,7,CHAdeMO,2023,11
+1223,11A1317,Vila Nova de Gaia,43,CHAdeMO,2023,11
+1224,11A,Área Metropolitana do Porto,348,CCS,2023,11
+1225,11A0104,Arouca,1,CCS,2023,11
+1226,11A0107,Espinho,4,CCS,2023,11
+1227,11A1304,Gondomar,24,CCS,2023,11
+1228,11A1306,Maia,25,CCS,2023,11
+1229,11A1308,Matosinhos,55,CCS,2023,11
+1230,11A0113,Oliveira de Azeméis,,CCS,2023,11
+1231,11A1310,Paredes,7,CCS,2023,11
+1232,11A1312,Porto,70,CCS,2023,11
+1233,11A1313,Póvoa de Varzim,12,CCS,2023,11
+1234,11A0109,Santa Maria da Feira,28,CCS,2023,11
+1235,11A1314,Santo Tirso,13,CCS,2023,11
+1236,11A0116,São João da Madeira,7,CCS,2023,11
+1237,11A1318,Trofa,6,CCS,2023,11
+1238,11A0119,Vale de Cambra,2,CCS,2023,11
+1239,11A1315,Valongo,23,CCS,2023,11
+1240,11A1316,Vila do Conde,14,CCS,2023,11
+1241,11A1317,Vila Nova de Gaia,57,CCS,2023,11
+1242,11A,Área Metropolitana do Porto,,Industrial,2023,11
+1243,11A0104,Arouca,,Industrial,2023,11
+1244,11A0107,Espinho,,Industrial,2023,11
+1245,11A1304,Gondomar,,Industrial,2023,11
+1246,11A1306,Maia,,Industrial,2023,11
+1247,11A1308,Matosinhos,,Industrial,2023,11
+1248,11A0113,Oliveira de Azeméis,,Industrial,2023,11
+1249,11A1310,Paredes,,Industrial,2023,11
+1250,11A1312,Porto,,Industrial,2023,11
+1251,11A1313,Póvoa de Varzim,,Industrial,2023,11
+1252,11A0109,Santa Maria da Feira,,Industrial,2023,11
+1253,11A1314,Santo Tirso,,Industrial,2023,11
+1254,11A0116,São João da Madeira,,Industrial,2023,11
+1255,11A1318,Trofa,,Industrial,2023,11
+1256,11A0119,Vale de Cambra,,Industrial,2023,11
+1257,11A1315,Valongo,,Industrial,2023,11
+1258,11A1316,Vila do Conde,,Industrial,2023,11
+1259,11A1317,Vila Nova de Gaia,,Industrial,2023,11
+1260,11A,Área Metropolitana do Porto,1587,Total,2023,10
+1261,11A0104,Arouca,9,Total,2023,10
+1262,11A0107,Espinho,22,Total,2023,10
+1263,11A1304,Gondomar,79,Total,2023,10
+1264,11A1306,Maia,118,Total,2023,10
+1265,11A1308,Matosinhos,252,Total,2023,10
+1266,11A0113,Oliveira de Azeméis,4,Total,2023,10
+1267,11A1310,Paredes,33,Total,2023,10
+1268,11A1312,Porto,413,Total,2023,10
+1269,11A1313,Póvoa de Varzim,55,Total,2023,10
+1270,11A0109,Santa Maria da Feira,137,Total,2023,10
+1271,11A1314,Santo Tirso,42,Total,2023,10
+1272,11A0116,São João da Madeira,29,Total,2023,10
+1273,11A1318,Trofa,24,Total,2023,10
+1274,11A0119,Vale de Cambra,12,Total,2023,10
+1275,11A1315,Valongo,75,Total,2023,10
+1276,11A1316,Vila do Conde,35,Total,2023,10
+1277,11A1317,Vila Nova de Gaia,248,Total,2023,10
+1278,11A,Área Metropolitana do Porto,1003,Mennekes,2023,10
+1279,11A0104,Arouca,7,Mennekes,2023,10
+1280,11A0107,Espinho,12,Mennekes,2023,10
+1281,11A1304,Gondomar,44,Mennekes,2023,10
+1282,11A1306,Maia,76,Mennekes,2023,10
+1283,11A1308,Matosinhos,172,Mennekes,2023,10
+1284,11A0113,Oliveira de Azeméis,4,Mennekes,2023,10
+1285,11A1310,Paredes,19,Mennekes,2023,10
+1286,11A1312,Porto,286,Mennekes,2023,10
+1287,11A1313,Póvoa de Varzim,32,Mennekes,2023,10
+1288,11A0109,Santa Maria da Feira,93,Mennekes,2023,10
+1289,11A1314,Santo Tirso,18,Mennekes,2023,10
+1290,11A0116,São João da Madeira,17,Mennekes,2023,10
+1291,11A1318,Trofa,12,Mennekes,2023,10
+1292,11A0119,Vale de Cambra,7,Mennekes,2023,10
+1293,11A1315,Valongo,32,Mennekes,2023,10
+1294,11A1316,Vila do Conde,17,Mennekes,2023,10
+1295,11A1317,Vila Nova de Gaia,155,Mennekes,2023,10
+1296,11A,Área Metropolitana do Porto,255,CHAdeMO,2023,10
+1297,11A0104,Arouca,1,CHAdeMO,2023,10
+1298,11A0107,Espinho,5,CHAdeMO,2023,10
+1299,11A1304,Gondomar,15,CHAdeMO,2023,10
+1300,11A1306,Maia,17,CHAdeMO,2023,10
+1301,11A1308,Matosinhos,33,CHAdeMO,2023,10
+1302,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,10
+1303,11A1310,Paredes,7,CHAdeMO,2023,10
+1304,11A1312,Porto,59,CHAdeMO,2023,10
+1305,11A1313,Póvoa de Varzim,11,CHAdeMO,2023,10
+1306,11A0109,Santa Maria da Feira,17,CHAdeMO,2023,10
+1307,11A1314,Santo Tirso,11,CHAdeMO,2023,10
+1308,11A0116,São João da Madeira,5,CHAdeMO,2023,10
+1309,11A1318,Trofa,6,CHAdeMO,2023,10
+1310,11A0119,Vale de Cambra,3,CHAdeMO,2023,10
+1311,11A1315,Valongo,19,CHAdeMO,2023,10
+1312,11A1316,Vila do Conde,6,CHAdeMO,2023,10
+1313,11A1317,Vila Nova de Gaia,40,CHAdeMO,2023,10
+1314,11A,Área Metropolitana do Porto,329,CCS,2023,10
+1315,11A0104,Arouca,1,CCS,2023,10
+1316,11A0107,Espinho,5,CCS,2023,10
+1317,11A1304,Gondomar,20,CCS,2023,10
+1318,11A1306,Maia,25,CCS,2023,10
+1319,11A1308,Matosinhos,47,CCS,2023,10
+1320,11A0113,Oliveira de Azeméis,,CCS,2023,10
+1321,11A1310,Paredes,7,CCS,2023,10
+1322,11A1312,Porto,68,CCS,2023,10
+1323,11A1313,Póvoa de Varzim,12,CCS,2023,10
+1324,11A0109,Santa Maria da Feira,27,CCS,2023,10
+1325,11A1314,Santo Tirso,13,CCS,2023,10
+1326,11A0116,São João da Madeira,7,CCS,2023,10
+1327,11A1318,Trofa,6,CCS,2023,10
+1328,11A0119,Vale de Cambra,2,CCS,2023,10
+1329,11A1315,Valongo,24,CCS,2023,10
+1330,11A1316,Vila do Conde,12,CCS,2023,10
+1331,11A1317,Vila Nova de Gaia,53,CCS,2023,10
+1332,11A,Área Metropolitana do Porto,,Industrial,2023,10
+1333,11A0104,Arouca,,Industrial,2023,10
+1334,11A0107,Espinho,,Industrial,2023,10
+1335,11A1304,Gondomar,,Industrial,2023,10
+1336,11A1306,Maia,,Industrial,2023,10
+1337,11A1308,Matosinhos,,Industrial,2023,10
+1338,11A0113,Oliveira de Azeméis,,Industrial,2023,10
+1339,11A1310,Paredes,,Industrial,2023,10
+1340,11A1312,Porto,,Industrial,2023,10
+1341,11A1313,Póvoa de Varzim,,Industrial,2023,10
+1342,11A0109,Santa Maria da Feira,,Industrial,2023,10
+1343,11A1314,Santo Tirso,,Industrial,2023,10
+1344,11A0116,São João da Madeira,,Industrial,2023,10
+1345,11A1318,Trofa,,Industrial,2023,10
+1346,11A0119,Vale de Cambra,,Industrial,2023,10
+1347,11A1315,Valongo,,Industrial,2023,10
+1348,11A1316,Vila do Conde,,Industrial,2023,10
+1349,11A1317,Vila Nova de Gaia,,Industrial,2023,10
+1350,11A,Área Metropolitana do Porto,1521,Total,2023,9
+1351,11A0104,Arouca,9,Total,2023,9
+1352,11A0107,Espinho,22,Total,2023,9
+1353,11A1304,Gondomar,73,Total,2023,9
+1354,11A1306,Maia,98,Total,2023,9
+1355,11A1308,Matosinhos,247,Total,2023,9
+1356,11A0113,Oliveira de Azeméis,4,Total,2023,9
+1357,11A1310,Paredes,33,Total,2023,9
+1358,11A1312,Porto,408,Total,2023,9
+1359,11A1313,Póvoa de Varzim,54,Total,2023,9
+1360,11A0109,Santa Maria da Feira,127,Total,2023,9
+1361,11A1314,Santo Tirso,37,Total,2023,9
+1362,11A0116,São João da Madeira,29,Total,2023,9
+1363,11A1318,Trofa,24,Total,2023,9
+1364,11A0119,Vale de Cambra,9,Total,2023,9
+1365,11A1315,Valongo,73,Total,2023,9
+1366,11A1316,Vila do Conde,35,Total,2023,9
+1367,11A1317,Vila Nova de Gaia,239,Total,2023,9
+1368,11A,Área Metropolitana do Porto,959,Mennekes,2023,9
+1369,11A0104,Arouca,7,Mennekes,2023,9
+1370,11A0107,Espinho,12,Mennekes,2023,9
+1371,11A1304,Gondomar,43,Mennekes,2023,9
+1372,11A1306,Maia,56,Mennekes,2023,9
+1373,11A1308,Matosinhos,167,Mennekes,2023,9
+1374,11A0113,Oliveira de Azeméis,4,Mennekes,2023,9
+1375,11A1310,Paredes,19,Mennekes,2023,9
+1376,11A1312,Porto,284,Mennekes,2023,9
+1377,11A1313,Póvoa de Varzim,31,Mennekes,2023,9
+1378,11A0109,Santa Maria da Feira,85,Mennekes,2023,9
+1379,11A1314,Santo Tirso,17,Mennekes,2023,9
+1380,11A0116,São João da Madeira,17,Mennekes,2023,9
+1381,11A1318,Trofa,12,Mennekes,2023,9
+1382,11A0119,Vale de Cambra,6,Mennekes,2023,9
+1383,11A1315,Valongo,32,Mennekes,2023,9
+1384,11A1316,Vila do Conde,17,Mennekes,2023,9
+1385,11A1317,Vila Nova de Gaia,150,Mennekes,2023,9
+1386,11A,Área Metropolitana do Porto,246,CHAdeMO,2023,9
+1387,11A0104,Arouca,1,CHAdeMO,2023,9
+1388,11A0107,Espinho,5,CHAdeMO,2023,9
+1389,11A1304,Gondomar,13,CHAdeMO,2023,9
+1390,11A1306,Maia,17,CHAdeMO,2023,9
+1391,11A1308,Matosinhos,33,CHAdeMO,2023,9
+1392,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,9
+1393,11A1310,Paredes,7,CHAdeMO,2023,9
+1394,11A1312,Porto,57,CHAdeMO,2023,9
+1395,11A1313,Póvoa de Varzim,11,CHAdeMO,2023,9
+1396,11A0109,Santa Maria da Feira,16,CHAdeMO,2023,9
+1397,11A1314,Santo Tirso,10,CHAdeMO,2023,9
+1398,11A0116,São João da Madeira,5,CHAdeMO,2023,9
+1399,11A1318,Trofa,6,CHAdeMO,2023,9
+1400,11A0119,Vale de Cambra,2,CHAdeMO,2023,9
+1401,11A1315,Valongo,18,CHAdeMO,2023,9
+1402,11A1316,Vila do Conde,6,CHAdeMO,2023,9
+1403,11A1317,Vila Nova de Gaia,39,CHAdeMO,2023,9
+1404,11A,Área Metropolitana do Porto,316,CCS,2023,9
+1405,11A0104,Arouca,1,CCS,2023,9
+1406,11A0107,Espinho,5,CCS,2023,9
+1407,11A1304,Gondomar,17,CCS,2023,9
+1408,11A1306,Maia,25,CCS,2023,9
+1409,11A1308,Matosinhos,47,CCS,2023,9
+1410,11A0113,Oliveira de Azeméis,,CCS,2023,9
+1411,11A1310,Paredes,7,CCS,2023,9
+1412,11A1312,Porto,67,CCS,2023,9
+1413,11A1313,Póvoa de Varzim,12,CCS,2023,9
+1414,11A0109,Santa Maria da Feira,26,CCS,2023,9
+1415,11A1314,Santo Tirso,10,CCS,2023,9
+1416,11A0116,São João da Madeira,7,CCS,2023,9
+1417,11A1318,Trofa,6,CCS,2023,9
+1418,11A0119,Vale de Cambra,1,CCS,2023,9
+1419,11A1315,Valongo,23,CCS,2023,9
+1420,11A1316,Vila do Conde,12,CCS,2023,9
+1421,11A1317,Vila Nova de Gaia,50,CCS,2023,9
+1422,11A,Área Metropolitana do Porto,,Industrial,2023,9
+1423,11A0104,Arouca,,Industrial,2023,9
+1424,11A0107,Espinho,,Industrial,2023,9
+1425,11A1304,Gondomar,,Industrial,2023,9
+1426,11A1306,Maia,,Industrial,2023,9
+1427,11A1308,Matosinhos,,Industrial,2023,9
+1428,11A0113,Oliveira de Azeméis,,Industrial,2023,9
+1429,11A1310,Paredes,,Industrial,2023,9
+1430,11A1312,Porto,,Industrial,2023,9
+1431,11A1313,Póvoa de Varzim,,Industrial,2023,9
+1432,11A0109,Santa Maria da Feira,,Industrial,2023,9
+1433,11A1314,Santo Tirso,,Industrial,2023,9
+1434,11A0116,São João da Madeira,,Industrial,2023,9
+1435,11A1318,Trofa,,Industrial,2023,9
+1436,11A0119,Vale de Cambra,,Industrial,2023,9
+1437,11A1315,Valongo,,Industrial,2023,9
+1438,11A1316,Vila do Conde,,Industrial,2023,9
+1439,11A1317,Vila Nova de Gaia,,Industrial,2023,9
+1440,11A,Área Metropolitana do Porto,1476,Total,2023,8
+1441,11A0104,Arouca,9,Total,2023,8
+1442,11A0107,Espinho,21,Total,2023,8
+1443,11A1304,Gondomar,69,Total,2023,8
+1444,11A1306,Maia,98,Total,2023,8
+1445,11A1308,Matosinhos,240,Total,2023,8
+1446,11A0113,Oliveira de Azeméis,4,Total,2023,8
+1447,11A1310,Paredes,33,Total,2023,8
+1448,11A1312,Porto,399,Total,2023,8
+1449,11A1313,Póvoa de Varzim,56,Total,2023,8
+1450,11A0109,Santa Maria da Feira,112,Total,2023,8
+1451,11A1314,Santo Tirso,37,Total,2023,8
+1452,11A0116,São João da Madeira,27,Total,2023,8
+1453,11A1318,Trofa,24,Total,2023,8
+1454,11A0119,Vale de Cambra,9,Total,2023,8
+1455,11A1315,Valongo,72,Total,2023,8
+1456,11A1316,Vila do Conde,35,Total,2023,8
+1457,11A1317,Vila Nova de Gaia,231,Total,2023,8
+1458,11A,Área Metropolitana do Porto,929,Mennekes,2023,8
+1459,11A0104,Arouca,7,Mennekes,2023,8
+1460,11A0107,Espinho,11,Mennekes,2023,8
+1461,11A1304,Gondomar,41,Mennekes,2023,8
+1462,11A1306,Maia,56,Mennekes,2023,8
+1463,11A1308,Matosinhos,160,Mennekes,2023,8
+1464,11A0113,Oliveira de Azeméis,4,Mennekes,2023,8
+1465,11A1310,Paredes,19,Mennekes,2023,8
+1466,11A1312,Porto,277,Mennekes,2023,8
+1467,11A1313,Póvoa de Varzim,31,Mennekes,2023,8
+1468,11A0109,Santa Maria da Feira,76,Mennekes,2023,8
+1469,11A1314,Santo Tirso,17,Mennekes,2023,8
+1470,11A0116,São João da Madeira,17,Mennekes,2023,8
+1471,11A1318,Trofa,12,Mennekes,2023,8
+1472,11A0119,Vale de Cambra,6,Mennekes,2023,8
+1473,11A1315,Valongo,32,Mennekes,2023,8
+1474,11A1316,Vila do Conde,17,Mennekes,2023,8
+1475,11A1317,Vila Nova de Gaia,146,Mennekes,2023,8
+1476,11A,Área Metropolitana do Porto,241,CHAdeMO,2023,8
+1477,11A0104,Arouca,1,CHAdeMO,2023,8
+1478,11A0107,Espinho,5,CHAdeMO,2023,8
+1479,11A1304,Gondomar,13,CHAdeMO,2023,8
+1480,11A1306,Maia,17,CHAdeMO,2023,8
+1481,11A1308,Matosinhos,33,CHAdeMO,2023,8
+1482,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,8
+1483,11A1310,Paredes,7,CHAdeMO,2023,8
+1484,11A1312,Porto,56,CHAdeMO,2023,8
+1485,11A1313,Póvoa de Varzim,12,CHAdeMO,2023,8
+1486,11A0109,Santa Maria da Feira,13,CHAdeMO,2023,8
+1487,11A1314,Santo Tirso,10,CHAdeMO,2023,8
+1488,11A0116,São João da Madeira,5,CHAdeMO,2023,8
+1489,11A1318,Trofa,6,CHAdeMO,2023,8
+1490,11A0119,Vale de Cambra,2,CHAdeMO,2023,8
+1491,11A1315,Valongo,18,CHAdeMO,2023,8
+1492,11A1316,Vila do Conde,6,CHAdeMO,2023,8
+1493,11A1317,Vila Nova de Gaia,37,CHAdeMO,2023,8
+1494,11A,Área Metropolitana do Porto,306,CCS,2023,8
+1495,11A0104,Arouca,1,CCS,2023,8
+1496,11A0107,Espinho,5,CCS,2023,8
+1497,11A1304,Gondomar,15,CCS,2023,8
+1498,11A1306,Maia,25,CCS,2023,8
+1499,11A1308,Matosinhos,47,CCS,2023,8
+1500,11A0113,Oliveira de Azeméis,,CCS,2023,8
+1501,11A1310,Paredes,7,CCS,2023,8
+1502,11A1312,Porto,66,CCS,2023,8
+1503,11A1313,Póvoa de Varzim,13,CCS,2023,8
+1504,11A0109,Santa Maria da Feira,23,CCS,2023,8
+1505,11A1314,Santo Tirso,10,CCS,2023,8
+1506,11A0116,São João da Madeira,5,CCS,2023,8
+1507,11A1318,Trofa,6,CCS,2023,8
+1508,11A0119,Vale de Cambra,1,CCS,2023,8
+1509,11A1315,Valongo,22,CCS,2023,8
+1510,11A1316,Vila do Conde,12,CCS,2023,8
+1511,11A1317,Vila Nova de Gaia,48,CCS,2023,8
+1512,11A,Área Metropolitana do Porto,,Industrial,2023,8
+1513,11A0104,Arouca,,Industrial,2023,8
+1514,11A0107,Espinho,,Industrial,2023,8
+1515,11A1304,Gondomar,,Industrial,2023,8
+1516,11A1306,Maia,,Industrial,2023,8
+1517,11A1308,Matosinhos,,Industrial,2023,8
+1518,11A0113,Oliveira de Azeméis,,Industrial,2023,8
+1519,11A1310,Paredes,,Industrial,2023,8
+1520,11A1312,Porto,,Industrial,2023,8
+1521,11A1313,Póvoa de Varzim,,Industrial,2023,8
+1522,11A0109,Santa Maria da Feira,,Industrial,2023,8
+1523,11A1314,Santo Tirso,,Industrial,2023,8
+1524,11A0116,São João da Madeira,,Industrial,2023,8
+1525,11A1318,Trofa,,Industrial,2023,8
+1526,11A0119,Vale de Cambra,,Industrial,2023,8
+1527,11A1315,Valongo,,Industrial,2023,8
+1528,11A1316,Vila do Conde,,Industrial,2023,8
+1529,11A1317,Vila Nova de Gaia,,Industrial,2023,8
+1530,11A,Área Metropolitana do Porto,1404,Total,2023,7
+1531,11A0104,Arouca,9,Total,2023,7
+1532,11A0107,Espinho,21,Total,2023,7
+1533,11A1304,Gondomar,64,Total,2023,7
+1534,11A1306,Maia,97,Total,2023,7
+1535,11A1308,Matosinhos,234,Total,2023,7
+1536,11A0113,Oliveira de Azeméis,4,Total,2023,7
+1537,11A1310,Paredes,30,Total,2023,7
+1538,11A1312,Porto,393,Total,2023,7
+1539,11A1313,Póvoa de Varzim,56,Total,2023,7
+1540,11A0109,Santa Maria da Feira,96,Total,2023,7
+1541,11A1314,Santo Tirso,36,Total,2023,7
+1542,11A0116,São João da Madeira,21,Total,2023,7
+1543,11A1318,Trofa,21,Total,2023,7
+1544,11A0119,Vale de Cambra,9,Total,2023,7
+1545,11A1315,Valongo,72,Total,2023,7
+1546,11A1316,Vila do Conde,26,Total,2023,7
+1547,11A1317,Vila Nova de Gaia,215,Total,2023,7
+1548,11A,Área Metropolitana do Porto,893,Mennekes,2023,7
+1549,11A0104,Arouca,7,Mennekes,2023,7
+1550,11A0107,Espinho,11,Mennekes,2023,7
+1551,11A1304,Gondomar,38,Mennekes,2023,7
+1552,11A1306,Maia,55,Mennekes,2023,7
+1553,11A1308,Matosinhos,158,Mennekes,2023,7
+1554,11A0113,Oliveira de Azeméis,4,Mennekes,2023,7
+1555,11A1310,Paredes,18,Mennekes,2023,7
+1556,11A1312,Porto,273,Mennekes,2023,7
+1557,11A1313,Póvoa de Varzim,31,Mennekes,2023,7
+1558,11A0109,Santa Maria da Feira,68,Mennekes,2023,7
+1559,11A1314,Santo Tirso,16,Mennekes,2023,7
+1560,11A0116,São João da Madeira,15,Mennekes,2023,7
+1561,11A1318,Trofa,11,Mennekes,2023,7
+1562,11A0119,Vale de Cambra,6,Mennekes,2023,7
+1563,11A1315,Valongo,32,Mennekes,2023,7
+1564,11A1316,Vila do Conde,16,Mennekes,2023,7
+1565,11A1317,Vila Nova de Gaia,134,Mennekes,2023,7
+1566,11A,Área Metropolitana do Porto,230,CHAdeMO,2023,7
+1567,11A0104,Arouca,1,CHAdeMO,2023,7
+1568,11A0107,Espinho,5,CHAdeMO,2023,7
+1569,11A1304,Gondomar,12,CHAdeMO,2023,7
+1570,11A1306,Maia,17,CHAdeMO,2023,7
+1571,11A1308,Matosinhos,31,CHAdeMO,2023,7
+1572,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,7
+1573,11A1310,Paredes,6,CHAdeMO,2023,7
+1574,11A1312,Porto,55,CHAdeMO,2023,7
+1575,11A1313,Póvoa de Varzim,12,CHAdeMO,2023,7
+1576,11A0109,Santa Maria da Feira,12,CHAdeMO,2023,7
+1577,11A1314,Santo Tirso,10,CHAdeMO,2023,7
+1578,11A0116,São João da Madeira,3,CHAdeMO,2023,7
+1579,11A1318,Trofa,5,CHAdeMO,2023,7
+1580,11A0119,Vale de Cambra,2,CHAdeMO,2023,7
+1581,11A1315,Valongo,18,CHAdeMO,2023,7
+1582,11A1316,Vila do Conde,4,CHAdeMO,2023,7
+1583,11A1317,Vila Nova de Gaia,37,CHAdeMO,2023,7
+1584,11A,Área Metropolitana do Porto,281,CCS,2023,7
+1585,11A0104,Arouca,1,CCS,2023,7
+1586,11A0107,Espinho,5,CCS,2023,7
+1587,11A1304,Gondomar,14,CCS,2023,7
+1588,11A1306,Maia,25,CCS,2023,7
+1589,11A1308,Matosinhos,45,CCS,2023,7
+1590,11A0113,Oliveira de Azeméis,,CCS,2023,7
+1591,11A1310,Paredes,6,CCS,2023,7
+1592,11A1312,Porto,65,CCS,2023,7
+1593,11A1313,Póvoa de Varzim,13,CCS,2023,7
+1594,11A0109,Santa Maria da Feira,16,CCS,2023,7
+1595,11A1314,Santo Tirso,10,CCS,2023,7
+1596,11A0116,São João da Madeira,3,CCS,2023,7
+1597,11A1318,Trofa,5,CCS,2023,7
+1598,11A0119,Vale de Cambra,1,CCS,2023,7
+1599,11A1315,Valongo,22,CCS,2023,7
+1600,11A1316,Vila do Conde,6,CCS,2023,7
+1601,11A1317,Vila Nova de Gaia,44,CCS,2023,7
+1602,11A,Área Metropolitana do Porto,,Industrial,2023,7
+1603,11A0104,Arouca,,Industrial,2023,7
+1604,11A0107,Espinho,,Industrial,2023,7
+1605,11A1304,Gondomar,,Industrial,2023,7
+1606,11A1306,Maia,,Industrial,2023,7
+1607,11A1308,Matosinhos,,Industrial,2023,7
+1608,11A0113,Oliveira de Azeméis,,Industrial,2023,7
+1609,11A1310,Paredes,,Industrial,2023,7
+1610,11A1312,Porto,,Industrial,2023,7
+1611,11A1313,Póvoa de Varzim,,Industrial,2023,7
+1612,11A0109,Santa Maria da Feira,,Industrial,2023,7
+1613,11A1314,Santo Tirso,,Industrial,2023,7
+1614,11A0116,São João da Madeira,,Industrial,2023,7
+1615,11A1318,Trofa,,Industrial,2023,7
+1616,11A0119,Vale de Cambra,,Industrial,2023,7
+1617,11A1315,Valongo,,Industrial,2023,7
+1618,11A1316,Vila do Conde,,Industrial,2023,7
+1619,11A1317,Vila Nova de Gaia,,Industrial,2023,7
+1620,11A,Área Metropolitana do Porto,1315,Total,2023,6
+1621,11A0104,Arouca,9,Total,2023,6
+1622,11A0107,Espinho,15,Total,2023,6
+1623,11A1304,Gondomar,60,Total,2023,6
+1624,11A1306,Maia,87,Total,2023,6
+1625,11A1308,Matosinhos,229,Total,2023,6
+1626,11A0113,Oliveira de Azeméis,4,Total,2023,6
+1627,11A1310,Paredes,27,Total,2023,6
+1628,11A1312,Porto,389,Total,2023,6
+1629,11A1313,Póvoa de Varzim,50,Total,2023,6
+1630,11A0109,Santa Maria da Feira,75,Total,2023,6
+1631,11A1314,Santo Tirso,33,Total,2023,6
+1632,11A0116,São João da Madeira,21,Total,2023,6
+1633,11A1318,Trofa,21,Total,2023,6
+1634,11A0119,Vale de Cambra,9,Total,2023,6
+1635,11A1315,Valongo,62,Total,2023,6
+1636,11A1316,Vila do Conde,22,Total,2023,6
+1637,11A1317,Vila Nova de Gaia,202,Total,2023,6
+1638,11A,Área Metropolitana do Porto,840,Mennekes,2023,6
+1639,11A0104,Arouca,7,Mennekes,2023,6
+1640,11A0107,Espinho,9,Mennekes,2023,6
+1641,11A1304,Gondomar,34,Mennekes,2023,6
+1642,11A1306,Maia,51,Mennekes,2023,6
+1643,11A1308,Matosinhos,155,Mennekes,2023,6
+1644,11A0113,Oliveira de Azeméis,4,Mennekes,2023,6
+1645,11A1310,Paredes,17,Mennekes,2023,6
+1646,11A1312,Porto,267,Mennekes,2023,6
+1647,11A1313,Póvoa de Varzim,25,Mennekes,2023,6
+1648,11A0109,Santa Maria da Feira,53,Mennekes,2023,6
+1649,11A1314,Santo Tirso,15,Mennekes,2023,6
+1650,11A0116,São João da Madeira,15,Mennekes,2023,6
+1651,11A1318,Trofa,11,Mennekes,2023,6
+1652,11A0119,Vale de Cambra,6,Mennekes,2023,6
+1653,11A1315,Valongo,26,Mennekes,2023,6
+1654,11A1316,Vila do Conde,14,Mennekes,2023,6
+1655,11A1317,Vila Nova de Gaia,131,Mennekes,2023,6
+1656,11A,Área Metropolitana do Porto,219,CHAdeMO,2023,6
+1657,11A0104,Arouca,1,CHAdeMO,2023,6
+1658,11A0107,Espinho,3,CHAdeMO,2023,6
+1659,11A1304,Gondomar,12,CHAdeMO,2023,6
+1660,11A1306,Maia,15,CHAdeMO,2023,6
+1661,11A1308,Matosinhos,31,CHAdeMO,2023,6
+1662,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,6
+1663,11A1310,Paredes,5,CHAdeMO,2023,6
+1664,11A1312,Porto,56,CHAdeMO,2023,6
+1665,11A1313,Póvoa de Varzim,12,CHAdeMO,2023,6
+1666,11A0109,Santa Maria da Feira,11,CHAdeMO,2023,6
+1667,11A1314,Santo Tirso,9,CHAdeMO,2023,6
+1668,11A0116,São João da Madeira,3,CHAdeMO,2023,6
+1669,11A1318,Trofa,5,CHAdeMO,2023,6
+1670,11A0119,Vale de Cambra,2,CHAdeMO,2023,6
+1671,11A1315,Valongo,17,CHAdeMO,2023,6
+1672,11A1316,Vila do Conde,4,CHAdeMO,2023,6
+1673,11A1317,Vila Nova de Gaia,33,CHAdeMO,2023,6
+1674,11A,Área Metropolitana do Porto,256,CCS,2023,6
+1675,11A0104,Arouca,1,CCS,2023,6
+1676,11A0107,Espinho,3,CCS,2023,6
+1677,11A1304,Gondomar,14,CCS,2023,6
+1678,11A1306,Maia,21,CCS,2023,6
+1679,11A1308,Matosinhos,43,CCS,2023,6
+1680,11A0113,Oliveira de Azeméis,,CCS,2023,6
+1681,11A1310,Paredes,5,CCS,2023,6
+1682,11A1312,Porto,66,CCS,2023,6
+1683,11A1313,Póvoa de Varzim,13,CCS,2023,6
+1684,11A0109,Santa Maria da Feira,11,CCS,2023,6
+1685,11A1314,Santo Tirso,9,CCS,2023,6
+1686,11A0116,São João da Madeira,3,CCS,2023,6
+1687,11A1318,Trofa,5,CCS,2023,6
+1688,11A0119,Vale de Cambra,1,CCS,2023,6
+1689,11A1315,Valongo,19,CCS,2023,6
+1690,11A1316,Vila do Conde,4,CCS,2023,6
+1691,11A1317,Vila Nova de Gaia,38,CCS,2023,6
+1692,11A,Área Metropolitana do Porto,,Industrial,2023,6
+1693,11A0104,Arouca,,Industrial,2023,6
+1694,11A0107,Espinho,,Industrial,2023,6
+1695,11A1304,Gondomar,,Industrial,2023,6
+1696,11A1306,Maia,,Industrial,2023,6
+1697,11A1308,Matosinhos,,Industrial,2023,6
+1698,11A0113,Oliveira de Azeméis,,Industrial,2023,6
+1699,11A1310,Paredes,,Industrial,2023,6
+1700,11A1312,Porto,,Industrial,2023,6
+1701,11A1313,Póvoa de Varzim,,Industrial,2023,6
+1702,11A0109,Santa Maria da Feira,,Industrial,2023,6
+1703,11A1314,Santo Tirso,,Industrial,2023,6
+1704,11A0116,São João da Madeira,,Industrial,2023,6
+1705,11A1318,Trofa,,Industrial,2023,6
+1706,11A0119,Vale de Cambra,,Industrial,2023,6
+1707,11A1315,Valongo,,Industrial,2023,6
+1708,11A1316,Vila do Conde,,Industrial,2023,6
+1709,11A1317,Vila Nova de Gaia,,Industrial,2023,6
+1710,11A,Área Metropolitana do Porto,1280,Total,2023,5
+1711,11A0104,Arouca,9,Total,2023,5
+1712,11A0107,Espinho,15,Total,2023,5
+1713,11A1304,Gondomar,60,Total,2023,5
+1714,11A1306,Maia,86,Total,2023,5
+1715,11A1308,Matosinhos,225,Total,2023,5
+1716,11A0113,Oliveira de Azeméis,4,Total,2023,5
+1717,11A1310,Paredes,27,Total,2023,5
+1718,11A1312,Porto,375,Total,2023,5
+1719,11A1313,Póvoa de Varzim,48,Total,2023,5
+1720,11A0109,Santa Maria da Feira,55,Total,2023,5
+1721,11A1314,Santo Tirso,33,Total,2023,5
+1722,11A0116,São João da Madeira,21,Total,2023,5
+1723,11A1318,Trofa,21,Total,2023,5
+1724,11A0119,Vale de Cambra,9,Total,2023,5
+1725,11A1315,Valongo,64,Total,2023,5
+1726,11A1316,Vila do Conde,22,Total,2023,5
+1727,11A1317,Vila Nova de Gaia,206,Total,2023,5
+1728,11A,Área Metropolitana do Porto,807,Mennekes,2023,5
+1729,11A0104,Arouca,7,Mennekes,2023,5
+1730,11A0107,Espinho,9,Mennekes,2023,5
+1731,11A1304,Gondomar,34,Mennekes,2023,5
+1732,11A1306,Maia,50,Mennekes,2023,5
+1733,11A1308,Matosinhos,151,Mennekes,2023,5
+1734,11A0113,Oliveira de Azeméis,4,Mennekes,2023,5
+1735,11A1310,Paredes,17,Mennekes,2023,5
+1736,11A1312,Porto,253,Mennekes,2023,5
+1737,11A1313,Póvoa de Varzim,25,Mennekes,2023,5
+1738,11A0109,Santa Maria da Feira,33,Mennekes,2023,5
+1739,11A1314,Santo Tirso,15,Mennekes,2023,5
+1740,11A0116,São João da Madeira,15,Mennekes,2023,5
+1741,11A1318,Trofa,11,Mennekes,2023,5
+1742,11A0119,Vale de Cambra,6,Mennekes,2023,5
+1743,11A1315,Valongo,28,Mennekes,2023,5
+1744,11A1316,Vila do Conde,14,Mennekes,2023,5
+1745,11A1317,Vila Nova de Gaia,135,Mennekes,2023,5
+1746,11A,Área Metropolitana do Porto,219,CHAdeMO,2023,5
+1747,11A0104,Arouca,1,CHAdeMO,2023,5
+1748,11A0107,Espinho,3,CHAdeMO,2023,5
+1749,11A1304,Gondomar,12,CHAdeMO,2023,5
+1750,11A1306,Maia,15,CHAdeMO,2023,5
+1751,11A1308,Matosinhos,31,CHAdeMO,2023,5
+1752,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,5
+1753,11A1310,Paredes,5,CHAdeMO,2023,5
+1754,11A1312,Porto,56,CHAdeMO,2023,5
+1755,11A1313,Póvoa de Varzim,12,CHAdeMO,2023,5
+1756,11A0109,Santa Maria da Feira,11,CHAdeMO,2023,5
+1757,11A1314,Santo Tirso,9,CHAdeMO,2023,5
+1758,11A0116,São João da Madeira,3,CHAdeMO,2023,5
+1759,11A1318,Trofa,5,CHAdeMO,2023,5
+1760,11A0119,Vale de Cambra,2,CHAdeMO,2023,5
+1761,11A1315,Valongo,17,CHAdeMO,2023,5
+1762,11A1316,Vila do Conde,4,CHAdeMO,2023,5
+1763,11A1317,Vila Nova de Gaia,33,CHAdeMO,2023,5
+1764,11A,Área Metropolitana do Porto,254,CCS,2023,5
+1765,11A0104,Arouca,1,CCS,2023,5
+1766,11A0107,Espinho,3,CCS,2023,5
+1767,11A1304,Gondomar,14,CCS,2023,5
+1768,11A1306,Maia,21,CCS,2023,5
+1769,11A1308,Matosinhos,43,CCS,2023,5
+1770,11A0113,Oliveira de Azeméis,,CCS,2023,5
+1771,11A1310,Paredes,5,CCS,2023,5
+1772,11A1312,Porto,66,CCS,2023,5
+1773,11A1313,Póvoa de Varzim,11,CCS,2023,5
+1774,11A0109,Santa Maria da Feira,11,CCS,2023,5
+1775,11A1314,Santo Tirso,9,CCS,2023,5
+1776,11A0116,São João da Madeira,3,CCS,2023,5
+1777,11A1318,Trofa,5,CCS,2023,5
+1778,11A0119,Vale de Cambra,1,CCS,2023,5
+1779,11A1315,Valongo,19,CCS,2023,5
+1780,11A1316,Vila do Conde,4,CCS,2023,5
+1781,11A1317,Vila Nova de Gaia,38,CCS,2023,5
+1782,11A,Área Metropolitana do Porto,,Industrial,2023,5
+1783,11A0104,Arouca,,Industrial,2023,5
+1784,11A0107,Espinho,,Industrial,2023,5
+1785,11A1304,Gondomar,,Industrial,2023,5
+1786,11A1306,Maia,,Industrial,2023,5
+1787,11A1308,Matosinhos,,Industrial,2023,5
+1788,11A0113,Oliveira de Azeméis,,Industrial,2023,5
+1789,11A1310,Paredes,,Industrial,2023,5
+1790,11A1312,Porto,,Industrial,2023,5
+1791,11A1313,Póvoa de Varzim,,Industrial,2023,5
+1792,11A0109,Santa Maria da Feira,,Industrial,2023,5
+1793,11A1314,Santo Tirso,,Industrial,2023,5
+1794,11A0116,São João da Madeira,,Industrial,2023,5
+1795,11A1318,Trofa,,Industrial,2023,5
+1796,11A0119,Vale de Cambra,,Industrial,2023,5
+1797,11A1315,Valongo,,Industrial,2023,5
+1798,11A1316,Vila do Conde,,Industrial,2023,5
+1799,11A1317,Vila Nova de Gaia,,Industrial,2023,5
+1800,11A,Área Metropolitana do Porto,1253,Total,2023,4
+1801,11A0104,Arouca,7,Total,2023,4
+1802,11A0107,Espinho,15,Total,2023,4
+1803,11A1304,Gondomar,58,Total,2023,4
+1804,11A1306,Maia,84,Total,2023,4
+1805,11A1308,Matosinhos,223,Total,2023,4
+1806,11A0113,Oliveira de Azeméis,4,Total,2023,4
+1807,11A1310,Paredes,25,Total,2023,4
+1808,11A1312,Porto,372,Total,2023,4
+1809,11A1313,Póvoa de Varzim,54,Total,2023,4
+1810,11A0109,Santa Maria da Feira,45,Total,2023,4
+1811,11A1314,Santo Tirso,33,Total,2023,4
+1812,11A0116,São João da Madeira,21,Total,2023,4
+1813,11A1318,Trofa,21,Total,2023,4
+1814,11A0119,Vale de Cambra,9,Total,2023,4
+1815,11A1315,Valongo,58,Total,2023,4
+1816,11A1316,Vila do Conde,22,Total,2023,4
+1817,11A1317,Vila Nova de Gaia,202,Total,2023,4
+1818,11A,Área Metropolitana do Porto,786,Mennekes,2023,4
+1819,11A0104,Arouca,5,Mennekes,2023,4
+1820,11A0107,Espinho,9,Mennekes,2023,4
+1821,11A1304,Gondomar,34,Mennekes,2023,4
+1822,11A1306,Maia,50,Mennekes,2023,4
+1823,11A1308,Matosinhos,149,Mennekes,2023,4
+1824,11A0113,Oliveira de Azeméis,4,Mennekes,2023,4
+1825,11A1310,Paredes,15,Mennekes,2023,4
+1826,11A1312,Porto,246,Mennekes,2023,4
+1827,11A1313,Póvoa de Varzim,27,Mennekes,2023,4
+1828,11A0109,Santa Maria da Feira,23,Mennekes,2023,4
+1829,11A1314,Santo Tirso,15,Mennekes,2023,4
+1830,11A0116,São João da Madeira,15,Mennekes,2023,4
+1831,11A1318,Trofa,11,Mennekes,2023,4
+1832,11A0119,Vale de Cambra,6,Mennekes,2023,4
+1833,11A1315,Valongo,28,Mennekes,2023,4
+1834,11A1316,Vila do Conde,14,Mennekes,2023,4
+1835,11A1317,Vila Nova de Gaia,135,Mennekes,2023,4
+1836,11A,Área Metropolitana do Porto,221,CHAdeMO,2023,4
+1837,11A0104,Arouca,1,CHAdeMO,2023,4
+1838,11A0107,Espinho,3,CHAdeMO,2023,4
+1839,11A1304,Gondomar,12,CHAdeMO,2023,4
+1840,11A1306,Maia,15,CHAdeMO,2023,4
+1841,11A1308,Matosinhos,31,CHAdeMO,2023,4
+1842,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,4
+1843,11A1310,Paredes,5,CHAdeMO,2023,4
+1844,11A1312,Porto,58,CHAdeMO,2023,4
+1845,11A1313,Póvoa de Varzim,14,CHAdeMO,2023,4
+1846,11A0109,Santa Maria da Feira,11,CHAdeMO,2023,4
+1847,11A1314,Santo Tirso,9,CHAdeMO,2023,4
+1848,11A0116,São João da Madeira,3,CHAdeMO,2023,4
+1849,11A1318,Trofa,5,CHAdeMO,2023,4
+1850,11A0119,Vale de Cambra,2,CHAdeMO,2023,4
+1851,11A1315,Valongo,16,CHAdeMO,2023,4
+1852,11A1316,Vila do Conde,4,CHAdeMO,2023,4
+1853,11A1317,Vila Nova de Gaia,32,CHAdeMO,2023,4
+1854,11A,Área Metropolitana do Porto,246,CCS,2023,4
+1855,11A0104,Arouca,1,CCS,2023,4
+1856,11A0107,Espinho,3,CCS,2023,4
+1857,11A1304,Gondomar,12,CCS,2023,4
+1858,11A1306,Maia,19,CCS,2023,4
+1859,11A1308,Matosinhos,43,CCS,2023,4
+1860,11A0113,Oliveira de Azeméis,,CCS,2023,4
+1861,11A1310,Paredes,5,CCS,2023,4
+1862,11A1312,Porto,68,CCS,2023,4
+1863,11A1313,Póvoa de Varzim,13,CCS,2023,4
+1864,11A0109,Santa Maria da Feira,11,CCS,2023,4
+1865,11A1314,Santo Tirso,9,CCS,2023,4
+1866,11A0116,São João da Madeira,3,CCS,2023,4
+1867,11A1318,Trofa,5,CCS,2023,4
+1868,11A0119,Vale de Cambra,1,CCS,2023,4
+1869,11A1315,Valongo,14,CCS,2023,4
+1870,11A1316,Vila do Conde,4,CCS,2023,4
+1871,11A1317,Vila Nova de Gaia,35,CCS,2023,4
+1872,11A,Área Metropolitana do Porto,,Industrial,2023,4
+1873,11A0104,Arouca,,Industrial,2023,4
+1874,11A0107,Espinho,,Industrial,2023,4
+1875,11A1304,Gondomar,,Industrial,2023,4
+1876,11A1306,Maia,,Industrial,2023,4
+1877,11A1308,Matosinhos,,Industrial,2023,4
+1878,11A0113,Oliveira de Azeméis,,Industrial,2023,4
+1879,11A1310,Paredes,,Industrial,2023,4
+1880,11A1312,Porto,,Industrial,2023,4
+1881,11A1313,Póvoa de Varzim,,Industrial,2023,4
+1882,11A0109,Santa Maria da Feira,,Industrial,2023,4
+1883,11A1314,Santo Tirso,,Industrial,2023,4
+1884,11A0116,São João da Madeira,,Industrial,2023,4
+1885,11A1318,Trofa,,Industrial,2023,4
+1886,11A0119,Vale de Cambra,,Industrial,2023,4
+1887,11A1315,Valongo,,Industrial,2023,4
+1888,11A1316,Vila do Conde,,Industrial,2023,4
+1889,11A1317,Vila Nova de Gaia,,Industrial,2023,4
+1890,11A,Área Metropolitana do Porto,1208,Total,2023,3
+1891,11A0104,Arouca,7,Total,2023,3
+1892,11A0107,Espinho,15,Total,2023,3
+1893,11A1304,Gondomar,43,Total,2023,3
+1894,11A1306,Maia,83,Total,2023,3
+1895,11A1308,Matosinhos,221,Total,2023,3
+1896,11A0113,Oliveira de Azeméis,4,Total,2023,3
+1897,11A1310,Paredes,25,Total,2023,3
+1898,11A1312,Porto,357,Total,2023,3
+1899,11A1313,Póvoa de Varzim,54,Total,2023,3
+1900,11A0109,Santa Maria da Feira,42,Total,2023,3
+1901,11A1314,Santo Tirso,33,Total,2023,3
+1902,11A0116,São João da Madeira,21,Total,2023,3
+1903,11A1318,Trofa,21,Total,2023,3
+1904,11A0119,Vale de Cambra,6,Total,2023,3
+1905,11A1315,Valongo,58,Total,2023,3
+1906,11A1316,Vila do Conde,22,Total,2023,3
+1907,11A1317,Vila Nova de Gaia,196,Total,2023,3
+1908,11A,Área Metropolitana do Porto,763,Mennekes,2023,3
+1909,11A0104,Arouca,5,Mennekes,2023,3
+1910,11A0107,Espinho,9,Mennekes,2023,3
+1911,11A1304,Gondomar,21,Mennekes,2023,3
+1912,11A1306,Maia,49,Mennekes,2023,3
+1913,11A1308,Matosinhos,149,Mennekes,2023,3
+1914,11A0113,Oliveira de Azeméis,4,Mennekes,2023,3
+1915,11A1310,Paredes,15,Mennekes,2023,3
+1916,11A1312,Porto,241,Mennekes,2023,3
+1917,11A1313,Póvoa de Varzim,27,Mennekes,2023,3
+1918,11A0109,Santa Maria da Feira,22,Mennekes,2023,3
+1919,11A1314,Santo Tirso,15,Mennekes,2023,3
+1920,11A0116,São João da Madeira,15,Mennekes,2023,3
+1921,11A1318,Trofa,11,Mennekes,2023,3
+1922,11A0119,Vale de Cambra,6,Mennekes,2023,3
+1923,11A1315,Valongo,28,Mennekes,2023,3
+1924,11A1316,Vila do Conde,14,Mennekes,2023,3
+1925,11A1317,Vila Nova de Gaia,132,Mennekes,2023,3
+1926,11A,Área Metropolitana do Porto,213,CHAdeMO,2023,3
+1927,11A0104,Arouca,1,CHAdeMO,2023,3
+1928,11A0107,Espinho,3,CHAdeMO,2023,3
+1929,11A1304,Gondomar,11,CHAdeMO,2023,3
+1930,11A1306,Maia,15,CHAdeMO,2023,3
+1931,11A1308,Matosinhos,31,CHAdeMO,2023,3
+1932,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,3
+1933,11A1310,Paredes,5,CHAdeMO,2023,3
+1934,11A1312,Porto,54,CHAdeMO,2023,3
+1935,11A1313,Póvoa de Varzim,14,CHAdeMO,2023,3
+1936,11A0109,Santa Maria da Feira,10,CHAdeMO,2023,3
+1937,11A1314,Santo Tirso,9,CHAdeMO,2023,3
+1938,11A0116,São João da Madeira,3,CHAdeMO,2023,3
+1939,11A1318,Trofa,5,CHAdeMO,2023,3
+1940,11A0119,Vale de Cambra,,CHAdeMO,2023,3
+1941,11A1315,Valongo,16,CHAdeMO,2023,3
+1942,11A1316,Vila do Conde,4,CHAdeMO,2023,3
+1943,11A1317,Vila Nova de Gaia,32,CHAdeMO,2023,3
+1944,11A,Área Metropolitana do Porto,232,CCS,2023,3
+1945,11A0104,Arouca,1,CCS,2023,3
+1946,11A0107,Espinho,3,CCS,2023,3
+1947,11A1304,Gondomar,11,CCS,2023,3
+1948,11A1306,Maia,19,CCS,2023,3
+1949,11A1308,Matosinhos,41,CCS,2023,3
+1950,11A0113,Oliveira de Azeméis,,CCS,2023,3
+1951,11A1310,Paredes,5,CCS,2023,3
+1952,11A1312,Porto,62,CCS,2023,3
+1953,11A1313,Póvoa de Varzim,13,CCS,2023,3
+1954,11A0109,Santa Maria da Feira,10,CCS,2023,3
+1955,11A1314,Santo Tirso,9,CCS,2023,3
+1956,11A0116,São João da Madeira,3,CCS,2023,3
+1957,11A1318,Trofa,5,CCS,2023,3
+1958,11A0119,Vale de Cambra,,CCS,2023,3
+1959,11A1315,Valongo,14,CCS,2023,3
+1960,11A1316,Vila do Conde,4,CCS,2023,3
+1961,11A1317,Vila Nova de Gaia,32,CCS,2023,3
+1962,11A,Área Metropolitana do Porto,,Industrial,2023,3
+1963,11A0104,Arouca,,Industrial,2023,3
+1964,11A0107,Espinho,,Industrial,2023,3
+1965,11A1304,Gondomar,,Industrial,2023,3
+1966,11A1306,Maia,,Industrial,2023,3
+1967,11A1308,Matosinhos,,Industrial,2023,3
+1968,11A0113,Oliveira de Azeméis,,Industrial,2023,3
+1969,11A1310,Paredes,,Industrial,2023,3
+1970,11A1312,Porto,,Industrial,2023,3
+1971,11A1313,Póvoa de Varzim,,Industrial,2023,3
+1972,11A0109,Santa Maria da Feira,,Industrial,2023,3
+1973,11A1314,Santo Tirso,,Industrial,2023,3
+1974,11A0116,São João da Madeira,,Industrial,2023,3
+1975,11A1318,Trofa,,Industrial,2023,3
+1976,11A0119,Vale de Cambra,,Industrial,2023,3
+1977,11A1315,Valongo,,Industrial,2023,3
+1978,11A1316,Vila do Conde,,Industrial,2023,3
+1979,11A1317,Vila Nova de Gaia,,Industrial,2023,3
+1980,11A,Área Metropolitana do Porto,1168,Total,2023,2
+1981,11A0104,Arouca,7,Total,2023,2
+1982,11A0107,Espinho,15,Total,2023,2
+1983,11A1304,Gondomar,40,Total,2023,2
+1984,11A1306,Maia,79,Total,2023,2
+1985,11A1308,Matosinhos,207,Total,2023,2
+1986,11A0113,Oliveira de Azeméis,4,Total,2023,2
+1987,11A1310,Paredes,25,Total,2023,2
+1988,11A1312,Porto,349,Total,2023,2
+1989,11A1313,Póvoa de Varzim,51,Total,2023,2
+1990,11A0109,Santa Maria da Feira,42,Total,2023,2
+1991,11A1314,Santo Tirso,33,Total,2023,2
+1992,11A0116,São João da Madeira,21,Total,2023,2
+1993,11A1318,Trofa,21,Total,2023,2
+1994,11A0119,Vale de Cambra,6,Total,2023,2
+1995,11A1315,Valongo,58,Total,2023,2
+1996,11A1316,Vila do Conde,22,Total,2023,2
+1997,11A1317,Vila Nova de Gaia,188,Total,2023,2
+1998,11A,Área Metropolitana do Porto,743,Mennekes,2023,2
+1999,11A0104,Arouca,5,Mennekes,2023,2
+2000,11A0107,Espinho,9,Mennekes,2023,2
+2001,11A1304,Gondomar,20,Mennekes,2023,2
+2002,11A1306,Maia,45,Mennekes,2023,2
+2003,11A1308,Matosinhos,143,Mennekes,2023,2
+2004,11A0113,Oliveira de Azeméis,4,Mennekes,2023,2
+2005,11A1310,Paredes,15,Mennekes,2023,2
+2006,11A1312,Porto,237,Mennekes,2023,2
+2007,11A1313,Póvoa de Varzim,26,Mennekes,2023,2
+2008,11A0109,Santa Maria da Feira,22,Mennekes,2023,2
+2009,11A1314,Santo Tirso,15,Mennekes,2023,2
+2010,11A0116,São João da Madeira,15,Mennekes,2023,2
+2011,11A1318,Trofa,11,Mennekes,2023,2
+2012,11A0119,Vale de Cambra,6,Mennekes,2023,2
+2013,11A1315,Valongo,28,Mennekes,2023,2
+2014,11A1316,Vila do Conde,14,Mennekes,2023,2
+2015,11A1317,Vila Nova de Gaia,128,Mennekes,2023,2
+2016,11A,Área Metropolitana do Porto,203,CHAdeMO,2023,2
+2017,11A0104,Arouca,1,CHAdeMO,2023,2
+2018,11A0107,Espinho,3,CHAdeMO,2023,2
+2019,11A1304,Gondomar,10,CHAdeMO,2023,2
+2020,11A1306,Maia,15,CHAdeMO,2023,2
+2021,11A1308,Matosinhos,27,CHAdeMO,2023,2
+2022,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,2
+2023,11A1310,Paredes,5,CHAdeMO,2023,2
+2024,11A1312,Porto,52,CHAdeMO,2023,2
+2025,11A1313,Póvoa de Varzim,13,CHAdeMO,2023,2
+2026,11A0109,Santa Maria da Feira,10,CHAdeMO,2023,2
+2027,11A1314,Santo Tirso,9,CHAdeMO,2023,2
+2028,11A0116,São João da Madeira,3,CHAdeMO,2023,2
+2029,11A1318,Trofa,5,CHAdeMO,2023,2
+2030,11A0119,Vale de Cambra,,CHAdeMO,2023,2
+2031,11A1315,Valongo,16,CHAdeMO,2023,2
+2032,11A1316,Vila do Conde,4,CHAdeMO,2023,2
+2033,11A1317,Vila Nova de Gaia,30,CHAdeMO,2023,2
+2034,11A,Área Metropolitana do Porto,222,CCS,2023,2
+2035,11A0104,Arouca,1,CCS,2023,2
+2036,11A0107,Espinho,3,CCS,2023,2
+2037,11A1304,Gondomar,10,CCS,2023,2
+2038,11A1306,Maia,19,CCS,2023,2
+2039,11A1308,Matosinhos,37,CCS,2023,2
+2040,11A0113,Oliveira de Azeméis,,CCS,2023,2
+2041,11A1310,Paredes,5,CCS,2023,2
+2042,11A1312,Porto,60,CCS,2023,2
+2043,11A1313,Póvoa de Varzim,12,CCS,2023,2
+2044,11A0109,Santa Maria da Feira,10,CCS,2023,2
+2045,11A1314,Santo Tirso,9,CCS,2023,2
+2046,11A0116,São João da Madeira,3,CCS,2023,2
+2047,11A1318,Trofa,5,CCS,2023,2
+2048,11A0119,Vale de Cambra,,CCS,2023,2
+2049,11A1315,Valongo,14,CCS,2023,2
+2050,11A1316,Vila do Conde,4,CCS,2023,2
+2051,11A1317,Vila Nova de Gaia,30,CCS,2023,2
+2052,11A,Área Metropolitana do Porto,,Industrial,2023,2
+2053,11A0104,Arouca,,Industrial,2023,2
+2054,11A0107,Espinho,,Industrial,2023,2
+2055,11A1304,Gondomar,,Industrial,2023,2
+2056,11A1306,Maia,,Industrial,2023,2
+2057,11A1308,Matosinhos,,Industrial,2023,2
+2058,11A0113,Oliveira de Azeméis,,Industrial,2023,2
+2059,11A1310,Paredes,,Industrial,2023,2
+2060,11A1312,Porto,,Industrial,2023,2
+2061,11A1313,Póvoa de Varzim,,Industrial,2023,2
+2062,11A0109,Santa Maria da Feira,,Industrial,2023,2
+2063,11A1314,Santo Tirso,,Industrial,2023,2
+2064,11A0116,São João da Madeira,,Industrial,2023,2
+2065,11A1318,Trofa,,Industrial,2023,2
+2066,11A0119,Vale de Cambra,,Industrial,2023,2
+2067,11A1315,Valongo,,Industrial,2023,2
+2068,11A1316,Vila do Conde,,Industrial,2023,2
+2069,11A1317,Vila Nova de Gaia,,Industrial,2023,2
+2070,11A,Área Metropolitana do Porto,1130,Total,2023,1
+2071,11A0104,Arouca,7,Total,2023,1
+2072,11A0107,Espinho,15,Total,2023,1
+2073,11A1304,Gondomar,40,Total,2023,1
+2074,11A1306,Maia,79,Total,2023,1
+2075,11A1308,Matosinhos,201,Total,2023,1
+2076,11A0113,Oliveira de Azeméis,4,Total,2023,1
+2077,11A1310,Paredes,23,Total,2023,1
+2078,11A1312,Porto,332,Total,2023,1
+2079,11A1313,Póvoa de Varzim,45,Total,2023,1
+2080,11A0109,Santa Maria da Feira,39,Total,2023,1
+2081,11A1314,Santo Tirso,33,Total,2023,1
+2082,11A0116,São João da Madeira,21,Total,2023,1
+2083,11A1318,Trofa,21,Total,2023,1
+2084,11A0119,Vale de Cambra,6,Total,2023,1
+2085,11A1315,Valongo,58,Total,2023,1
+2086,11A1316,Vila do Conde,22,Total,2023,1
+2087,11A1317,Vila Nova de Gaia,184,Total,2023,1
+2088,11A,Área Metropolitana do Porto,715,Mennekes,2023,1
+2089,11A0104,Arouca,5,Mennekes,2023,1
+2090,11A0107,Espinho,9,Mennekes,2023,1
+2091,11A1304,Gondomar,20,Mennekes,2023,1
+2092,11A1306,Maia,45,Mennekes,2023,1
+2093,11A1308,Matosinhos,139,Mennekes,2023,1
+2094,11A0113,Oliveira de Azeméis,4,Mennekes,2023,1
+2095,11A1310,Paredes,13,Mennekes,2023,1
+2096,11A1312,Porto,220,Mennekes,2023,1
+2097,11A1313,Póvoa de Varzim,24,Mennekes,2023,1
+2098,11A0109,Santa Maria da Feira,21,Mennekes,2023,1
+2099,11A1314,Santo Tirso,15,Mennekes,2023,1
+2100,11A0116,São João da Madeira,15,Mennekes,2023,1
+2101,11A1318,Trofa,11,Mennekes,2023,1
+2102,11A0119,Vale de Cambra,6,Mennekes,2023,1
+2103,11A1315,Valongo,28,Mennekes,2023,1
+2104,11A1316,Vila do Conde,14,Mennekes,2023,1
+2105,11A1317,Vila Nova de Gaia,126,Mennekes,2023,1
+2106,11A,Área Metropolitana do Porto,197,CHAdeMO,2023,1
+2107,11A0104,Arouca,1,CHAdeMO,2023,1
+2108,11A0107,Espinho,3,CHAdeMO,2023,1
+2109,11A1304,Gondomar,10,CHAdeMO,2023,1
+2110,11A1306,Maia,15,CHAdeMO,2023,1
+2111,11A1308,Matosinhos,25,CHAdeMO,2023,1
+2112,11A0113,Oliveira de Azeméis,,CHAdeMO,2023,1
+2113,11A1310,Paredes,5,CHAdeMO,2023,1
+2114,11A1312,Porto,52,CHAdeMO,2023,1
+2115,11A1313,Póvoa de Varzim,11,CHAdeMO,2023,1
+2116,11A0109,Santa Maria da Feira,9,CHAdeMO,2023,1
+2117,11A1314,Santo Tirso,9,CHAdeMO,2023,1
+2118,11A0116,São João da Madeira,3,CHAdeMO,2023,1
+2119,11A1318,Trofa,5,CHAdeMO,2023,1
+2120,11A0119,Vale de Cambra,,CHAdeMO,2023,1
+2121,11A1315,Valongo,16,CHAdeMO,2023,1
+2122,11A1316,Vila do Conde,4,CHAdeMO,2023,1
+2123,11A1317,Vila Nova de Gaia,29,CHAdeMO,2023,1
+2124,11A,Área Metropolitana do Porto,218,CCS,2023,1
+2125,11A0104,Arouca,1,CCS,2023,1
+2126,11A0107,Espinho,3,CCS,2023,1
+2127,11A1304,Gondomar,10,CCS,2023,1
+2128,11A1306,Maia,19,CCS,2023,1
+2129,11A1308,Matosinhos,37,CCS,2023,1
+2130,11A0113,Oliveira de Azeméis,,CCS,2023,1
+2131,11A1310,Paredes,5,CCS,2023,1
+2132,11A1312,Porto,60,CCS,2023,1
+2133,11A1313,Póvoa de Varzim,10,CCS,2023,1
+2134,11A0109,Santa Maria da Feira,9,CCS,2023,1
+2135,11A1314,Santo Tirso,9,CCS,2023,1
+2136,11A0116,São João da Madeira,3,CCS,2023,1
+2137,11A1318,Trofa,5,CCS,2023,1
+2138,11A0119,Vale de Cambra,,CCS,2023,1
+2139,11A1315,Valongo,14,CCS,2023,1
+2140,11A1316,Vila do Conde,4,CCS,2023,1
+2141,11A1317,Vila Nova de Gaia,29,CCS,2023,1
+2142,11A,Área Metropolitana do Porto,,Industrial,2023,1
+2143,11A0104,Arouca,,Industrial,2023,1
+2144,11A0107,Espinho,,Industrial,2023,1
+2145,11A1304,Gondomar,,Industrial,2023,1
+2146,11A1306,Maia,,Industrial,2023,1
+2147,11A1308,Matosinhos,,Industrial,2023,1
+2148,11A0113,Oliveira de Azeméis,,Industrial,2023,1
+2149,11A1310,Paredes,,Industrial,2023,1
+2150,11A1312,Porto,,Industrial,2023,1
+2151,11A1313,Póvoa de Varzim,,Industrial,2023,1
+2152,11A0109,Santa Maria da Feira,,Industrial,2023,1
+2153,11A1314,Santo Tirso,,Industrial,2023,1
+2154,11A0116,São João da Madeira,,Industrial,2023,1
+2155,11A1318,Trofa,,Industrial,2023,1
+2156,11A0119,Vale de Cambra,,Industrial,2023,1
+2157,11A1315,Valongo,,Industrial,2023,1
+2158,11A1316,Vila do Conde,,Industrial,2023,1
+2159,11A1317,Vila Nova de Gaia,,Industrial,2023,1
+2160,11A,Área Metropolitana do Porto,1081,Total,2022,12
+2161,11A0104,Arouca,7,Total,2022,12
+2162,11A0107,Espinho,15,Total,2022,12
+2163,11A1304,Gondomar,40,Total,2022,12
+2164,11A1306,Maia,75,Total,2022,12
+2165,11A1308,Matosinhos,189,Total,2022,12
+2166,11A0113,Oliveira de Azeméis,4,Total,2022,12
+2167,11A1310,Paredes,21,Total,2022,12
+2168,11A1312,Porto,306,Total,2022,12
+2169,11A1313,Póvoa de Varzim,45,Total,2022,12
+2170,11A0109,Santa Maria da Feira,39,Total,2022,12
+2171,11A1314,Santo Tirso,33,Total,2022,12
+2172,11A0116,São João da Madeira,21,Total,2022,12
+2173,11A1318,Trofa,21,Total,2022,12
+2174,11A0119,Vale de Cambra,6,Total,2022,12
+2175,11A1315,Valongo,58,Total,2022,12
+2176,11A1316,Vila do Conde,22,Total,2022,12
+2177,11A1317,Vila Nova de Gaia,179,Total,2022,12
+2178,11A,Área Metropolitana do Porto,689,Mennekes,2022,12
+2179,11A0104,Arouca,5,Mennekes,2022,12
+2180,11A0107,Espinho,9,Mennekes,2022,12
+2181,11A1304,Gondomar,20,Mennekes,2022,12
+2182,11A1306,Maia,43,Mennekes,2022,12
+2183,11A1308,Matosinhos,129,Mennekes,2022,12
+2184,11A0113,Oliveira de Azeméis,4,Mennekes,2022,12
+2185,11A1310,Paredes,13,Mennekes,2022,12
+2186,11A1312,Porto,209,Mennekes,2022,12
+2187,11A1313,Póvoa de Varzim,24,Mennekes,2022,12
+2188,11A0109,Santa Maria da Feira,21,Mennekes,2022,12
+2189,11A1314,Santo Tirso,15,Mennekes,2022,12
+2190,11A0116,São João da Madeira,15,Mennekes,2022,12
+2191,11A1318,Trofa,11,Mennekes,2022,12
+2192,11A0119,Vale de Cambra,6,Mennekes,2022,12
+2193,11A1315,Valongo,28,Mennekes,2022,12
+2194,11A1316,Vila do Conde,14,Mennekes,2022,12
+2195,11A1317,Vila Nova de Gaia,123,Mennekes,2022,12
+2196,11A,Área Metropolitana do Porto,185,CHAdeMO,2022,12
+2197,11A0104,Arouca,1,CHAdeMO,2022,12
+2198,11A0107,Espinho,3,CHAdeMO,2022,12
+2199,11A1304,Gondomar,10,CHAdeMO,2022,12
+2200,11A1306,Maia,14,CHAdeMO,2022,12
+2201,11A1308,Matosinhos,24,CHAdeMO,2022,12
+2202,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,12
+2203,11A1310,Paredes,4,CHAdeMO,2022,12
+2204,11A1312,Porto,44,CHAdeMO,2022,12
+2205,11A1313,Póvoa de Varzim,11,CHAdeMO,2022,12
+2206,11A0109,Santa Maria da Feira,9,CHAdeMO,2022,12
+2207,11A1314,Santo Tirso,9,CHAdeMO,2022,12
+2208,11A0116,São João da Madeira,3,CHAdeMO,2022,12
+2209,11A1318,Trofa,5,CHAdeMO,2022,12
+2210,11A0119,Vale de Cambra,,CHAdeMO,2022,12
+2211,11A1315,Valongo,16,CHAdeMO,2022,12
+2212,11A1316,Vila do Conde,4,CHAdeMO,2022,12
+2213,11A1317,Vila Nova de Gaia,28,CHAdeMO,2022,12
+2214,11A,Área Metropolitana do Porto,207,CCS,2022,12
+2215,11A0104,Arouca,1,CCS,2022,12
+2216,11A0107,Espinho,3,CCS,2022,12
+2217,11A1304,Gondomar,10,CCS,2022,12
+2218,11A1306,Maia,18,CCS,2022,12
+2219,11A1308,Matosinhos,36,CCS,2022,12
+2220,11A0113,Oliveira de Azeméis,,CCS,2022,12
+2221,11A1310,Paredes,4,CCS,2022,12
+2222,11A1312,Porto,53,CCS,2022,12
+2223,11A1313,Póvoa de Varzim,10,CCS,2022,12
+2224,11A0109,Santa Maria da Feira,9,CCS,2022,12
+2225,11A1314,Santo Tirso,9,CCS,2022,12
+2226,11A0116,São João da Madeira,3,CCS,2022,12
+2227,11A1318,Trofa,5,CCS,2022,12
+2228,11A0119,Vale de Cambra,,CCS,2022,12
+2229,11A1315,Valongo,14,CCS,2022,12
+2230,11A1316,Vila do Conde,4,CCS,2022,12
+2231,11A1317,Vila Nova de Gaia,28,CCS,2022,12
+2232,11A,Área Metropolitana do Porto,,Industrial,2022,12
+2233,11A0104,Arouca,,Industrial,2022,12
+2234,11A0107,Espinho,,Industrial,2022,12
+2235,11A1304,Gondomar,,Industrial,2022,12
+2236,11A1306,Maia,,Industrial,2022,12
+2237,11A1308,Matosinhos,,Industrial,2022,12
+2238,11A0113,Oliveira de Azeméis,,Industrial,2022,12
+2239,11A1310,Paredes,,Industrial,2022,12
+2240,11A1312,Porto,,Industrial,2022,12
+2241,11A1313,Póvoa de Varzim,,Industrial,2022,12
+2242,11A0109,Santa Maria da Feira,,Industrial,2022,12
+2243,11A1314,Santo Tirso,,Industrial,2022,12
+2244,11A0116,São João da Madeira,,Industrial,2022,12
+2245,11A1318,Trofa,,Industrial,2022,12
+2246,11A0119,Vale de Cambra,,Industrial,2022,12
+2247,11A1315,Valongo,,Industrial,2022,12
+2248,11A1316,Vila do Conde,,Industrial,2022,12
+2249,11A1317,Vila Nova de Gaia,,Industrial,2022,12
+2250,11A,Área Metropolitana do Porto,1023,Total,2022,11
+2251,11A0104,Arouca,7,Total,2022,11
+2252,11A0107,Espinho,15,Total,2022,11
+2253,11A1304,Gondomar,40,Total,2022,11
+2254,11A1306,Maia,60,Total,2022,11
+2255,11A1308,Matosinhos,189,Total,2022,11
+2256,11A0113,Oliveira de Azeméis,4,Total,2022,11
+2257,11A1310,Paredes,21,Total,2022,11
+2258,11A1312,Porto,288,Total,2022,11
+2259,11A1313,Póvoa de Varzim,43,Total,2022,11
+2260,11A0109,Santa Maria da Feira,35,Total,2022,11
+2261,11A1314,Santo Tirso,33,Total,2022,11
+2262,11A0116,São João da Madeira,21,Total,2022,11
+2263,11A1318,Trofa,22,Total,2022,11
+2264,11A0119,Vale de Cambra,6,Total,2022,11
+2265,11A1315,Valongo,49,Total,2022,11
+2266,11A1316,Vila do Conde,22,Total,2022,11
+2267,11A1317,Vila Nova de Gaia,168,Total,2022,11
+2268,11A,Área Metropolitana do Porto,659,Mennekes,2022,11
+2269,11A0104,Arouca,5,Mennekes,2022,11
+2270,11A0107,Espinho,9,Mennekes,2022,11
+2271,11A1304,Gondomar,20,Mennekes,2022,11
+2272,11A1306,Maia,34,Mennekes,2022,11
+2273,11A1308,Matosinhos,131,Mennekes,2022,11
+2274,11A0113,Oliveira de Azeméis,4,Mennekes,2022,11
+2275,11A1310,Paredes,13,Mennekes,2022,11
+2276,11A1312,Porto,199,Mennekes,2022,11
+2277,11A1313,Póvoa de Varzim,22,Mennekes,2022,11
+2278,11A0109,Santa Maria da Feira,19,Mennekes,2022,11
+2279,11A1314,Santo Tirso,15,Mennekes,2022,11
+2280,11A0116,São João da Madeira,15,Mennekes,2022,11
+2281,11A1318,Trofa,12,Mennekes,2022,11
+2282,11A0119,Vale de Cambra,6,Mennekes,2022,11
+2283,11A1315,Valongo,25,Mennekes,2022,11
+2284,11A1316,Vila do Conde,14,Mennekes,2022,11
+2285,11A1317,Vila Nova de Gaia,116,Mennekes,2022,11
+2286,11A,Área Metropolitana do Porto,172,CHAdeMO,2022,11
+2287,11A0104,Arouca,1,CHAdeMO,2022,11
+2288,11A0107,Espinho,3,CHAdeMO,2022,11
+2289,11A1304,Gondomar,10,CHAdeMO,2022,11
+2290,11A1306,Maia,11,CHAdeMO,2022,11
+2291,11A1308,Matosinhos,24,CHAdeMO,2022,11
+2292,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,11
+2293,11A1310,Paredes,4,CHAdeMO,2022,11
+2294,11A1312,Porto,40,CHAdeMO,2022,11
+2295,11A1313,Póvoa de Varzim,11,CHAdeMO,2022,11
+2296,11A0109,Santa Maria da Feira,8,CHAdeMO,2022,11
+2297,11A1314,Santo Tirso,9,CHAdeMO,2022,11
+2298,11A0116,São João da Madeira,3,CHAdeMO,2022,11
+2299,11A1318,Trofa,5,CHAdeMO,2022,11
+2300,11A0119,Vale de Cambra,,CHAdeMO,2022,11
+2301,11A1315,Valongo,13,CHAdeMO,2022,11
+2302,11A1316,Vila do Conde,4,CHAdeMO,2022,11
+2303,11A1317,Vila Nova de Gaia,26,CHAdeMO,2022,11
+2304,11A,Área Metropolitana do Porto,192,CCS,2022,11
+2305,11A0104,Arouca,1,CCS,2022,11
+2306,11A0107,Espinho,3,CCS,2022,11
+2307,11A1304,Gondomar,10,CCS,2022,11
+2308,11A1306,Maia,15,CCS,2022,11
+2309,11A1308,Matosinhos,34,CCS,2022,11
+2310,11A0113,Oliveira de Azeméis,,CCS,2022,11
+2311,11A1310,Paredes,4,CCS,2022,11
+2312,11A1312,Porto,49,CCS,2022,11
+2313,11A1313,Póvoa de Varzim,10,CCS,2022,11
+2314,11A0109,Santa Maria da Feira,8,CCS,2022,11
+2315,11A1314,Santo Tirso,9,CCS,2022,11
+2316,11A0116,São João da Madeira,3,CCS,2022,11
+2317,11A1318,Trofa,5,CCS,2022,11
+2318,11A0119,Vale de Cambra,,CCS,2022,11
+2319,11A1315,Valongo,11,CCS,2022,11
+2320,11A1316,Vila do Conde,4,CCS,2022,11
+2321,11A1317,Vila Nova de Gaia,26,CCS,2022,11
+2322,11A,Área Metropolitana do Porto,,Industrial,2022,11
+2323,11A0104,Arouca,,Industrial,2022,11
+2324,11A0107,Espinho,,Industrial,2022,11
+2325,11A1304,Gondomar,,Industrial,2022,11
+2326,11A1306,Maia,,Industrial,2022,11
+2327,11A1308,Matosinhos,,Industrial,2022,11
+2328,11A0113,Oliveira de Azeméis,,Industrial,2022,11
+2329,11A1310,Paredes,,Industrial,2022,11
+2330,11A1312,Porto,,Industrial,2022,11
+2331,11A1313,Póvoa de Varzim,,Industrial,2022,11
+2332,11A0109,Santa Maria da Feira,,Industrial,2022,11
+2333,11A1314,Santo Tirso,,Industrial,2022,11
+2334,11A0116,São João da Madeira,,Industrial,2022,11
+2335,11A1318,Trofa,,Industrial,2022,11
+2336,11A0119,Vale de Cambra,,Industrial,2022,11
+2337,11A1315,Valongo,,Industrial,2022,11
+2338,11A1316,Vila do Conde,,Industrial,2022,11
+2339,11A1317,Vila Nova de Gaia,,Industrial,2022,11
+2340,11A,Área Metropolitana do Porto,921,Total,2022,10
+2341,11A0104,Arouca,7,Total,2022,10
+2342,11A0107,Espinho,15,Total,2022,10
+2343,11A1304,Gondomar,40,Total,2022,10
+2344,11A1306,Maia,50,Total,2022,10
+2345,11A1308,Matosinhos,112,Total,2022,10
+2346,11A0113,Oliveira de Azeméis,4,Total,2022,10
+2347,11A1310,Paredes,21,Total,2022,10
+2348,11A1312,Porto,283,Total,2022,10
+2349,11A1313,Póvoa de Varzim,43,Total,2022,10
+2350,11A0109,Santa Maria da Feira,31,Total,2022,10
+2351,11A1314,Santo Tirso,33,Total,2022,10
+2352,11A0116,São João da Madeira,21,Total,2022,10
+2353,11A1318,Trofa,22,Total,2022,10
+2354,11A0119,Vale de Cambra,6,Total,2022,10
+2355,11A1315,Valongo,41,Total,2022,10
+2356,11A1316,Vila do Conde,22,Total,2022,10
+2357,11A1317,Vila Nova de Gaia,170,Total,2022,10
+2358,11A,Área Metropolitana do Porto,589,Mennekes,2022,10
+2359,11A0104,Arouca,5,Mennekes,2022,10
+2360,11A0107,Espinho,9,Mennekes,2022,10
+2361,11A1304,Gondomar,20,Mennekes,2022,10
+2362,11A1306,Maia,32,Mennekes,2022,10
+2363,11A1308,Matosinhos,68,Mennekes,2022,10
+2364,11A0113,Oliveira de Azeméis,4,Mennekes,2022,10
+2365,11A1310,Paredes,13,Mennekes,2022,10
+2366,11A1312,Porto,196,Mennekes,2022,10
+2367,11A1313,Póvoa de Varzim,22,Mennekes,2022,10
+2368,11A0109,Santa Maria da Feira,17,Mennekes,2022,10
+2369,11A1314,Santo Tirso,15,Mennekes,2022,10
+2370,11A0116,São João da Madeira,15,Mennekes,2022,10
+2371,11A1318,Trofa,12,Mennekes,2022,10
+2372,11A0119,Vale de Cambra,6,Mennekes,2022,10
+2373,11A1315,Valongo,23,Mennekes,2022,10
+2374,11A1316,Vila do Conde,14,Mennekes,2022,10
+2375,11A1317,Vila Nova de Gaia,118,Mennekes,2022,10
+2376,11A,Área Metropolitana do Porto,162,CHAdeMO,2022,10
+2377,11A0104,Arouca,1,CHAdeMO,2022,10
+2378,11A0107,Espinho,3,CHAdeMO,2022,10
+2379,11A1304,Gondomar,10,CHAdeMO,2022,10
+2380,11A1306,Maia,9,CHAdeMO,2022,10
+2381,11A1308,Matosinhos,21,CHAdeMO,2022,10
+2382,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,10
+2383,11A1310,Paredes,4,CHAdeMO,2022,10
+2384,11A1312,Porto,39,CHAdeMO,2022,10
+2385,11A1313,Póvoa de Varzim,11,CHAdeMO,2022,10
+2386,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,10
+2387,11A1314,Santo Tirso,9,CHAdeMO,2022,10
+2388,11A0116,São João da Madeira,3,CHAdeMO,2022,10
+2389,11A1318,Trofa,5,CHAdeMO,2022,10
+2390,11A0119,Vale de Cambra,,CHAdeMO,2022,10
+2391,11A1315,Valongo,10,CHAdeMO,2022,10
+2392,11A1316,Vila do Conde,4,CHAdeMO,2022,10
+2393,11A1317,Vila Nova de Gaia,26,CHAdeMO,2022,10
+2394,11A,Área Metropolitana do Porto,170,CCS,2022,10
+2395,11A0104,Arouca,1,CCS,2022,10
+2396,11A0107,Espinho,3,CCS,2022,10
+2397,11A1304,Gondomar,10,CCS,2022,10
+2398,11A1306,Maia,9,CCS,2022,10
+2399,11A1308,Matosinhos,23,CCS,2022,10
+2400,11A0113,Oliveira de Azeméis,,CCS,2022,10
+2401,11A1310,Paredes,4,CCS,2022,10
+2402,11A1312,Porto,48,CCS,2022,10
+2403,11A1313,Póvoa de Varzim,10,CCS,2022,10
+2404,11A0109,Santa Maria da Feira,7,CCS,2022,10
+2405,11A1314,Santo Tirso,9,CCS,2022,10
+2406,11A0116,São João da Madeira,3,CCS,2022,10
+2407,11A1318,Trofa,5,CCS,2022,10
+2408,11A0119,Vale de Cambra,,CCS,2022,10
+2409,11A1315,Valongo,8,CCS,2022,10
+2410,11A1316,Vila do Conde,4,CCS,2022,10
+2411,11A1317,Vila Nova de Gaia,26,CCS,2022,10
+2412,11A,Área Metropolitana do Porto,,Industrial,2022,10
+2413,11A0104,Arouca,,Industrial,2022,10
+2414,11A0107,Espinho,,Industrial,2022,10
+2415,11A1304,Gondomar,,Industrial,2022,10
+2416,11A1306,Maia,,Industrial,2022,10
+2417,11A1308,Matosinhos,,Industrial,2022,10
+2418,11A0113,Oliveira de Azeméis,,Industrial,2022,10
+2419,11A1310,Paredes,,Industrial,2022,10
+2420,11A1312,Porto,,Industrial,2022,10
+2421,11A1313,Póvoa de Varzim,,Industrial,2022,10
+2422,11A0109,Santa Maria da Feira,,Industrial,2022,10
+2423,11A1314,Santo Tirso,,Industrial,2022,10
+2424,11A0116,São João da Madeira,,Industrial,2022,10
+2425,11A1318,Trofa,,Industrial,2022,10
+2426,11A0119,Vale de Cambra,,Industrial,2022,10
+2427,11A1315,Valongo,,Industrial,2022,10
+2428,11A1316,Vila do Conde,,Industrial,2022,10
+2429,11A1317,Vila Nova de Gaia,,Industrial,2022,10
+2430,11A,Área Metropolitana do Porto,898,Total,2022,9
+2431,11A0104,Arouca,7,Total,2022,9
+2432,11A0107,Espinho,15,Total,2022,9
+2433,11A1304,Gondomar,39,Total,2022,9
+2434,11A1306,Maia,43,Total,2022,9
+2435,11A1308,Matosinhos,114,Total,2022,9
+2436,11A0113,Oliveira de Azeméis,4,Total,2022,9
+2437,11A1310,Paredes,19,Total,2022,9
+2438,11A1312,Porto,278,Total,2022,9
+2439,11A1313,Póvoa de Varzim,41,Total,2022,9
+2440,11A0109,Santa Maria da Feira,29,Total,2022,9
+2441,11A1314,Santo Tirso,33,Total,2022,9
+2442,11A0116,São João da Madeira,21,Total,2022,9
+2443,11A1318,Trofa,18,Total,2022,9
+2444,11A0119,Vale de Cambra,6,Total,2022,9
+2445,11A1315,Valongo,41,Total,2022,9
+2446,11A1316,Vila do Conde,21,Total,2022,9
+2447,11A1317,Vila Nova de Gaia,169,Total,2022,9
+2448,11A,Área Metropolitana do Porto,573,Mennekes,2022,9
+2449,11A0104,Arouca,5,Mennekes,2022,9
+2450,11A0107,Espinho,9,Mennekes,2022,9
+2451,11A1304,Gondomar,19,Mennekes,2022,9
+2452,11A1306,Maia,29,Mennekes,2022,9
+2453,11A1308,Matosinhos,70,Mennekes,2022,9
+2454,11A0113,Oliveira de Azeméis,4,Mennekes,2022,9
+2455,11A1310,Paredes,11,Mennekes,2022,9
+2456,11A1312,Porto,192,Mennekes,2022,9
+2457,11A1313,Póvoa de Varzim,20,Mennekes,2022,9
+2458,11A0109,Santa Maria da Feira,15,Mennekes,2022,9
+2459,11A1314,Santo Tirso,15,Mennekes,2022,9
+2460,11A0116,São João da Madeira,15,Mennekes,2022,9
+2461,11A1318,Trofa,10,Mennekes,2022,9
+2462,11A0119,Vale de Cambra,6,Mennekes,2022,9
+2463,11A1315,Valongo,23,Mennekes,2022,9
+2464,11A1316,Vila do Conde,13,Mennekes,2022,9
+2465,11A1317,Vila Nova de Gaia,117,Mennekes,2022,9
+2466,11A,Área Metropolitana do Porto,159,CHAdeMO,2022,9
+2467,11A0104,Arouca,1,CHAdeMO,2022,9
+2468,11A0107,Espinho,3,CHAdeMO,2022,9
+2469,11A1304,Gondomar,10,CHAdeMO,2022,9
+2470,11A1306,Maia,7,CHAdeMO,2022,9
+2471,11A1308,Matosinhos,21,CHAdeMO,2022,9
+2472,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,9
+2473,11A1310,Paredes,4,CHAdeMO,2022,9
+2474,11A1312,Porto,39,CHAdeMO,2022,9
+2475,11A1313,Póvoa de Varzim,11,CHAdeMO,2022,9
+2476,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,9
+2477,11A1314,Santo Tirso,9,CHAdeMO,2022,9
+2478,11A0116,São João da Madeira,3,CHAdeMO,2022,9
+2479,11A1318,Trofa,4,CHAdeMO,2022,9
+2480,11A0119,Vale de Cambra,,CHAdeMO,2022,9
+2481,11A1315,Valongo,10,CHAdeMO,2022,9
+2482,11A1316,Vila do Conde,4,CHAdeMO,2022,9
+2483,11A1317,Vila Nova de Gaia,26,CHAdeMO,2022,9
+2484,11A,Área Metropolitana do Porto,166,CCS,2022,9
+2485,11A0104,Arouca,1,CCS,2022,9
+2486,11A0107,Espinho,3,CCS,2022,9
+2487,11A1304,Gondomar,10,CCS,2022,9
+2488,11A1306,Maia,7,CCS,2022,9
+2489,11A1308,Matosinhos,23,CCS,2022,9
+2490,11A0113,Oliveira de Azeméis,,CCS,2022,9
+2491,11A1310,Paredes,4,CCS,2022,9
+2492,11A1312,Porto,47,CCS,2022,9
+2493,11A1313,Póvoa de Varzim,10,CCS,2022,9
+2494,11A0109,Santa Maria da Feira,7,CCS,2022,9
+2495,11A1314,Santo Tirso,9,CCS,2022,9
+2496,11A0116,São João da Madeira,3,CCS,2022,9
+2497,11A1318,Trofa,4,CCS,2022,9
+2498,11A0119,Vale de Cambra,,CCS,2022,9
+2499,11A1315,Valongo,8,CCS,2022,9
+2500,11A1316,Vila do Conde,4,CCS,2022,9
+2501,11A1317,Vila Nova de Gaia,26,CCS,2022,9
+2502,11A,Área Metropolitana do Porto,,Industrial,2022,9
+2503,11A0104,Arouca,,Industrial,2022,9
+2504,11A0107,Espinho,,Industrial,2022,9
+2505,11A1304,Gondomar,,Industrial,2022,9
+2506,11A1306,Maia,,Industrial,2022,9
+2507,11A1308,Matosinhos,,Industrial,2022,9
+2508,11A0113,Oliveira de Azeméis,,Industrial,2022,9
+2509,11A1310,Paredes,,Industrial,2022,9
+2510,11A1312,Porto,,Industrial,2022,9
+2511,11A1313,Póvoa de Varzim,,Industrial,2022,9
+2512,11A0109,Santa Maria da Feira,,Industrial,2022,9
+2513,11A1314,Santo Tirso,,Industrial,2022,9
+2514,11A0116,São João da Madeira,,Industrial,2022,9
+2515,11A1318,Trofa,,Industrial,2022,9
+2516,11A0119,Vale de Cambra,,Industrial,2022,9
+2517,11A1315,Valongo,,Industrial,2022,9
+2518,11A1316,Vila do Conde,,Industrial,2022,9
+2519,11A1317,Vila Nova de Gaia,,Industrial,2022,9
+2520,11A,Área Metropolitana do Porto,891,Total,2022,8
+2521,11A0104,Arouca,7,Total,2022,8
+2522,11A0107,Espinho,15,Total,2022,8
+2523,11A1304,Gondomar,39,Total,2022,8
+2524,11A1306,Maia,43,Total,2022,8
+2525,11A1308,Matosinhos,114,Total,2022,8
+2526,11A0113,Oliveira de Azeméis,4,Total,2022,8
+2527,11A1310,Paredes,17,Total,2022,8
+2528,11A1312,Porto,276,Total,2022,8
+2529,11A1313,Póvoa de Varzim,38,Total,2022,8
+2530,11A0109,Santa Maria da Feira,29,Total,2022,8
+2531,11A1314,Santo Tirso,33,Total,2022,8
+2532,11A0116,São João da Madeira,21,Total,2022,8
+2533,11A1318,Trofa,18,Total,2022,8
+2534,11A0119,Vale de Cambra,6,Total,2022,8
+2535,11A1315,Valongo,41,Total,2022,8
+2536,11A1316,Vila do Conde,21,Total,2022,8
+2537,11A1317,Vila Nova de Gaia,169,Total,2022,8
+2538,11A,Área Metropolitana do Porto,568,Mennekes,2022,8
+2539,11A0104,Arouca,5,Mennekes,2022,8
+2540,11A0107,Espinho,9,Mennekes,2022,8
+2541,11A1304,Gondomar,19,Mennekes,2022,8
+2542,11A1306,Maia,29,Mennekes,2022,8
+2543,11A1308,Matosinhos,70,Mennekes,2022,8
+2544,11A0113,Oliveira de Azeméis,4,Mennekes,2022,8
+2545,11A1310,Paredes,9,Mennekes,2022,8
+2546,11A1312,Porto,190,Mennekes,2022,8
+2547,11A1313,Póvoa de Varzim,19,Mennekes,2022,8
+2548,11A0109,Santa Maria da Feira,15,Mennekes,2022,8
+2549,11A1314,Santo Tirso,15,Mennekes,2022,8
+2550,11A0116,São João da Madeira,15,Mennekes,2022,8
+2551,11A1318,Trofa,10,Mennekes,2022,8
+2552,11A0119,Vale de Cambra,6,Mennekes,2022,8
+2553,11A1315,Valongo,23,Mennekes,2022,8
+2554,11A1316,Vila do Conde,13,Mennekes,2022,8
+2555,11A1317,Vila Nova de Gaia,117,Mennekes,2022,8
+2556,11A,Área Metropolitana do Porto,158,CHAdeMO,2022,8
+2557,11A0104,Arouca,1,CHAdeMO,2022,8
+2558,11A0107,Espinho,3,CHAdeMO,2022,8
+2559,11A1304,Gondomar,10,CHAdeMO,2022,8
+2560,11A1306,Maia,7,CHAdeMO,2022,8
+2561,11A1308,Matosinhos,21,CHAdeMO,2022,8
+2562,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,8
+2563,11A1310,Paredes,4,CHAdeMO,2022,8
+2564,11A1312,Porto,39,CHAdeMO,2022,8
+2565,11A1313,Póvoa de Varzim,10,CHAdeMO,2022,8
+2566,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,8
+2567,11A1314,Santo Tirso,9,CHAdeMO,2022,8
+2568,11A0116,São João da Madeira,3,CHAdeMO,2022,8
+2569,11A1318,Trofa,4,CHAdeMO,2022,8
+2570,11A0119,Vale de Cambra,,CHAdeMO,2022,8
+2571,11A1315,Valongo,10,CHAdeMO,2022,8
+2572,11A1316,Vila do Conde,4,CHAdeMO,2022,8
+2573,11A1317,Vila Nova de Gaia,26,CHAdeMO,2022,8
+2574,11A,Área Metropolitana do Porto,165,CCS,2022,8
+2575,11A0104,Arouca,1,CCS,2022,8
+2576,11A0107,Espinho,3,CCS,2022,8
+2577,11A1304,Gondomar,10,CCS,2022,8
+2578,11A1306,Maia,7,CCS,2022,8
+2579,11A1308,Matosinhos,23,CCS,2022,8
+2580,11A0113,Oliveira de Azeméis,,CCS,2022,8
+2581,11A1310,Paredes,4,CCS,2022,8
+2582,11A1312,Porto,47,CCS,2022,8
+2583,11A1313,Póvoa de Varzim,9,CCS,2022,8
+2584,11A0109,Santa Maria da Feira,7,CCS,2022,8
+2585,11A1314,Santo Tirso,9,CCS,2022,8
+2586,11A0116,São João da Madeira,3,CCS,2022,8
+2587,11A1318,Trofa,4,CCS,2022,8
+2588,11A0119,Vale de Cambra,,CCS,2022,8
+2589,11A1315,Valongo,8,CCS,2022,8
+2590,11A1316,Vila do Conde,4,CCS,2022,8
+2591,11A1317,Vila Nova de Gaia,26,CCS,2022,8
+2592,11A,Área Metropolitana do Porto,,Industrial,2022,8
+2593,11A0104,Arouca,,Industrial,2022,8
+2594,11A0107,Espinho,,Industrial,2022,8
+2595,11A1304,Gondomar,,Industrial,2022,8
+2596,11A1306,Maia,,Industrial,2022,8
+2597,11A1308,Matosinhos,,Industrial,2022,8
+2598,11A0113,Oliveira de Azeméis,,Industrial,2022,8
+2599,11A1310,Paredes,,Industrial,2022,8
+2600,11A1312,Porto,,Industrial,2022,8
+2601,11A1313,Póvoa de Varzim,,Industrial,2022,8
+2602,11A0109,Santa Maria da Feira,,Industrial,2022,8
+2603,11A1314,Santo Tirso,,Industrial,2022,8
+2604,11A0116,São João da Madeira,,Industrial,2022,8
+2605,11A1318,Trofa,,Industrial,2022,8
+2606,11A0119,Vale de Cambra,,Industrial,2022,8
+2607,11A1315,Valongo,,Industrial,2022,8
+2608,11A1316,Vila do Conde,,Industrial,2022,8
+2609,11A1317,Vila Nova de Gaia,,Industrial,2022,8
+2610,11A,Área Metropolitana do Porto,868,Total,2022,7
+2611,11A0104,Arouca,7,Total,2022,7
+2612,11A0107,Espinho,15,Total,2022,7
+2613,11A1304,Gondomar,39,Total,2022,7
+2614,11A1306,Maia,43,Total,2022,7
+2615,11A1308,Matosinhos,110,Total,2022,7
+2616,11A0113,Oliveira de Azeméis,4,Total,2022,7
+2617,11A1310,Paredes,17,Total,2022,7
+2618,11A1312,Porto,271,Total,2022,7
+2619,11A1313,Póvoa de Varzim,35,Total,2022,7
+2620,11A0109,Santa Maria da Feira,29,Total,2022,7
+2621,11A1314,Santo Tirso,26,Total,2022,7
+2622,11A0116,São João da Madeira,21,Total,2022,7
+2623,11A1318,Trofa,18,Total,2022,7
+2624,11A0119,Vale de Cambra,6,Total,2022,7
+2625,11A1315,Valongo,39,Total,2022,7
+2626,11A1316,Vila do Conde,21,Total,2022,7
+2627,11A1317,Vila Nova de Gaia,167,Total,2022,7
+2628,11A,Área Metropolitana do Porto,557,Mennekes,2022,7
+2629,11A0104,Arouca,5,Mennekes,2022,7
+2630,11A0107,Espinho,9,Mennekes,2022,7
+2631,11A1304,Gondomar,19,Mennekes,2022,7
+2632,11A1306,Maia,29,Mennekes,2022,7
+2633,11A1308,Matosinhos,70,Mennekes,2022,7
+2634,11A0113,Oliveira de Azeméis,4,Mennekes,2022,7
+2635,11A1310,Paredes,9,Mennekes,2022,7
+2636,11A1312,Porto,185,Mennekes,2022,7
+2637,11A1313,Póvoa de Varzim,18,Mennekes,2022,7
+2638,11A0109,Santa Maria da Feira,15,Mennekes,2022,7
+2639,11A1314,Santo Tirso,12,Mennekes,2022,7
+2640,11A0116,São João da Madeira,15,Mennekes,2022,7
+2641,11A1318,Trofa,10,Mennekes,2022,7
+2642,11A0119,Vale de Cambra,6,Mennekes,2022,7
+2643,11A1315,Valongo,23,Mennekes,2022,7
+2644,11A1316,Vila do Conde,13,Mennekes,2022,7
+2645,11A1317,Vila Nova de Gaia,115,Mennekes,2022,7
+2646,11A,Área Metropolitana do Porto,152,CHAdeMO,2022,7
+2647,11A0104,Arouca,1,CHAdeMO,2022,7
+2648,11A0107,Espinho,3,CHAdeMO,2022,7
+2649,11A1304,Gondomar,10,CHAdeMO,2022,7
+2650,11A1306,Maia,7,CHAdeMO,2022,7
+2651,11A1308,Matosinhos,19,CHAdeMO,2022,7
+2652,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,7
+2653,11A1310,Paredes,4,CHAdeMO,2022,7
+2654,11A1312,Porto,39,CHAdeMO,2022,7
+2655,11A1313,Póvoa de Varzim,9,CHAdeMO,2022,7
+2656,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,7
+2657,11A1314,Santo Tirso,7,CHAdeMO,2022,7
+2658,11A0116,São João da Madeira,3,CHAdeMO,2022,7
+2659,11A1318,Trofa,4,CHAdeMO,2022,7
+2660,11A0119,Vale de Cambra,,CHAdeMO,2022,7
+2661,11A1315,Valongo,9,CHAdeMO,2022,7
+2662,11A1316,Vila do Conde,4,CHAdeMO,2022,7
+2663,11A1317,Vila Nova de Gaia,26,CHAdeMO,2022,7
+2664,11A,Área Metropolitana do Porto,159,CCS,2022,7
+2665,11A0104,Arouca,1,CCS,2022,7
+2666,11A0107,Espinho,3,CCS,2022,7
+2667,11A1304,Gondomar,10,CCS,2022,7
+2668,11A1306,Maia,7,CCS,2022,7
+2669,11A1308,Matosinhos,21,CCS,2022,7
+2670,11A0113,Oliveira de Azeméis,,CCS,2022,7
+2671,11A1310,Paredes,4,CCS,2022,7
+2672,11A1312,Porto,47,CCS,2022,7
+2673,11A1313,Póvoa de Varzim,8,CCS,2022,7
+2674,11A0109,Santa Maria da Feira,7,CCS,2022,7
+2675,11A1314,Santo Tirso,7,CCS,2022,7
+2676,11A0116,São João da Madeira,3,CCS,2022,7
+2677,11A1318,Trofa,4,CCS,2022,7
+2678,11A0119,Vale de Cambra,,CCS,2022,7
+2679,11A1315,Valongo,7,CCS,2022,7
+2680,11A1316,Vila do Conde,4,CCS,2022,7
+2681,11A1317,Vila Nova de Gaia,26,CCS,2022,7
+2682,11A,Área Metropolitana do Porto,,Industrial,2022,7
+2683,11A0104,Arouca,,Industrial,2022,7
+2684,11A0107,Espinho,,Industrial,2022,7
+2685,11A1304,Gondomar,,Industrial,2022,7
+2686,11A1306,Maia,,Industrial,2022,7
+2687,11A1308,Matosinhos,,Industrial,2022,7
+2688,11A0113,Oliveira de Azeméis,,Industrial,2022,7
+2689,11A1310,Paredes,,Industrial,2022,7
+2690,11A1312,Porto,,Industrial,2022,7
+2691,11A1313,Póvoa de Varzim,,Industrial,2022,7
+2692,11A0109,Santa Maria da Feira,,Industrial,2022,7
+2693,11A1314,Santo Tirso,,Industrial,2022,7
+2694,11A0116,São João da Madeira,,Industrial,2022,7
+2695,11A1318,Trofa,,Industrial,2022,7
+2696,11A0119,Vale de Cambra,,Industrial,2022,7
+2697,11A1315,Valongo,,Industrial,2022,7
+2698,11A1316,Vila do Conde,,Industrial,2022,7
+2699,11A1317,Vila Nova de Gaia,,Industrial,2022,7
+2700,11A,Área Metropolitana do Porto,844,Total,2022,6
+2701,11A0104,Arouca,7,Total,2022,6
+2702,11A0107,Espinho,15,Total,2022,6
+2703,11A1304,Gondomar,39,Total,2022,6
+2704,11A1306,Maia,39,Total,2022,6
+2705,11A1308,Matosinhos,110,Total,2022,6
+2706,11A0113,Oliveira de Azeméis,4,Total,2022,6
+2707,11A1310,Paredes,15,Total,2022,6
+2708,11A1312,Porto,263,Total,2022,6
+2709,11A1313,Póvoa de Varzim,35,Total,2022,6
+2710,11A0109,Santa Maria da Feira,29,Total,2022,6
+2711,11A1314,Santo Tirso,26,Total,2022,6
+2712,11A0116,São João da Madeira,21,Total,2022,6
+2713,11A1318,Trofa,15,Total,2022,6
+2714,11A0119,Vale de Cambra,6,Total,2022,6
+2715,11A1315,Valongo,39,Total,2022,6
+2716,11A1316,Vila do Conde,16,Total,2022,6
+2717,11A1317,Vila Nova de Gaia,165,Total,2022,6
+2718,11A,Área Metropolitana do Porto,551,Mennekes,2022,6
+2719,11A0104,Arouca,5,Mennekes,2022,6
+2720,11A0107,Espinho,9,Mennekes,2022,6
+2721,11A1304,Gondomar,19,Mennekes,2022,6
+2722,11A1306,Maia,27,Mennekes,2022,6
+2723,11A1308,Matosinhos,70,Mennekes,2022,6
+2724,11A0113,Oliveira de Azeméis,4,Mennekes,2022,6
+2725,11A1310,Paredes,9,Mennekes,2022,6
+2726,11A1312,Porto,183,Mennekes,2022,6
+2727,11A1313,Póvoa de Varzim,18,Mennekes,2022,6
+2728,11A0109,Santa Maria da Feira,15,Mennekes,2022,6
+2729,11A1314,Santo Tirso,12,Mennekes,2022,6
+2730,11A0116,São João da Madeira,15,Mennekes,2022,6
+2731,11A1318,Trofa,9,Mennekes,2022,6
+2732,11A0119,Vale de Cambra,6,Mennekes,2022,6
+2733,11A1315,Valongo,23,Mennekes,2022,6
+2734,11A1316,Vila do Conde,12,Mennekes,2022,6
+2735,11A1317,Vila Nova de Gaia,115,Mennekes,2022,6
+2736,11A,Área Metropolitana do Porto,143,CHAdeMO,2022,6
+2737,11A0104,Arouca,1,CHAdeMO,2022,6
+2738,11A0107,Espinho,3,CHAdeMO,2022,6
+2739,11A1304,Gondomar,10,CHAdeMO,2022,6
+2740,11A1306,Maia,6,CHAdeMO,2022,6
+2741,11A1308,Matosinhos,19,CHAdeMO,2022,6
+2742,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,6
+2743,11A1310,Paredes,3,CHAdeMO,2022,6
+2744,11A1312,Porto,36,CHAdeMO,2022,6
+2745,11A1313,Póvoa de Varzim,9,CHAdeMO,2022,6
+2746,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,6
+2747,11A1314,Santo Tirso,7,CHAdeMO,2022,6
+2748,11A0116,São João da Madeira,3,CHAdeMO,2022,6
+2749,11A1318,Trofa,3,CHAdeMO,2022,6
+2750,11A0119,Vale de Cambra,,CHAdeMO,2022,6
+2751,11A1315,Valongo,9,CHAdeMO,2022,6
+2752,11A1316,Vila do Conde,2,CHAdeMO,2022,6
+2753,11A1317,Vila Nova de Gaia,25,CHAdeMO,2022,6
+2754,11A,Área Metropolitana do Porto,150,CCS,2022,6
+2755,11A0104,Arouca,1,CCS,2022,6
+2756,11A0107,Espinho,3,CCS,2022,6
+2757,11A1304,Gondomar,10,CCS,2022,6
+2758,11A1306,Maia,6,CCS,2022,6
+2759,11A1308,Matosinhos,21,CCS,2022,6
+2760,11A0113,Oliveira de Azeméis,,CCS,2022,6
+2761,11A1310,Paredes,3,CCS,2022,6
+2762,11A1312,Porto,44,CCS,2022,6
+2763,11A1313,Póvoa de Varzim,8,CCS,2022,6
+2764,11A0109,Santa Maria da Feira,7,CCS,2022,6
+2765,11A1314,Santo Tirso,7,CCS,2022,6
+2766,11A0116,São João da Madeira,3,CCS,2022,6
+2767,11A1318,Trofa,3,CCS,2022,6
+2768,11A0119,Vale de Cambra,,CCS,2022,6
+2769,11A1315,Valongo,7,CCS,2022,6
+2770,11A1316,Vila do Conde,2,CCS,2022,6
+2771,11A1317,Vila Nova de Gaia,25,CCS,2022,6
+2772,11A,Área Metropolitana do Porto,,Industrial,2022,6
+2773,11A0104,Arouca,,Industrial,2022,6
+2774,11A0107,Espinho,,Industrial,2022,6
+2775,11A1304,Gondomar,,Industrial,2022,6
+2776,11A1306,Maia,,Industrial,2022,6
+2777,11A1308,Matosinhos,,Industrial,2022,6
+2778,11A0113,Oliveira de Azeméis,,Industrial,2022,6
+2779,11A1310,Paredes,,Industrial,2022,6
+2780,11A1312,Porto,,Industrial,2022,6
+2781,11A1313,Póvoa de Varzim,,Industrial,2022,6
+2782,11A0109,Santa Maria da Feira,,Industrial,2022,6
+2783,11A1314,Santo Tirso,,Industrial,2022,6
+2784,11A0116,São João da Madeira,,Industrial,2022,6
+2785,11A1318,Trofa,,Industrial,2022,6
+2786,11A0119,Vale de Cambra,,Industrial,2022,6
+2787,11A1315,Valongo,,Industrial,2022,6
+2788,11A1316,Vila do Conde,,Industrial,2022,6
+2789,11A1317,Vila Nova de Gaia,,Industrial,2022,6
+2790,11A,Área Metropolitana do Porto,828,Total,2022,5
+2791,11A0104,Arouca,7,Total,2022,5
+2792,11A0107,Espinho,15,Total,2022,5
+2793,11A1304,Gondomar,39,Total,2022,5
+2794,11A1306,Maia,38,Total,2022,5
+2795,11A1308,Matosinhos,110,Total,2022,5
+2796,11A0113,Oliveira de Azeméis,4,Total,2022,5
+2797,11A1310,Paredes,15,Total,2022,5
+2798,11A1312,Porto,256,Total,2022,5
+2799,11A1313,Póvoa de Varzim,35,Total,2022,5
+2800,11A0109,Santa Maria da Feira,29,Total,2022,5
+2801,11A1314,Santo Tirso,23,Total,2022,5
+2802,11A0116,São João da Madeira,21,Total,2022,5
+2803,11A1318,Trofa,15,Total,2022,5
+2804,11A0119,Vale de Cambra,6,Total,2022,5
+2805,11A1315,Valongo,36,Total,2022,5
+2806,11A1316,Vila do Conde,16,Total,2022,5
+2807,11A1317,Vila Nova de Gaia,163,Total,2022,5
+2808,11A,Área Metropolitana do Porto,541,Mennekes,2022,5
+2809,11A0104,Arouca,5,Mennekes,2022,5
+2810,11A0107,Espinho,9,Mennekes,2022,5
+2811,11A1304,Gondomar,19,Mennekes,2022,5
+2812,11A1306,Maia,26,Mennekes,2022,5
+2813,11A1308,Matosinhos,70,Mennekes,2022,5
+2814,11A0113,Oliveira de Azeméis,4,Mennekes,2022,5
+2815,11A1310,Paredes,9,Mennekes,2022,5
+2816,11A1312,Porto,178,Mennekes,2022,5
+2817,11A1313,Póvoa de Varzim,18,Mennekes,2022,5
+2818,11A0109,Santa Maria da Feira,15,Mennekes,2022,5
+2819,11A1314,Santo Tirso,11,Mennekes,2022,5
+2820,11A0116,São João da Madeira,15,Mennekes,2022,5
+2821,11A1318,Trofa,9,Mennekes,2022,5
+2822,11A0119,Vale de Cambra,6,Mennekes,2022,5
+2823,11A1315,Valongo,22,Mennekes,2022,5
+2824,11A1316,Vila do Conde,12,Mennekes,2022,5
+2825,11A1317,Vila Nova de Gaia,113,Mennekes,2022,5
+2826,11A,Área Metropolitana do Porto,140,CHAdeMO,2022,5
+2827,11A0104,Arouca,1,CHAdeMO,2022,5
+2828,11A0107,Espinho,3,CHAdeMO,2022,5
+2829,11A1304,Gondomar,10,CHAdeMO,2022,5
+2830,11A1306,Maia,6,CHAdeMO,2022,5
+2831,11A1308,Matosinhos,19,CHAdeMO,2022,5
+2832,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,5
+2833,11A1310,Paredes,3,CHAdeMO,2022,5
+2834,11A1312,Porto,35,CHAdeMO,2022,5
+2835,11A1313,Póvoa de Varzim,9,CHAdeMO,2022,5
+2836,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,5
+2837,11A1314,Santo Tirso,6,CHAdeMO,2022,5
+2838,11A0116,São João da Madeira,3,CHAdeMO,2022,5
+2839,11A1318,Trofa,3,CHAdeMO,2022,5
+2840,11A0119,Vale de Cambra,,CHAdeMO,2022,5
+2841,11A1315,Valongo,8,CHAdeMO,2022,5
+2842,11A1316,Vila do Conde,2,CHAdeMO,2022,5
+2843,11A1317,Vila Nova de Gaia,25,CHAdeMO,2022,5
+2844,11A,Área Metropolitana do Porto,147,CCS,2022,5
+2845,11A0104,Arouca,1,CCS,2022,5
+2846,11A0107,Espinho,3,CCS,2022,5
+2847,11A1304,Gondomar,10,CCS,2022,5
+2848,11A1306,Maia,6,CCS,2022,5
+2849,11A1308,Matosinhos,21,CCS,2022,5
+2850,11A0113,Oliveira de Azeméis,,CCS,2022,5
+2851,11A1310,Paredes,3,CCS,2022,5
+2852,11A1312,Porto,43,CCS,2022,5
+2853,11A1313,Póvoa de Varzim,8,CCS,2022,5
+2854,11A0109,Santa Maria da Feira,7,CCS,2022,5
+2855,11A1314,Santo Tirso,6,CCS,2022,5
+2856,11A0116,São João da Madeira,3,CCS,2022,5
+2857,11A1318,Trofa,3,CCS,2022,5
+2858,11A0119,Vale de Cambra,,CCS,2022,5
+2859,11A1315,Valongo,6,CCS,2022,5
+2860,11A1316,Vila do Conde,2,CCS,2022,5
+2861,11A1317,Vila Nova de Gaia,25,CCS,2022,5
+2862,11A,Área Metropolitana do Porto,,Industrial,2022,5
+2863,11A0104,Arouca,,Industrial,2022,5
+2864,11A0107,Espinho,,Industrial,2022,5
+2865,11A1304,Gondomar,,Industrial,2022,5
+2866,11A1306,Maia,,Industrial,2022,5
+2867,11A1308,Matosinhos,,Industrial,2022,5
+2868,11A0113,Oliveira de Azeméis,,Industrial,2022,5
+2869,11A1310,Paredes,,Industrial,2022,5
+2870,11A1312,Porto,,Industrial,2022,5
+2871,11A1313,Póvoa de Varzim,,Industrial,2022,5
+2872,11A0109,Santa Maria da Feira,,Industrial,2022,5
+2873,11A1314,Santo Tirso,,Industrial,2022,5
+2874,11A0116,São João da Madeira,,Industrial,2022,5
+2875,11A1318,Trofa,,Industrial,2022,5
+2876,11A0119,Vale de Cambra,,Industrial,2022,5
+2877,11A1315,Valongo,,Industrial,2022,5
+2878,11A1316,Vila do Conde,,Industrial,2022,5
+2879,11A1317,Vila Nova de Gaia,,Industrial,2022,5
+2880,11A,Área Metropolitana do Porto,767,Total,2022,4
+2881,11A0104,Arouca,7,Total,2022,4
+2882,11A0107,Espinho,12,Total,2022,4
+2883,11A1304,Gondomar,33,Total,2022,4
+2884,11A1306,Maia,38,Total,2022,4
+2885,11A1308,Matosinhos,107,Total,2022,4
+2886,11A0113,Oliveira de Azeméis,4,Total,2022,4
+2887,11A1310,Paredes,9,Total,2022,4
+2888,11A1312,Porto,240,Total,2022,4
+2889,11A1313,Póvoa de Varzim,32,Total,2022,4
+2890,11A0109,Santa Maria da Feira,29,Total,2022,4
+2891,11A1314,Santo Tirso,23,Total,2022,4
+2892,11A0116,São João da Madeira,18,Total,2022,4
+2893,11A1318,Trofa,15,Total,2022,4
+2894,11A0119,Vale de Cambra,6,Total,2022,4
+2895,11A1315,Valongo,36,Total,2022,4
+2896,11A1316,Vila do Conde,16,Total,2022,4
+2897,11A1317,Vila Nova de Gaia,142,Total,2022,4
+2898,11A,Área Metropolitana do Porto,512,Mennekes,2022,4
+2899,11A0104,Arouca,5,Mennekes,2022,4
+2900,11A0107,Espinho,8,Mennekes,2022,4
+2901,11A1304,Gondomar,17,Mennekes,2022,4
+2902,11A1306,Maia,26,Mennekes,2022,4
+2903,11A1308,Matosinhos,69,Mennekes,2022,4
+2904,11A0113,Oliveira de Azeméis,4,Mennekes,2022,4
+2905,11A1310,Paredes,7,Mennekes,2022,4
+2906,11A1312,Porto,170,Mennekes,2022,4
+2907,11A1313,Póvoa de Varzim,17,Mennekes,2022,4
+2908,11A0109,Santa Maria da Feira,15,Mennekes,2022,4
+2909,11A1314,Santo Tirso,11,Mennekes,2022,4
+2910,11A0116,São João da Madeira,14,Mennekes,2022,4
+2911,11A1318,Trofa,9,Mennekes,2022,4
+2912,11A0119,Vale de Cambra,6,Mennekes,2022,4
+2913,11A1315,Valongo,22,Mennekes,2022,4
+2914,11A1316,Vila do Conde,12,Mennekes,2022,4
+2915,11A1317,Vila Nova de Gaia,100,Mennekes,2022,4
+2916,11A,Área Metropolitana do Porto,126,CHAdeMO,2022,4
+2917,11A0104,Arouca,1,CHAdeMO,2022,4
+2918,11A0107,Espinho,2,CHAdeMO,2022,4
+2919,11A1304,Gondomar,8,CHAdeMO,2022,4
+2920,11A1306,Maia,6,CHAdeMO,2022,4
+2921,11A1308,Matosinhos,18,CHAdeMO,2022,4
+2922,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,4
+2923,11A1310,Paredes,1,CHAdeMO,2022,4
+2924,11A1312,Porto,33,CHAdeMO,2022,4
+2925,11A1313,Póvoa de Varzim,8,CHAdeMO,2022,4
+2926,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,4
+2927,11A1314,Santo Tirso,6,CHAdeMO,2022,4
+2928,11A0116,São João da Madeira,2,CHAdeMO,2022,4
+2929,11A1318,Trofa,3,CHAdeMO,2022,4
+2930,11A0119,Vale de Cambra,,CHAdeMO,2022,4
+2931,11A1315,Valongo,8,CHAdeMO,2022,4
+2932,11A1316,Vila do Conde,2,CHAdeMO,2022,4
+2933,11A1317,Vila Nova de Gaia,21,CHAdeMO,2022,4
+2934,11A,Área Metropolitana do Porto,129,CCS,2022,4
+2935,11A0104,Arouca,1,CCS,2022,4
+2936,11A0107,Espinho,2,CCS,2022,4
+2937,11A1304,Gondomar,8,CCS,2022,4
+2938,11A1306,Maia,6,CCS,2022,4
+2939,11A1308,Matosinhos,20,CCS,2022,4
+2940,11A0113,Oliveira de Azeméis,,CCS,2022,4
+2941,11A1310,Paredes,1,CCS,2022,4
+2942,11A1312,Porto,37,CCS,2022,4
+2943,11A1313,Póvoa de Varzim,7,CCS,2022,4
+2944,11A0109,Santa Maria da Feira,7,CCS,2022,4
+2945,11A1314,Santo Tirso,6,CCS,2022,4
+2946,11A0116,São João da Madeira,2,CCS,2022,4
+2947,11A1318,Trofa,3,CCS,2022,4
+2948,11A0119,Vale de Cambra,,CCS,2022,4
+2949,11A1315,Valongo,6,CCS,2022,4
+2950,11A1316,Vila do Conde,2,CCS,2022,4
+2951,11A1317,Vila Nova de Gaia,21,CCS,2022,4
+2952,11A,Área Metropolitana do Porto,,Industrial,2022,4
+2953,11A0104,Arouca,,Industrial,2022,4
+2954,11A0107,Espinho,,Industrial,2022,4
+2955,11A1304,Gondomar,,Industrial,2022,4
+2956,11A1306,Maia,,Industrial,2022,4
+2957,11A1308,Matosinhos,,Industrial,2022,4
+2958,11A0113,Oliveira de Azeméis,,Industrial,2022,4
+2959,11A1310,Paredes,,Industrial,2022,4
+2960,11A1312,Porto,,Industrial,2022,4
+2961,11A1313,Póvoa de Varzim,,Industrial,2022,4
+2962,11A0109,Santa Maria da Feira,,Industrial,2022,4
+2963,11A1314,Santo Tirso,,Industrial,2022,4
+2964,11A0116,São João da Madeira,,Industrial,2022,4
+2965,11A1318,Trofa,,Industrial,2022,4
+2966,11A0119,Vale de Cambra,,Industrial,2022,4
+2967,11A1315,Valongo,,Industrial,2022,4
+2968,11A1316,Vila do Conde,,Industrial,2022,4
+2969,11A1317,Vila Nova de Gaia,,Industrial,2022,4
+2970,11A,Área Metropolitana do Porto,732,Total,2022,3
+2971,11A0104,Arouca,5,Total,2022,3
+2972,11A0107,Espinho,9,Total,2022,3
+2973,11A1304,Gondomar,30,Total,2022,3
+2974,11A1306,Maia,35,Total,2022,3
+2975,11A1308,Matosinhos,103,Total,2022,3
+2976,11A0113,Oliveira de Azeméis,4,Total,2022,3
+2977,11A1310,Paredes,5,Total,2022,3
+2978,11A1312,Porto,235,Total,2022,3
+2979,11A1313,Póvoa de Varzim,30,Total,2022,3
+2980,11A0109,Santa Maria da Feira,29,Total,2022,3
+2981,11A1314,Santo Tirso,21,Total,2022,3
+2982,11A0116,São João da Madeira,16,Total,2022,3
+2983,11A1318,Trofa,15,Total,2022,3
+2984,11A0119,Vale de Cambra,6,Total,2022,3
+2985,11A1315,Valongo,36,Total,2022,3
+2986,11A1316,Vila do Conde,16,Total,2022,3
+2987,11A1317,Vila Nova de Gaia,137,Total,2022,3
+2988,11A,Área Metropolitana do Porto,490,Mennekes,2022,3
+2989,11A0104,Arouca,3,Mennekes,2022,3
+2990,11A0107,Espinho,7,Mennekes,2022,3
+2991,11A1304,Gondomar,16,Mennekes,2022,3
+2992,11A1306,Maia,25,Mennekes,2022,3
+2993,11A1308,Matosinhos,65,Mennekes,2022,3
+2994,11A0113,Oliveira de Azeméis,4,Mennekes,2022,3
+2995,11A1310,Paredes,5,Mennekes,2022,3
+2996,11A1312,Porto,166,Mennekes,2022,3
+2997,11A1313,Póvoa de Varzim,15,Mennekes,2022,3
+2998,11A0109,Santa Maria da Feira,15,Mennekes,2022,3
+2999,11A1314,Santo Tirso,11,Mennekes,2022,3
+3000,11A0116,São João da Madeira,12,Mennekes,2022,3
+3001,11A1318,Trofa,9,Mennekes,2022,3
+3002,11A0119,Vale de Cambra,6,Mennekes,2022,3
+3003,11A1315,Valongo,22,Mennekes,2022,3
+3004,11A1316,Vila do Conde,12,Mennekes,2022,3
+3005,11A1317,Vila Nova de Gaia,97,Mennekes,2022,3
+3006,11A,Área Metropolitana do Porto,120,CHAdeMO,2022,3
+3007,11A0104,Arouca,1,CHAdeMO,2022,3
+3008,11A0107,Espinho,1,CHAdeMO,2022,3
+3009,11A1304,Gondomar,7,CHAdeMO,2022,3
+3010,11A1306,Maia,5,CHAdeMO,2022,3
+3011,11A1308,Matosinhos,18,CHAdeMO,2022,3
+3012,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,3
+3013,11A1310,Paredes,,CHAdeMO,2022,3
+3014,11A1312,Porto,33,CHAdeMO,2022,3
+3015,11A1313,Póvoa de Varzim,8,CHAdeMO,2022,3
+3016,11A0109,Santa Maria da Feira,7,CHAdeMO,2022,3
+3017,11A1314,Santo Tirso,5,CHAdeMO,2022,3
+3018,11A0116,São João da Madeira,2,CHAdeMO,2022,3
+3019,11A1318,Trofa,3,CHAdeMO,2022,3
+3020,11A0119,Vale de Cambra,,CHAdeMO,2022,3
+3021,11A1315,Valongo,8,CHAdeMO,2022,3
+3022,11A1316,Vila do Conde,2,CHAdeMO,2022,3
+3023,11A1317,Vila Nova de Gaia,20,CHAdeMO,2022,3
+3024,11A,Área Metropolitana do Porto,122,CCS,2022,3
+3025,11A0104,Arouca,1,CCS,2022,3
+3026,11A0107,Espinho,1,CCS,2022,3
+3027,11A1304,Gondomar,7,CCS,2022,3
+3028,11A1306,Maia,5,CCS,2022,3
+3029,11A1308,Matosinhos,20,CCS,2022,3
+3030,11A0113,Oliveira de Azeméis,,CCS,2022,3
+3031,11A1310,Paredes,,CCS,2022,3
+3032,11A1312,Porto,36,CCS,2022,3
+3033,11A1313,Póvoa de Varzim,7,CCS,2022,3
+3034,11A0109,Santa Maria da Feira,7,CCS,2022,3
+3035,11A1314,Santo Tirso,5,CCS,2022,3
+3036,11A0116,São João da Madeira,2,CCS,2022,3
+3037,11A1318,Trofa,3,CCS,2022,3
+3038,11A0119,Vale de Cambra,,CCS,2022,3
+3039,11A1315,Valongo,6,CCS,2022,3
+3040,11A1316,Vila do Conde,2,CCS,2022,3
+3041,11A1317,Vila Nova de Gaia,20,CCS,2022,3
+3042,11A,Área Metropolitana do Porto,,Industrial,2022,3
+3043,11A0104,Arouca,,Industrial,2022,3
+3044,11A0107,Espinho,,Industrial,2022,3
+3045,11A1304,Gondomar,,Industrial,2022,3
+3046,11A1306,Maia,,Industrial,2022,3
+3047,11A1308,Matosinhos,,Industrial,2022,3
+3048,11A0113,Oliveira de Azeméis,,Industrial,2022,3
+3049,11A1310,Paredes,,Industrial,2022,3
+3050,11A1312,Porto,,Industrial,2022,3
+3051,11A1313,Póvoa de Varzim,,Industrial,2022,3
+3052,11A0109,Santa Maria da Feira,,Industrial,2022,3
+3053,11A1314,Santo Tirso,,Industrial,2022,3
+3054,11A0116,São João da Madeira,,Industrial,2022,3
+3055,11A1318,Trofa,,Industrial,2022,3
+3056,11A0119,Vale de Cambra,,Industrial,2022,3
+3057,11A1315,Valongo,,Industrial,2022,3
+3058,11A1316,Vila do Conde,,Industrial,2022,3
+3059,11A1317,Vila Nova de Gaia,,Industrial,2022,3
+3060,11A,Área Metropolitana do Porto,694,Total,2022,2
+3061,11A0104,Arouca,5,Total,2022,2
+3062,11A0107,Espinho,4,Total,2022,2
+3063,11A1304,Gondomar,27,Total,2022,2
+3064,11A1306,Maia,34,Total,2022,2
+3065,11A1308,Matosinhos,97,Total,2022,2
+3066,11A0113,Oliveira de Azeméis,4,Total,2022,2
+3067,11A1310,Paredes,5,Total,2022,2
+3068,11A1312,Porto,229,Total,2022,2
+3069,11A1313,Póvoa de Varzim,26,Total,2022,2
+3070,11A0109,Santa Maria da Feira,25,Total,2022,2
+3071,11A1314,Santo Tirso,18,Total,2022,2
+3072,11A0116,São João da Madeira,13,Total,2022,2
+3073,11A1318,Trofa,15,Total,2022,2
+3074,11A0119,Vale de Cambra,6,Total,2022,2
+3075,11A1315,Valongo,33,Total,2022,2
+3076,11A1316,Vila do Conde,18,Total,2022,2
+3077,11A1317,Vila Nova de Gaia,135,Total,2022,2
+3078,11A,Área Metropolitana do Porto,476,Mennekes,2022,2
+3079,11A0104,Arouca,3,Mennekes,2022,2
+3080,11A0107,Espinho,4,Mennekes,2022,2
+3081,11A1304,Gondomar,15,Mennekes,2022,2
+3082,11A1306,Maia,24,Mennekes,2022,2
+3083,11A1308,Matosinhos,63,Mennekes,2022,2
+3084,11A0113,Oliveira de Azeméis,4,Mennekes,2022,2
+3085,11A1310,Paredes,5,Mennekes,2022,2
+3086,11A1312,Porto,164,Mennekes,2022,2
+3087,11A1313,Póvoa de Varzim,13,Mennekes,2022,2
+3088,11A0109,Santa Maria da Feira,13,Mennekes,2022,2
+3089,11A1314,Santo Tirso,10,Mennekes,2022,2
+3090,11A0116,São João da Madeira,11,Mennekes,2022,2
+3091,11A1318,Trofa,9,Mennekes,2022,2
+3092,11A0119,Vale de Cambra,6,Mennekes,2022,2
+3093,11A1315,Valongo,21,Mennekes,2022,2
+3094,11A1316,Vila do Conde,14,Mennekes,2022,2
+3095,11A1317,Vila Nova de Gaia,97,Mennekes,2022,2
+3096,11A,Área Metropolitana do Porto,108,CHAdeMO,2022,2
+3097,11A0104,Arouca,1,CHAdeMO,2022,2
+3098,11A0107,Espinho,,CHAdeMO,2022,2
+3099,11A1304,Gondomar,6,CHAdeMO,2022,2
+3100,11A1306,Maia,5,CHAdeMO,2022,2
+3101,11A1308,Matosinhos,16,CHAdeMO,2022,2
+3102,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,2
+3103,11A1310,Paredes,,CHAdeMO,2022,2
+3104,11A1312,Porto,31,CHAdeMO,2022,2
+3105,11A1313,Póvoa de Varzim,7,CHAdeMO,2022,2
+3106,11A0109,Santa Maria da Feira,6,CHAdeMO,2022,2
+3107,11A1314,Santo Tirso,4,CHAdeMO,2022,2
+3108,11A0116,São João da Madeira,1,CHAdeMO,2022,2
+3109,11A1318,Trofa,3,CHAdeMO,2022,2
+3110,11A0119,Vale de Cambra,,CHAdeMO,2022,2
+3111,11A1315,Valongo,7,CHAdeMO,2022,2
+3112,11A1316,Vila do Conde,2,CHAdeMO,2022,2
+3113,11A1317,Vila Nova de Gaia,19,CHAdeMO,2022,2
+3114,11A,Área Metropolitana do Porto,110,CCS,2022,2
+3115,11A0104,Arouca,1,CCS,2022,2
+3116,11A0107,Espinho,,CCS,2022,2
+3117,11A1304,Gondomar,6,CCS,2022,2
+3118,11A1306,Maia,5,CCS,2022,2
+3119,11A1308,Matosinhos,18,CCS,2022,2
+3120,11A0113,Oliveira de Azeméis,,CCS,2022,2
+3121,11A1310,Paredes,,CCS,2022,2
+3122,11A1312,Porto,34,CCS,2022,2
+3123,11A1313,Póvoa de Varzim,6,CCS,2022,2
+3124,11A0109,Santa Maria da Feira,6,CCS,2022,2
+3125,11A1314,Santo Tirso,4,CCS,2022,2
+3126,11A0116,São João da Madeira,1,CCS,2022,2
+3127,11A1318,Trofa,3,CCS,2022,2
+3128,11A0119,Vale de Cambra,,CCS,2022,2
+3129,11A1315,Valongo,5,CCS,2022,2
+3130,11A1316,Vila do Conde,2,CCS,2022,2
+3131,11A1317,Vila Nova de Gaia,19,CCS,2022,2
+3132,11A,Área Metropolitana do Porto,,Industrial,2022,2
+3133,11A0104,Arouca,,Industrial,2022,2
+3134,11A0107,Espinho,,Industrial,2022,2
+3135,11A1304,Gondomar,,Industrial,2022,2
+3136,11A1306,Maia,,Industrial,2022,2
+3137,11A1308,Matosinhos,,Industrial,2022,2
+3138,11A0113,Oliveira de Azeméis,,Industrial,2022,2
+3139,11A1310,Paredes,,Industrial,2022,2
+3140,11A1312,Porto,,Industrial,2022,2
+3141,11A1313,Póvoa de Varzim,,Industrial,2022,2
+3142,11A0109,Santa Maria da Feira,,Industrial,2022,2
+3143,11A1314,Santo Tirso,,Industrial,2022,2
+3144,11A0116,São João da Madeira,,Industrial,2022,2
+3145,11A1318,Trofa,,Industrial,2022,2
+3146,11A0119,Vale de Cambra,,Industrial,2022,2
+3147,11A1315,Valongo,,Industrial,2022,2
+3148,11A1316,Vila do Conde,,Industrial,2022,2
+3149,11A1317,Vila Nova de Gaia,,Industrial,2022,2
+3150,11A,Área Metropolitana do Porto,650,Total,2022,1
+3151,11A0104,Arouca,5,Total,2022,1
+3152,11A0107,Espinho,4,Total,2022,1
+3153,11A1304,Gondomar,19,Total,2022,1
+3154,11A1306,Maia,34,Total,2022,1
+3155,11A1308,Matosinhos,91,Total,2022,1
+3156,11A0113,Oliveira de Azeméis,4,Total,2022,1
+3157,11A1310,Paredes,5,Total,2022,1
+3158,11A1312,Porto,226,Total,2022,1
+3159,11A1313,Póvoa de Varzim,22,Total,2022,1
+3160,11A0109,Santa Maria da Feira,25,Total,2022,1
+3161,11A1314,Santo Tirso,15,Total,2022,1
+3162,11A0116,São João da Madeira,11,Total,2022,1
+3163,11A1318,Trofa,15,Total,2022,1
+3164,11A0119,Vale de Cambra,6,Total,2022,1
+3165,11A1315,Valongo,29,Total,2022,1
+3166,11A1316,Vila do Conde,14,Total,2022,1
+3167,11A1317,Vila Nova de Gaia,125,Total,2022,1
+3168,11A,Área Metropolitana do Porto,448,Mennekes,2022,1
+3169,11A0104,Arouca,3,Mennekes,2022,1
+3170,11A0107,Espinho,4,Mennekes,2022,1
+3171,11A1304,Gondomar,9,Mennekes,2022,1
+3172,11A1306,Maia,24,Mennekes,2022,1
+3173,11A1308,Matosinhos,63,Mennekes,2022,1
+3174,11A0113,Oliveira de Azeméis,4,Mennekes,2022,1
+3175,11A1310,Paredes,5,Mennekes,2022,1
+3176,11A1312,Porto,161,Mennekes,2022,1
+3177,11A1313,Póvoa de Varzim,9,Mennekes,2022,1
+3178,11A0109,Santa Maria da Feira,13,Mennekes,2022,1
+3179,11A1314,Santo Tirso,9,Mennekes,2022,1
+3180,11A0116,São João da Madeira,9,Mennekes,2022,1
+3181,11A1318,Trofa,9,Mennekes,2022,1
+3182,11A0119,Vale de Cambra,6,Mennekes,2022,1
+3183,11A1315,Valongo,17,Mennekes,2022,1
+3184,11A1316,Vila do Conde,10,Mennekes,2022,1
+3185,11A1317,Vila Nova de Gaia,93,Mennekes,2022,1
+3186,11A,Área Metropolitana do Porto,100,CHAdeMO,2022,1
+3187,11A0104,Arouca,1,CHAdeMO,2022,1
+3188,11A0107,Espinho,,CHAdeMO,2022,1
+3189,11A1304,Gondomar,5,CHAdeMO,2022,1
+3190,11A1306,Maia,5,CHAdeMO,2022,1
+3191,11A1308,Matosinhos,13,CHAdeMO,2022,1
+3192,11A0113,Oliveira de Azeméis,,CHAdeMO,2022,1
+3193,11A1310,Paredes,,CHAdeMO,2022,1
+3194,11A1312,Porto,31,CHAdeMO,2022,1
+3195,11A1313,Póvoa de Varzim,7,CHAdeMO,2022,1
+3196,11A0109,Santa Maria da Feira,6,CHAdeMO,2022,1
+3197,11A1314,Santo Tirso,3,CHAdeMO,2022,1
+3198,11A0116,São João da Madeira,1,CHAdeMO,2022,1
+3199,11A1318,Trofa,3,CHAdeMO,2022,1
+3200,11A0119,Vale de Cambra,,CHAdeMO,2022,1
+3201,11A1315,Valongo,7,CHAdeMO,2022,1
+3202,11A1316,Vila do Conde,2,CHAdeMO,2022,1
+3203,11A1317,Vila Nova de Gaia,16,CHAdeMO,2022,1
+3204,11A,Área Metropolitana do Porto,102,CCS,2022,1
+3205,11A0104,Arouca,1,CCS,2022,1
+3206,11A0107,Espinho,,CCS,2022,1
+3207,11A1304,Gondomar,5,CCS,2022,1
+3208,11A1306,Maia,5,CCS,2022,1
+3209,11A1308,Matosinhos,15,CCS,2022,1
+3210,11A0113,Oliveira de Azeméis,,CCS,2022,1
+3211,11A1310,Paredes,,CCS,2022,1
+3212,11A1312,Porto,34,CCS,2022,1
+3213,11A1313,Póvoa de Varzim,6,CCS,2022,1
+3214,11A0109,Santa Maria da Feira,6,CCS,2022,1
+3215,11A1314,Santo Tirso,3,CCS,2022,1
+3216,11A0116,São João da Madeira,1,CCS,2022,1
+3217,11A1318,Trofa,3,CCS,2022,1
+3218,11A0119,Vale de Cambra,,CCS,2022,1
+3219,11A1315,Valongo,5,CCS,2022,1
+3220,11A1316,Vila do Conde,2,CCS,2022,1
+3221,11A1317,Vila Nova de Gaia,16,CCS,2022,1
+3222,11A,Área Metropolitana do Porto,,Industrial,2022,1
+3223,11A0104,Arouca,,Industrial,2022,1
+3224,11A0107,Espinho,,Industrial,2022,1
+3225,11A1304,Gondomar,,Industrial,2022,1
+3226,11A1306,Maia,,Industrial,2022,1
+3227,11A1308,Matosinhos,,Industrial,2022,1
+3228,11A0113,Oliveira de Azeméis,,Industrial,2022,1
+3229,11A1310,Paredes,,Industrial,2022,1
+3230,11A1312,Porto,,Industrial,2022,1
+3231,11A1313,Póvoa de Varzim,,Industrial,2022,1
+3232,11A0109,Santa Maria da Feira,,Industrial,2022,1
+3233,11A1314,Santo Tirso,,Industrial,2022,1
+3234,11A0116,São João da Madeira,,Industrial,2022,1
+3235,11A1318,Trofa,,Industrial,2022,1
+3236,11A0119,Vale de Cambra,,Industrial,2022,1
+3237,11A1315,Valongo,,Industrial,2022,1
+3238,11A1316,Vila do Conde,,Industrial,2022,1
+3239,11A1317,Vila Nova de Gaia,,Industrial,2022,1
+3240,11A,Área Metropolitana do Porto,635,Total,2021,12
+3241,11A0104,Arouca,5,Total,2021,12
+3242,11A0107,Espinho,4,Total,2021,12
+3243,11A1304,Gondomar,14,Total,2021,12
+3244,11A1306,Maia,37,Total,2021,12
+3245,11A1308,Matosinhos,91,Total,2021,12
+3246,11A0113,Oliveira de Azeméis,4,Total,2021,12
+3247,11A1310,Paredes,5,Total,2021,12
+3248,11A1312,Porto,216,Total,2021,12
+3249,11A1313,Póvoa de Varzim,22,Total,2021,12
+3250,11A0109,Santa Maria da Feira,25,Total,2021,12
+3251,11A1314,Santo Tirso,15,Total,2021,12
+3252,11A0116,São João da Madeira,11,Total,2021,12
+3253,11A1318,Trofa,12,Total,2021,12
+3254,11A0119,Vale de Cambra,6,Total,2021,12
+3255,11A1315,Valongo,29,Total,2021,12
+3256,11A1316,Vila do Conde,14,Total,2021,12
+3257,11A1317,Vila Nova de Gaia,125,Total,2021,12
+3258,11A,Área Metropolitana do Porto,441,Mennekes,2021,12
+3259,11A0104,Arouca,3,Mennekes,2021,12
+3260,11A0107,Espinho,4,Mennekes,2021,12
+3261,11A1304,Gondomar,8,Mennekes,2021,12
+3262,11A1306,Maia,25,Mennekes,2021,12
+3263,11A1308,Matosinhos,63,Mennekes,2021,12
+3264,11A0113,Oliveira de Azeméis,4,Mennekes,2021,12
+3265,11A1310,Paredes,5,Mennekes,2021,12
+3266,11A1312,Porto,155,Mennekes,2021,12
+3267,11A1313,Póvoa de Varzim,9,Mennekes,2021,12
+3268,11A0109,Santa Maria da Feira,13,Mennekes,2021,12
+3269,11A1314,Santo Tirso,9,Mennekes,2021,12
+3270,11A0116,São João da Madeira,9,Mennekes,2021,12
+3271,11A1318,Trofa,8,Mennekes,2021,12
+3272,11A0119,Vale de Cambra,6,Mennekes,2021,12
+3273,11A1315,Valongo,17,Mennekes,2021,12
+3274,11A1316,Vila do Conde,10,Mennekes,2021,12
+3275,11A1317,Vila Nova de Gaia,93,Mennekes,2021,12
+3276,11A,Área Metropolitana do Porto,96,CHAdeMO,2021,12
+3277,11A0104,Arouca,1,CHAdeMO,2021,12
+3278,11A0107,Espinho,,CHAdeMO,2021,12
+3279,11A1304,Gondomar,3,CHAdeMO,2021,12
+3280,11A1306,Maia,6,CHAdeMO,2021,12
+3281,11A1308,Matosinhos,13,CHAdeMO,2021,12
+3282,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,12
+3283,11A1310,Paredes,,CHAdeMO,2021,12
+3284,11A1312,Porto,29,CHAdeMO,2021,12
+3285,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,12
+3286,11A0109,Santa Maria da Feira,6,CHAdeMO,2021,12
+3287,11A1314,Santo Tirso,3,CHAdeMO,2021,12
+3288,11A0116,São João da Madeira,1,CHAdeMO,2021,12
+3289,11A1318,Trofa,2,CHAdeMO,2021,12
+3290,11A0119,Vale de Cambra,,CHAdeMO,2021,12
+3291,11A1315,Valongo,7,CHAdeMO,2021,12
+3292,11A1316,Vila do Conde,2,CHAdeMO,2021,12
+3293,11A1317,Vila Nova de Gaia,16,CHAdeMO,2021,12
+3294,11A,Área Metropolitana do Porto,98,CCS,2021,12
+3295,11A0104,Arouca,1,CCS,2021,12
+3296,11A0107,Espinho,,CCS,2021,12
+3297,11A1304,Gondomar,3,CCS,2021,12
+3298,11A1306,Maia,6,CCS,2021,12
+3299,11A1308,Matosinhos,15,CCS,2021,12
+3300,11A0113,Oliveira de Azeméis,,CCS,2021,12
+3301,11A1310,Paredes,,CCS,2021,12
+3302,11A1312,Porto,32,CCS,2021,12
+3303,11A1313,Póvoa de Varzim,6,CCS,2021,12
+3304,11A0109,Santa Maria da Feira,6,CCS,2021,12
+3305,11A1314,Santo Tirso,3,CCS,2021,12
+3306,11A0116,São João da Madeira,1,CCS,2021,12
+3307,11A1318,Trofa,2,CCS,2021,12
+3308,11A0119,Vale de Cambra,,CCS,2021,12
+3309,11A1315,Valongo,5,CCS,2021,12
+3310,11A1316,Vila do Conde,2,CCS,2021,12
+3311,11A1317,Vila Nova de Gaia,16,CCS,2021,12
+3312,11A,Área Metropolitana do Porto,,Industrial,2021,12
+3313,11A0104,Arouca,,Industrial,2021,12
+3314,11A0107,Espinho,,Industrial,2021,12
+3315,11A1304,Gondomar,,Industrial,2021,12
+3316,11A1306,Maia,,Industrial,2021,12
+3317,11A1308,Matosinhos,,Industrial,2021,12
+3318,11A0113,Oliveira de Azeméis,,Industrial,2021,12
+3319,11A1310,Paredes,,Industrial,2021,12
+3320,11A1312,Porto,,Industrial,2021,12
+3321,11A1313,Póvoa de Varzim,,Industrial,2021,12
+3322,11A0109,Santa Maria da Feira,,Industrial,2021,12
+3323,11A1314,Santo Tirso,,Industrial,2021,12
+3324,11A0116,São João da Madeira,,Industrial,2021,12
+3325,11A1318,Trofa,,Industrial,2021,12
+3326,11A0119,Vale de Cambra,,Industrial,2021,12
+3327,11A1315,Valongo,,Industrial,2021,12
+3328,11A1316,Vila do Conde,,Industrial,2021,12
+3329,11A1317,Vila Nova de Gaia,,Industrial,2021,12
+3330,11A,Área Metropolitana do Porto,622,Total,2021,11
+3331,11A0104,Arouca,2,Total,2021,11
+3332,11A0107,Espinho,4,Total,2021,11
+3333,11A1304,Gondomar,14,Total,2021,11
+3334,11A1306,Maia,37,Total,2021,11
+3335,11A1308,Matosinhos,87,Total,2021,11
+3336,11A0113,Oliveira de Azeméis,4,Total,2021,11
+3337,11A1310,Paredes,5,Total,2021,11
+3338,11A1312,Porto,212,Total,2021,11
+3339,11A1313,Póvoa de Varzim,22,Total,2021,11
+3340,11A0109,Santa Maria da Feira,23,Total,2021,11
+3341,11A1314,Santo Tirso,15,Total,2021,11
+3342,11A0116,São João da Madeira,11,Total,2021,11
+3343,11A1318,Trofa,12,Total,2021,11
+3344,11A0119,Vale de Cambra,6,Total,2021,11
+3345,11A1315,Valongo,29,Total,2021,11
+3346,11A1316,Vila do Conde,14,Total,2021,11
+3347,11A1317,Vila Nova de Gaia,125,Total,2021,11
+3348,11A,Área Metropolitana do Porto,430,Mennekes,2021,11
+3349,11A0104,Arouca,2,Mennekes,2021,11
+3350,11A0107,Espinho,4,Mennekes,2021,11
+3351,11A1304,Gondomar,8,Mennekes,2021,11
+3352,11A1306,Maia,25,Mennekes,2021,11
+3353,11A1308,Matosinhos,59,Mennekes,2021,11
+3354,11A0113,Oliveira de Azeméis,4,Mennekes,2021,11
+3355,11A1310,Paredes,5,Mennekes,2021,11
+3356,11A1312,Porto,151,Mennekes,2021,11
+3357,11A1313,Póvoa de Varzim,9,Mennekes,2021,11
+3358,11A0109,Santa Maria da Feira,11,Mennekes,2021,11
+3359,11A1314,Santo Tirso,9,Mennekes,2021,11
+3360,11A0116,São João da Madeira,9,Mennekes,2021,11
+3361,11A1318,Trofa,8,Mennekes,2021,11
+3362,11A0119,Vale de Cambra,6,Mennekes,2021,11
+3363,11A1315,Valongo,17,Mennekes,2021,11
+3364,11A1316,Vila do Conde,10,Mennekes,2021,11
+3365,11A1317,Vila Nova de Gaia,93,Mennekes,2021,11
+3366,11A,Área Metropolitana do Porto,95,CHAdeMO,2021,11
+3367,11A0104,Arouca,,CHAdeMO,2021,11
+3368,11A0107,Espinho,,CHAdeMO,2021,11
+3369,11A1304,Gondomar,3,CHAdeMO,2021,11
+3370,11A1306,Maia,6,CHAdeMO,2021,11
+3371,11A1308,Matosinhos,13,CHAdeMO,2021,11
+3372,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,11
+3373,11A1310,Paredes,,CHAdeMO,2021,11
+3374,11A1312,Porto,29,CHAdeMO,2021,11
+3375,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,11
+3376,11A0109,Santa Maria da Feira,6,CHAdeMO,2021,11
+3377,11A1314,Santo Tirso,3,CHAdeMO,2021,11
+3378,11A0116,São João da Madeira,1,CHAdeMO,2021,11
+3379,11A1318,Trofa,2,CHAdeMO,2021,11
+3380,11A0119,Vale de Cambra,,CHAdeMO,2021,11
+3381,11A1315,Valongo,7,CHAdeMO,2021,11
+3382,11A1316,Vila do Conde,2,CHAdeMO,2021,11
+3383,11A1317,Vila Nova de Gaia,16,CHAdeMO,2021,11
+3384,11A,Área Metropolitana do Porto,97,CCS,2021,11
+3385,11A0104,Arouca,,CCS,2021,11
+3386,11A0107,Espinho,,CCS,2021,11
+3387,11A1304,Gondomar,3,CCS,2021,11
+3388,11A1306,Maia,6,CCS,2021,11
+3389,11A1308,Matosinhos,15,CCS,2021,11
+3390,11A0113,Oliveira de Azeméis,,CCS,2021,11
+3391,11A1310,Paredes,,CCS,2021,11
+3392,11A1312,Porto,32,CCS,2021,11
+3393,11A1313,Póvoa de Varzim,6,CCS,2021,11
+3394,11A0109,Santa Maria da Feira,6,CCS,2021,11
+3395,11A1314,Santo Tirso,3,CCS,2021,11
+3396,11A0116,São João da Madeira,1,CCS,2021,11
+3397,11A1318,Trofa,2,CCS,2021,11
+3398,11A0119,Vale de Cambra,,CCS,2021,11
+3399,11A1315,Valongo,5,CCS,2021,11
+3400,11A1316,Vila do Conde,2,CCS,2021,11
+3401,11A1317,Vila Nova de Gaia,16,CCS,2021,11
+3402,11A,Área Metropolitana do Porto,,Industrial,2021,11
+3403,11A0104,Arouca,,Industrial,2021,11
+3404,11A0107,Espinho,,Industrial,2021,11
+3405,11A1304,Gondomar,,Industrial,2021,11
+3406,11A1306,Maia,,Industrial,2021,11
+3407,11A1308,Matosinhos,,Industrial,2021,11
+3408,11A0113,Oliveira de Azeméis,,Industrial,2021,11
+3409,11A1310,Paredes,,Industrial,2021,11
+3410,11A1312,Porto,,Industrial,2021,11
+3411,11A1313,Póvoa de Varzim,,Industrial,2021,11
+3412,11A0109,Santa Maria da Feira,,Industrial,2021,11
+3413,11A1314,Santo Tirso,,Industrial,2021,11
+3414,11A0116,São João da Madeira,,Industrial,2021,11
+3415,11A1318,Trofa,,Industrial,2021,11
+3416,11A0119,Vale de Cambra,,Industrial,2021,11
+3417,11A1315,Valongo,,Industrial,2021,11
+3418,11A1316,Vila do Conde,,Industrial,2021,11
+3419,11A1317,Vila Nova de Gaia,,Industrial,2021,11
+3420,11A,Área Metropolitana do Porto,590,Total,2021,10
+3421,11A0104,Arouca,2,Total,2021,10
+3422,11A0107,Espinho,4,Total,2021,10
+3423,11A1304,Gondomar,14,Total,2021,10
+3424,11A1306,Maia,37,Total,2021,10
+3425,11A1308,Matosinhos,81,Total,2021,10
+3426,11A0113,Oliveira de Azeméis,4,Total,2021,10
+3427,11A1310,Paredes,5,Total,2021,10
+3428,11A1312,Porto,191,Total,2021,10
+3429,11A1313,Póvoa de Varzim,22,Total,2021,10
+3430,11A0109,Santa Maria da Feira,23,Total,2021,10
+3431,11A1314,Santo Tirso,15,Total,2021,10
+3432,11A0116,São João da Madeira,11,Total,2021,10
+3433,11A1318,Trofa,12,Total,2021,10
+3434,11A0119,Vale de Cambra,6,Total,2021,10
+3435,11A1315,Valongo,27,Total,2021,10
+3436,11A1316,Vila do Conde,14,Total,2021,10
+3437,11A1317,Vila Nova de Gaia,122,Total,2021,10
+3438,11A,Área Metropolitana do Porto,412,Mennekes,2021,10
+3439,11A0104,Arouca,2,Mennekes,2021,10
+3440,11A0107,Espinho,4,Mennekes,2021,10
+3441,11A1304,Gondomar,8,Mennekes,2021,10
+3442,11A1306,Maia,25,Mennekes,2021,10
+3443,11A1308,Matosinhos,57,Mennekes,2021,10
+3444,11A0113,Oliveira de Azeméis,4,Mennekes,2021,10
+3445,11A1310,Paredes,5,Mennekes,2021,10
+3446,11A1312,Porto,138,Mennekes,2021,10
+3447,11A1313,Póvoa de Varzim,9,Mennekes,2021,10
+3448,11A0109,Santa Maria da Feira,11,Mennekes,2021,10
+3449,11A1314,Santo Tirso,9,Mennekes,2021,10
+3450,11A0116,São João da Madeira,9,Mennekes,2021,10
+3451,11A1318,Trofa,8,Mennekes,2021,10
+3452,11A0119,Vale de Cambra,6,Mennekes,2021,10
+3453,11A1315,Valongo,15,Mennekes,2021,10
+3454,11A1316,Vila do Conde,10,Mennekes,2021,10
+3455,11A1317,Vila Nova de Gaia,92,Mennekes,2021,10
+3456,11A,Área Metropolitana do Porto,88,CHAdeMO,2021,10
+3457,11A0104,Arouca,,CHAdeMO,2021,10
+3458,11A0107,Espinho,,CHAdeMO,2021,10
+3459,11A1304,Gondomar,3,CHAdeMO,2021,10
+3460,11A1306,Maia,6,CHAdeMO,2021,10
+3461,11A1308,Matosinhos,11,CHAdeMO,2021,10
+3462,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,10
+3463,11A1310,Paredes,,CHAdeMO,2021,10
+3464,11A1312,Porto,25,CHAdeMO,2021,10
+3465,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,10
+3466,11A0109,Santa Maria da Feira,6,CHAdeMO,2021,10
+3467,11A1314,Santo Tirso,3,CHAdeMO,2021,10
+3468,11A0116,São João da Madeira,1,CHAdeMO,2021,10
+3469,11A1318,Trofa,2,CHAdeMO,2021,10
+3470,11A0119,Vale de Cambra,,CHAdeMO,2021,10
+3471,11A1315,Valongo,7,CHAdeMO,2021,10
+3472,11A1316,Vila do Conde,2,CHAdeMO,2021,10
+3473,11A1317,Vila Nova de Gaia,15,CHAdeMO,2021,10
+3474,11A,Área Metropolitana do Porto,90,CCS,2021,10
+3475,11A0104,Arouca,,CCS,2021,10
+3476,11A0107,Espinho,,CCS,2021,10
+3477,11A1304,Gondomar,3,CCS,2021,10
+3478,11A1306,Maia,6,CCS,2021,10
+3479,11A1308,Matosinhos,13,CCS,2021,10
+3480,11A0113,Oliveira de Azeméis,,CCS,2021,10
+3481,11A1310,Paredes,,CCS,2021,10
+3482,11A1312,Porto,28,CCS,2021,10
+3483,11A1313,Póvoa de Varzim,6,CCS,2021,10
+3484,11A0109,Santa Maria da Feira,6,CCS,2021,10
+3485,11A1314,Santo Tirso,3,CCS,2021,10
+3486,11A0116,São João da Madeira,1,CCS,2021,10
+3487,11A1318,Trofa,2,CCS,2021,10
+3488,11A0119,Vale de Cambra,,CCS,2021,10
+3489,11A1315,Valongo,5,CCS,2021,10
+3490,11A1316,Vila do Conde,2,CCS,2021,10
+3491,11A1317,Vila Nova de Gaia,15,CCS,2021,10
+3492,11A,Área Metropolitana do Porto,,Industrial,2021,10
+3493,11A0104,Arouca,,Industrial,2021,10
+3494,11A0107,Espinho,,Industrial,2021,10
+3495,11A1304,Gondomar,,Industrial,2021,10
+3496,11A1306,Maia,,Industrial,2021,10
+3497,11A1308,Matosinhos,,Industrial,2021,10
+3498,11A0113,Oliveira de Azeméis,,Industrial,2021,10
+3499,11A1310,Paredes,,Industrial,2021,10
+3500,11A1312,Porto,,Industrial,2021,10
+3501,11A1313,Póvoa de Varzim,,Industrial,2021,10
+3502,11A0109,Santa Maria da Feira,,Industrial,2021,10
+3503,11A1314,Santo Tirso,,Industrial,2021,10
+3504,11A0116,São João da Madeira,,Industrial,2021,10
+3505,11A1318,Trofa,,Industrial,2021,10
+3506,11A0119,Vale de Cambra,,Industrial,2021,10
+3507,11A1315,Valongo,,Industrial,2021,10
+3508,11A1316,Vila do Conde,,Industrial,2021,10
+3509,11A1317,Vila Nova de Gaia,,Industrial,2021,10
+3510,11A,Área Metropolitana do Porto,577,Total,2021,9
+3511,11A0104,Arouca,2,Total,2021,9
+3512,11A0107,Espinho,4,Total,2021,9
+3513,11A1304,Gondomar,14,Total,2021,9
+3514,11A1306,Maia,36,Total,2021,9
+3515,11A1308,Matosinhos,79,Total,2021,9
+3516,11A0113,Oliveira de Azeméis,4,Total,2021,9
+3517,11A1310,Paredes,5,Total,2021,9
+3518,11A1312,Porto,189,Total,2021,9
+3519,11A1313,Póvoa de Varzim,22,Total,2021,9
+3520,11A0109,Santa Maria da Feira,23,Total,2021,9
+3521,11A1314,Santo Tirso,15,Total,2021,9
+3522,11A0116,São João da Madeira,11,Total,2021,9
+3523,11A1318,Trofa,12,Total,2021,9
+3524,11A0119,Vale de Cambra,6,Total,2021,9
+3525,11A1315,Valongo,24,Total,2021,9
+3526,11A1316,Vila do Conde,12,Total,2021,9
+3527,11A1317,Vila Nova de Gaia,119,Total,2021,9
+3528,11A,Área Metropolitana do Porto,403,Mennekes,2021,9
+3529,11A0104,Arouca,2,Mennekes,2021,9
+3530,11A0107,Espinho,4,Mennekes,2021,9
+3531,11A1304,Gondomar,8,Mennekes,2021,9
+3532,11A1306,Maia,24,Mennekes,2021,9
+3533,11A1308,Matosinhos,55,Mennekes,2021,9
+3534,11A0113,Oliveira de Azeméis,4,Mennekes,2021,9
+3535,11A1310,Paredes,5,Mennekes,2021,9
+3536,11A1312,Porto,136,Mennekes,2021,9
+3537,11A1313,Póvoa de Varzim,9,Mennekes,2021,9
+3538,11A0109,Santa Maria da Feira,11,Mennekes,2021,9
+3539,11A1314,Santo Tirso,9,Mennekes,2021,9
+3540,11A0116,São João da Madeira,9,Mennekes,2021,9
+3541,11A1318,Trofa,8,Mennekes,2021,9
+3542,11A0119,Vale de Cambra,6,Mennekes,2021,9
+3543,11A1315,Valongo,14,Mennekes,2021,9
+3544,11A1316,Vila do Conde,8,Mennekes,2021,9
+3545,11A1317,Vila Nova de Gaia,91,Mennekes,2021,9
+3546,11A,Área Metropolitana do Porto,86,CHAdeMO,2021,9
+3547,11A0104,Arouca,,CHAdeMO,2021,9
+3548,11A0107,Espinho,,CHAdeMO,2021,9
+3549,11A1304,Gondomar,3,CHAdeMO,2021,9
+3550,11A1306,Maia,6,CHAdeMO,2021,9
+3551,11A1308,Matosinhos,11,CHAdeMO,2021,9
+3552,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,9
+3553,11A1310,Paredes,,CHAdeMO,2021,9
+3554,11A1312,Porto,25,CHAdeMO,2021,9
+3555,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,9
+3556,11A0109,Santa Maria da Feira,6,CHAdeMO,2021,9
+3557,11A1314,Santo Tirso,3,CHAdeMO,2021,9
+3558,11A0116,São João da Madeira,1,CHAdeMO,2021,9
+3559,11A1318,Trofa,2,CHAdeMO,2021,9
+3560,11A0119,Vale de Cambra,,CHAdeMO,2021,9
+3561,11A1315,Valongo,6,CHAdeMO,2021,9
+3562,11A1316,Vila do Conde,2,CHAdeMO,2021,9
+3563,11A1317,Vila Nova de Gaia,14,CHAdeMO,2021,9
+3564,11A,Área Metropolitana do Porto,88,CCS,2021,9
+3565,11A0104,Arouca,,CCS,2021,9
+3566,11A0107,Espinho,,CCS,2021,9
+3567,11A1304,Gondomar,3,CCS,2021,9
+3568,11A1306,Maia,6,CCS,2021,9
+3569,11A1308,Matosinhos,13,CCS,2021,9
+3570,11A0113,Oliveira de Azeméis,,CCS,2021,9
+3571,11A1310,Paredes,,CCS,2021,9
+3572,11A1312,Porto,28,CCS,2021,9
+3573,11A1313,Póvoa de Varzim,6,CCS,2021,9
+3574,11A0109,Santa Maria da Feira,6,CCS,2021,9
+3575,11A1314,Santo Tirso,3,CCS,2021,9
+3576,11A0116,São João da Madeira,1,CCS,2021,9
+3577,11A1318,Trofa,2,CCS,2021,9
+3578,11A0119,Vale de Cambra,,CCS,2021,9
+3579,11A1315,Valongo,4,CCS,2021,9
+3580,11A1316,Vila do Conde,2,CCS,2021,9
+3581,11A1317,Vila Nova de Gaia,14,CCS,2021,9
+3582,11A,Área Metropolitana do Porto,,Industrial,2021,9
+3583,11A0104,Arouca,,Industrial,2021,9
+3584,11A0107,Espinho,,Industrial,2021,9
+3585,11A1304,Gondomar,,Industrial,2021,9
+3586,11A1306,Maia,,Industrial,2021,9
+3587,11A1308,Matosinhos,,Industrial,2021,9
+3588,11A0113,Oliveira de Azeméis,,Industrial,2021,9
+3589,11A1310,Paredes,,Industrial,2021,9
+3590,11A1312,Porto,,Industrial,2021,9
+3591,11A1313,Póvoa de Varzim,,Industrial,2021,9
+3592,11A0109,Santa Maria da Feira,,Industrial,2021,9
+3593,11A1314,Santo Tirso,,Industrial,2021,9
+3594,11A0116,São João da Madeira,,Industrial,2021,9
+3595,11A1318,Trofa,,Industrial,2021,9
+3596,11A0119,Vale de Cambra,,Industrial,2021,9
+3597,11A1315,Valongo,,Industrial,2021,9
+3598,11A1316,Vila do Conde,,Industrial,2021,9
+3599,11A1317,Vila Nova de Gaia,,Industrial,2021,9
+3600,11A,Área Metropolitana do Porto,565,Total,2021,8
+3601,11A0104,Arouca,2,Total,2021,8
+3602,11A0107,Espinho,4,Total,2021,8
+3603,11A1304,Gondomar,13,Total,2021,8
+3604,11A1306,Maia,34,Total,2021,8
+3605,11A1308,Matosinhos,75,Total,2021,8
+3606,11A0113,Oliveira de Azeméis,4,Total,2021,8
+3607,11A1310,Paredes,7,Total,2021,8
+3608,11A1312,Porto,185,Total,2021,8
+3609,11A1313,Póvoa de Varzim,22,Total,2021,8
+3610,11A0109,Santa Maria da Feira,23,Total,2021,8
+3611,11A1314,Santo Tirso,15,Total,2021,8
+3612,11A0116,São João da Madeira,11,Total,2021,8
+3613,11A1318,Trofa,12,Total,2021,8
+3614,11A0119,Vale de Cambra,6,Total,2021,8
+3615,11A1315,Valongo,21,Total,2021,8
+3616,11A1316,Vila do Conde,16,Total,2021,8
+3617,11A1317,Vila Nova de Gaia,115,Total,2021,8
+3618,11A,Área Metropolitana do Porto,398,Mennekes,2021,8
+3619,11A0104,Arouca,2,Mennekes,2021,8
+3620,11A0107,Espinho,4,Mennekes,2021,8
+3621,11A1304,Gondomar,7,Mennekes,2021,8
+3622,11A1306,Maia,22,Mennekes,2021,8
+3623,11A1308,Matosinhos,53,Mennekes,2021,8
+3624,11A0113,Oliveira de Azeméis,4,Mennekes,2021,8
+3625,11A1310,Paredes,7,Mennekes,2021,8
+3626,11A1312,Porto,134,Mennekes,2021,8
+3627,11A1313,Póvoa de Varzim,9,Mennekes,2021,8
+3628,11A0109,Santa Maria da Feira,11,Mennekes,2021,8
+3629,11A1314,Santo Tirso,9,Mennekes,2021,8
+3630,11A0116,São João da Madeira,9,Mennekes,2021,8
+3631,11A1318,Trofa,8,Mennekes,2021,8
+3632,11A0119,Vale de Cambra,6,Mennekes,2021,8
+3633,11A1315,Valongo,14,Mennekes,2021,8
+3634,11A1316,Vila do Conde,12,Mennekes,2021,8
+3635,11A1317,Vila Nova de Gaia,87,Mennekes,2021,8
+3636,11A,Área Metropolitana do Porto,82,CHAdeMO,2021,8
+3637,11A0104,Arouca,,CHAdeMO,2021,8
+3638,11A0107,Espinho,,CHAdeMO,2021,8
+3639,11A1304,Gondomar,3,CHAdeMO,2021,8
+3640,11A1306,Maia,6,CHAdeMO,2021,8
+3641,11A1308,Matosinhos,10,CHAdeMO,2021,8
+3642,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,8
+3643,11A1310,Paredes,,CHAdeMO,2021,8
+3644,11A1312,Porto,24,CHAdeMO,2021,8
+3645,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,8
+3646,11A0109,Santa Maria da Feira,6,CHAdeMO,2021,8
+3647,11A1314,Santo Tirso,3,CHAdeMO,2021,8
+3648,11A0116,São João da Madeira,1,CHAdeMO,2021,8
+3649,11A1318,Trofa,2,CHAdeMO,2021,8
+3650,11A0119,Vale de Cambra,,CHAdeMO,2021,8
+3651,11A1315,Valongo,4,CHAdeMO,2021,8
+3652,11A1316,Vila do Conde,2,CHAdeMO,2021,8
+3653,11A1317,Vila Nova de Gaia,14,CHAdeMO,2021,8
+3654,11A,Área Metropolitana do Porto,85,CCS,2021,8
+3655,11A0104,Arouca,,CCS,2021,8
+3656,11A0107,Espinho,,CCS,2021,8
+3657,11A1304,Gondomar,3,CCS,2021,8
+3658,11A1306,Maia,6,CCS,2021,8
+3659,11A1308,Matosinhos,12,CCS,2021,8
+3660,11A0113,Oliveira de Azeméis,,CCS,2021,8
+3661,11A1310,Paredes,,CCS,2021,8
+3662,11A1312,Porto,27,CCS,2021,8
+3663,11A1313,Póvoa de Varzim,6,CCS,2021,8
+3664,11A0109,Santa Maria da Feira,6,CCS,2021,8
+3665,11A1314,Santo Tirso,3,CCS,2021,8
+3666,11A0116,São João da Madeira,1,CCS,2021,8
+3667,11A1318,Trofa,2,CCS,2021,8
+3668,11A0119,Vale de Cambra,,CCS,2021,8
+3669,11A1315,Valongo,3,CCS,2021,8
+3670,11A1316,Vila do Conde,2,CCS,2021,8
+3671,11A1317,Vila Nova de Gaia,14,CCS,2021,8
+3672,11A,Área Metropolitana do Porto,,Industrial,2021,8
+3673,11A0104,Arouca,,Industrial,2021,8
+3674,11A0107,Espinho,,Industrial,2021,8
+3675,11A1304,Gondomar,,Industrial,2021,8
+3676,11A1306,Maia,,Industrial,2021,8
+3677,11A1308,Matosinhos,,Industrial,2021,8
+3678,11A0113,Oliveira de Azeméis,,Industrial,2021,8
+3679,11A1310,Paredes,,Industrial,2021,8
+3680,11A1312,Porto,,Industrial,2021,8
+3681,11A1313,Póvoa de Varzim,,Industrial,2021,8
+3682,11A0109,Santa Maria da Feira,,Industrial,2021,8
+3683,11A1314,Santo Tirso,,Industrial,2021,8
+3684,11A0116,São João da Madeira,,Industrial,2021,8
+3685,11A1318,Trofa,,Industrial,2021,8
+3686,11A0119,Vale de Cambra,,Industrial,2021,8
+3687,11A1315,Valongo,,Industrial,2021,8
+3688,11A1316,Vila do Conde,,Industrial,2021,8
+3689,11A1317,Vila Nova de Gaia,,Industrial,2021,8
+3690,11A,Área Metropolitana do Porto,550,Total,2021,7
+3691,11A0104,Arouca,2,Total,2021,7
+3692,11A0107,Espinho,4,Total,2021,7
+3693,11A1304,Gondomar,13,Total,2021,7
+3694,11A1306,Maia,32,Total,2021,7
+3695,11A1308,Matosinhos,66,Total,2021,7
+3696,11A0113,Oliveira de Azeméis,4,Total,2021,7
+3697,11A1310,Paredes,7,Total,2021,7
+3698,11A1312,Porto,187,Total,2021,7
+3699,11A1313,Póvoa de Varzim,22,Total,2021,7
+3700,11A0109,Santa Maria da Feira,23,Total,2021,7
+3701,11A1314,Santo Tirso,15,Total,2021,7
+3702,11A0116,São João da Madeira,11,Total,2021,7
+3703,11A1318,Trofa,6,Total,2021,7
+3704,11A0119,Vale de Cambra,6,Total,2021,7
+3705,11A1315,Valongo,21,Total,2021,7
+3706,11A1316,Vila do Conde,16,Total,2021,7
+3707,11A1317,Vila Nova de Gaia,115,Total,2021,7
+3708,11A,Área Metropolitana do Porto,391,Mennekes,2021,7
+3709,11A0104,Arouca,2,Mennekes,2021,7
+3710,11A0107,Espinho,4,Mennekes,2021,7
+3711,11A1304,Gondomar,7,Mennekes,2021,7
+3712,11A1306,Maia,20,Mennekes,2021,7
+3713,11A1308,Matosinhos,48,Mennekes,2021,7
+3714,11A0113,Oliveira de Azeméis,4,Mennekes,2021,7
+3715,11A1310,Paredes,7,Mennekes,2021,7
+3716,11A1312,Porto,136,Mennekes,2021,7
+3717,11A1313,Póvoa de Varzim,9,Mennekes,2021,7
+3718,11A0109,Santa Maria da Feira,11,Mennekes,2021,7
+3719,11A1314,Santo Tirso,9,Mennekes,2021,7
+3720,11A0116,São João da Madeira,9,Mennekes,2021,7
+3721,11A1318,Trofa,6,Mennekes,2021,7
+3722,11A0119,Vale de Cambra,6,Mennekes,2021,7
+3723,11A1315,Valongo,14,Mennekes,2021,7
+3724,11A1316,Vila do Conde,12,Mennekes,2021,7
+3725,11A1317,Vila Nova de Gaia,87,Mennekes,2021,7
+3726,11A,Área Metropolitana do Porto,78,CHAdeMO,2021,7
+3727,11A0104,Arouca,,CHAdeMO,2021,7
+3728,11A0107,Espinho,,CHAdeMO,2021,7
+3729,11A1304,Gondomar,3,CHAdeMO,2021,7
+3730,11A1306,Maia,6,CHAdeMO,2021,7
+3731,11A1308,Matosinhos,8,CHAdeMO,2021,7
+3732,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,7
+3733,11A1310,Paredes,,CHAdeMO,2021,7
+3734,11A1312,Porto,24,CHAdeMO,2021,7
+3735,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,7
+3736,11A0109,Santa Maria da Feira,6,CHAdeMO,2021,7
+3737,11A1314,Santo Tirso,3,CHAdeMO,2021,7
+3738,11A0116,São João da Madeira,1,CHAdeMO,2021,7
+3739,11A1318,Trofa,,CHAdeMO,2021,7
+3740,11A0119,Vale de Cambra,,CHAdeMO,2021,7
+3741,11A1315,Valongo,4,CHAdeMO,2021,7
+3742,11A1316,Vila do Conde,2,CHAdeMO,2021,7
+3743,11A1317,Vila Nova de Gaia,14,CHAdeMO,2021,7
+3744,11A,Área Metropolitana do Porto,81,CCS,2021,7
+3745,11A0104,Arouca,,CCS,2021,7
+3746,11A0107,Espinho,,CCS,2021,7
+3747,11A1304,Gondomar,3,CCS,2021,7
+3748,11A1306,Maia,6,CCS,2021,7
+3749,11A1308,Matosinhos,10,CCS,2021,7
+3750,11A0113,Oliveira de Azeméis,,CCS,2021,7
+3751,11A1310,Paredes,,CCS,2021,7
+3752,11A1312,Porto,27,CCS,2021,7
+3753,11A1313,Póvoa de Varzim,6,CCS,2021,7
+3754,11A0109,Santa Maria da Feira,6,CCS,2021,7
+3755,11A1314,Santo Tirso,3,CCS,2021,7
+3756,11A0116,São João da Madeira,1,CCS,2021,7
+3757,11A1318,Trofa,,CCS,2021,7
+3758,11A0119,Vale de Cambra,,CCS,2021,7
+3759,11A1315,Valongo,3,CCS,2021,7
+3760,11A1316,Vila do Conde,2,CCS,2021,7
+3761,11A1317,Vila Nova de Gaia,14,CCS,2021,7
+3762,11A,Área Metropolitana do Porto,,Industrial,2021,7
+3763,11A0104,Arouca,,Industrial,2021,7
+3764,11A0107,Espinho,,Industrial,2021,7
+3765,11A1304,Gondomar,,Industrial,2021,7
+3766,11A1306,Maia,,Industrial,2021,7
+3767,11A1308,Matosinhos,,Industrial,2021,7
+3768,11A0113,Oliveira de Azeméis,,Industrial,2021,7
+3769,11A1310,Paredes,,Industrial,2021,7
+3770,11A1312,Porto,,Industrial,2021,7
+3771,11A1313,Póvoa de Varzim,,Industrial,2021,7
+3772,11A0109,Santa Maria da Feira,,Industrial,2021,7
+3773,11A1314,Santo Tirso,,Industrial,2021,7
+3774,11A0116,São João da Madeira,,Industrial,2021,7
+3775,11A1318,Trofa,,Industrial,2021,7
+3776,11A0119,Vale de Cambra,,Industrial,2021,7
+3777,11A1315,Valongo,,Industrial,2021,7
+3778,11A1316,Vila do Conde,,Industrial,2021,7
+3779,11A1317,Vila Nova de Gaia,,Industrial,2021,7
+3780,11A,Área Metropolitana do Porto,528,Total,2021,6
+3781,11A0104,Arouca,2,Total,2021,6
+3782,11A0107,Espinho,2,Total,2021,6
+3783,11A1304,Gondomar,13,Total,2021,6
+3784,11A1306,Maia,32,Total,2021,6
+3785,11A1308,Matosinhos,64,Total,2021,6
+3786,11A0113,Oliveira de Azeméis,4,Total,2021,6
+3787,11A1310,Paredes,6,Total,2021,6
+3788,11A1312,Porto,179,Total,2021,6
+3789,11A1313,Póvoa de Varzim,22,Total,2021,6
+3790,11A0109,Santa Maria da Feira,16,Total,2021,6
+3791,11A1314,Santo Tirso,15,Total,2021,6
+3792,11A0116,São João da Madeira,11,Total,2021,6
+3793,11A1318,Trofa,6,Total,2021,6
+3794,11A0119,Vale de Cambra,6,Total,2021,6
+3795,11A1315,Valongo,20,Total,2021,6
+3796,11A1316,Vila do Conde,16,Total,2021,6
+3797,11A1317,Vila Nova de Gaia,114,Total,2021,6
+3798,11A,Área Metropolitana do Porto,377,Mennekes,2021,6
+3799,11A0104,Arouca,2,Mennekes,2021,6
+3800,11A0107,Espinho,2,Mennekes,2021,6
+3801,11A1304,Gondomar,7,Mennekes,2021,6
+3802,11A1306,Maia,20,Mennekes,2021,6
+3803,11A1308,Matosinhos,48,Mennekes,2021,6
+3804,11A0113,Oliveira de Azeméis,4,Mennekes,2021,6
+3805,11A1310,Paredes,6,Mennekes,2021,6
+3806,11A1312,Porto,128,Mennekes,2021,6
+3807,11A1313,Póvoa de Varzim,9,Mennekes,2021,6
+3808,11A0109,Santa Maria da Feira,8,Mennekes,2021,6
+3809,11A1314,Santo Tirso,9,Mennekes,2021,6
+3810,11A0116,São João da Madeira,9,Mennekes,2021,6
+3811,11A1318,Trofa,6,Mennekes,2021,6
+3812,11A0119,Vale de Cambra,6,Mennekes,2021,6
+3813,11A1315,Valongo,15,Mennekes,2021,6
+3814,11A1316,Vila do Conde,12,Mennekes,2021,6
+3815,11A1317,Vila Nova de Gaia,86,Mennekes,2021,6
+3816,11A,Área Metropolitana do Porto,74,CHAdeMO,2021,6
+3817,11A0104,Arouca,,CHAdeMO,2021,6
+3818,11A0107,Espinho,,CHAdeMO,2021,6
+3819,11A1304,Gondomar,3,CHAdeMO,2021,6
+3820,11A1306,Maia,6,CHAdeMO,2021,6
+3821,11A1308,Matosinhos,7,CHAdeMO,2021,6
+3822,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,6
+3823,11A1310,Paredes,,CHAdeMO,2021,6
+3824,11A1312,Porto,24,CHAdeMO,2021,6
+3825,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,6
+3826,11A0109,Santa Maria da Feira,4,CHAdeMO,2021,6
+3827,11A1314,Santo Tirso,3,CHAdeMO,2021,6
+3828,11A0116,São João da Madeira,1,CHAdeMO,2021,6
+3829,11A1318,Trofa,,CHAdeMO,2021,6
+3830,11A0119,Vale de Cambra,,CHAdeMO,2021,6
+3831,11A1315,Valongo,3,CHAdeMO,2021,6
+3832,11A1316,Vila do Conde,2,CHAdeMO,2021,6
+3833,11A1317,Vila Nova de Gaia,14,CHAdeMO,2021,6
+3834,11A,Área Metropolitana do Porto,77,CCS,2021,6
+3835,11A0104,Arouca,,CCS,2021,6
+3836,11A0107,Espinho,,CCS,2021,6
+3837,11A1304,Gondomar,3,CCS,2021,6
+3838,11A1306,Maia,6,CCS,2021,6
+3839,11A1308,Matosinhos,9,CCS,2021,6
+3840,11A0113,Oliveira de Azeméis,,CCS,2021,6
+3841,11A1310,Paredes,,CCS,2021,6
+3842,11A1312,Porto,27,CCS,2021,6
+3843,11A1313,Póvoa de Varzim,6,CCS,2021,6
+3844,11A0109,Santa Maria da Feira,4,CCS,2021,6
+3845,11A1314,Santo Tirso,3,CCS,2021,6
+3846,11A0116,São João da Madeira,1,CCS,2021,6
+3847,11A1318,Trofa,,CCS,2021,6
+3848,11A0119,Vale de Cambra,,CCS,2021,6
+3849,11A1315,Valongo,2,CCS,2021,6
+3850,11A1316,Vila do Conde,2,CCS,2021,6
+3851,11A1317,Vila Nova de Gaia,14,CCS,2021,6
+3852,11A,Área Metropolitana do Porto,,Industrial,2021,6
+3853,11A0104,Arouca,,Industrial,2021,6
+3854,11A0107,Espinho,,Industrial,2021,6
+3855,11A1304,Gondomar,,Industrial,2021,6
+3856,11A1306,Maia,,Industrial,2021,6
+3857,11A1308,Matosinhos,,Industrial,2021,6
+3858,11A0113,Oliveira de Azeméis,,Industrial,2021,6
+3859,11A1310,Paredes,,Industrial,2021,6
+3860,11A1312,Porto,,Industrial,2021,6
+3861,11A1313,Póvoa de Varzim,,Industrial,2021,6
+3862,11A0109,Santa Maria da Feira,,Industrial,2021,6
+3863,11A1314,Santo Tirso,,Industrial,2021,6
+3864,11A0116,São João da Madeira,,Industrial,2021,6
+3865,11A1318,Trofa,,Industrial,2021,6
+3866,11A0119,Vale de Cambra,,Industrial,2021,6
+3867,11A1315,Valongo,,Industrial,2021,6
+3868,11A1316,Vila do Conde,,Industrial,2021,6
+3869,11A1317,Vila Nova de Gaia,,Industrial,2021,6
+3870,11A,Área Metropolitana do Porto,505,Total,2021,5
+3871,11A0104,Arouca,2,Total,2021,5
+3872,11A0107,Espinho,2,Total,2021,5
+3873,11A1304,Gondomar,13,Total,2021,5
+3874,11A1306,Maia,32,Total,2021,5
+3875,11A1308,Matosinhos,66,Total,2021,5
+3876,11A0113,Oliveira de Azeméis,4,Total,2021,5
+3877,11A1310,Paredes,6,Total,2021,5
+3878,11A1312,Porto,163,Total,2021,5
+3879,11A1313,Póvoa de Varzim,22,Total,2021,5
+3880,11A0109,Santa Maria da Feira,16,Total,2021,5
+3881,11A1314,Santo Tirso,15,Total,2021,5
+3882,11A0116,São João da Madeira,11,Total,2021,5
+3883,11A1318,Trofa,6,Total,2021,5
+3884,11A0119,Vale de Cambra,6,Total,2021,5
+3885,11A1315,Valongo,14,Total,2021,5
+3886,11A1316,Vila do Conde,16,Total,2021,5
+3887,11A1317,Vila Nova de Gaia,111,Total,2021,5
+3888,11A,Área Metropolitana do Porto,354,Mennekes,2021,5
+3889,11A0104,Arouca,2,Mennekes,2021,5
+3890,11A0107,Espinho,2,Mennekes,2021,5
+3891,11A1304,Gondomar,7,Mennekes,2021,5
+3892,11A1306,Maia,20,Mennekes,2021,5
+3893,11A1308,Matosinhos,48,Mennekes,2021,5
+3894,11A0113,Oliveira de Azeméis,4,Mennekes,2021,5
+3895,11A1310,Paredes,6,Mennekes,2021,5
+3896,11A1312,Porto,112,Mennekes,2021,5
+3897,11A1313,Póvoa de Varzim,9,Mennekes,2021,5
+3898,11A0109,Santa Maria da Feira,8,Mennekes,2021,5
+3899,11A1314,Santo Tirso,9,Mennekes,2021,5
+3900,11A0116,São João da Madeira,9,Mennekes,2021,5
+3901,11A1318,Trofa,6,Mennekes,2021,5
+3902,11A0119,Vale de Cambra,6,Mennekes,2021,5
+3903,11A1315,Valongo,9,Mennekes,2021,5
+3904,11A1316,Vila do Conde,12,Mennekes,2021,5
+3905,11A1317,Vila Nova de Gaia,85,Mennekes,2021,5
+3906,11A,Área Metropolitana do Porto,74,CHAdeMO,2021,5
+3907,11A0104,Arouca,,CHAdeMO,2021,5
+3908,11A0107,Espinho,,CHAdeMO,2021,5
+3909,11A1304,Gondomar,3,CHAdeMO,2021,5
+3910,11A1306,Maia,6,CHAdeMO,2021,5
+3911,11A1308,Matosinhos,8,CHAdeMO,2021,5
+3912,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,5
+3913,11A1310,Paredes,,CHAdeMO,2021,5
+3914,11A1312,Porto,24,CHAdeMO,2021,5
+3915,11A1313,Póvoa de Varzim,7,CHAdeMO,2021,5
+3916,11A0109,Santa Maria da Feira,4,CHAdeMO,2021,5
+3917,11A1314,Santo Tirso,3,CHAdeMO,2021,5
+3918,11A0116,São João da Madeira,1,CHAdeMO,2021,5
+3919,11A1318,Trofa,,CHAdeMO,2021,5
+3920,11A0119,Vale de Cambra,,CHAdeMO,2021,5
+3921,11A1315,Valongo,3,CHAdeMO,2021,5
+3922,11A1316,Vila do Conde,2,CHAdeMO,2021,5
+3923,11A1317,Vila Nova de Gaia,13,CHAdeMO,2021,5
+3924,11A,Área Metropolitana do Porto,77,CCS,2021,5
+3925,11A0104,Arouca,,CCS,2021,5
+3926,11A0107,Espinho,,CCS,2021,5
+3927,11A1304,Gondomar,3,CCS,2021,5
+3928,11A1306,Maia,6,CCS,2021,5
+3929,11A1308,Matosinhos,10,CCS,2021,5
+3930,11A0113,Oliveira de Azeméis,,CCS,2021,5
+3931,11A1310,Paredes,,CCS,2021,5
+3932,11A1312,Porto,27,CCS,2021,5
+3933,11A1313,Póvoa de Varzim,6,CCS,2021,5
+3934,11A0109,Santa Maria da Feira,4,CCS,2021,5
+3935,11A1314,Santo Tirso,3,CCS,2021,5
+3936,11A0116,São João da Madeira,1,CCS,2021,5
+3937,11A1318,Trofa,,CCS,2021,5
+3938,11A0119,Vale de Cambra,,CCS,2021,5
+3939,11A1315,Valongo,2,CCS,2021,5
+3940,11A1316,Vila do Conde,2,CCS,2021,5
+3941,11A1317,Vila Nova de Gaia,13,CCS,2021,5
+3942,11A,Área Metropolitana do Porto,,Industrial,2021,5
+3943,11A0104,Arouca,,Industrial,2021,5
+3944,11A0107,Espinho,,Industrial,2021,5
+3945,11A1304,Gondomar,,Industrial,2021,5
+3946,11A1306,Maia,,Industrial,2021,5
+3947,11A1308,Matosinhos,,Industrial,2021,5
+3948,11A0113,Oliveira de Azeméis,,Industrial,2021,5
+3949,11A1310,Paredes,,Industrial,2021,5
+3950,11A1312,Porto,,Industrial,2021,5
+3951,11A1313,Póvoa de Varzim,,Industrial,2021,5
+3952,11A0109,Santa Maria da Feira,,Industrial,2021,5
+3953,11A1314,Santo Tirso,,Industrial,2021,5
+3954,11A0116,São João da Madeira,,Industrial,2021,5
+3955,11A1318,Trofa,,Industrial,2021,5
+3956,11A0119,Vale de Cambra,,Industrial,2021,5
+3957,11A1315,Valongo,,Industrial,2021,5
+3958,11A1316,Vila do Conde,,Industrial,2021,5
+3959,11A1317,Vila Nova de Gaia,,Industrial,2021,5
+3960,11A,Área Metropolitana do Porto,464,Total,2021,4
+3961,11A0104,Arouca,2,Total,2021,4
+3962,11A0107,Espinho,2,Total,2021,4
+3963,11A1304,Gondomar,13,Total,2021,4
+3964,11A1306,Maia,29,Total,2021,4
+3965,11A1308,Matosinhos,66,Total,2021,4
+3966,11A0113,Oliveira de Azeméis,4,Total,2021,4
+3967,11A1310,Paredes,4,Total,2021,4
+3968,11A1312,Porto,135,Total,2021,4
+3969,11A1313,Póvoa de Varzim,19,Total,2021,4
+3970,11A0109,Santa Maria da Feira,16,Total,2021,4
+3971,11A1314,Santo Tirso,15,Total,2021,4
+3972,11A0116,São João da Madeira,11,Total,2021,4
+3973,11A1318,Trofa,6,Total,2021,4
+3974,11A0119,Vale de Cambra,6,Total,2021,4
+3975,11A1315,Valongo,12,Total,2021,4
+3976,11A1316,Vila do Conde,16,Total,2021,4
+3977,11A1317,Vila Nova de Gaia,108,Total,2021,4
+3978,11A,Área Metropolitana do Porto,332,Mennekes,2021,4
+3979,11A0104,Arouca,2,Mennekes,2021,4
+3980,11A0107,Espinho,2,Mennekes,2021,4
+3981,11A1304,Gondomar,7,Mennekes,2021,4
+3982,11A1306,Maia,19,Mennekes,2021,4
+3983,11A1308,Matosinhos,48,Mennekes,2021,4
+3984,11A0113,Oliveira de Azeméis,4,Mennekes,2021,4
+3985,11A1310,Paredes,4,Mennekes,2021,4
+3986,11A1312,Porto,98,Mennekes,2021,4
+3987,11A1313,Póvoa de Varzim,9,Mennekes,2021,4
+3988,11A0109,Santa Maria da Feira,8,Mennekes,2021,4
+3989,11A1314,Santo Tirso,9,Mennekes,2021,4
+3990,11A0116,São João da Madeira,9,Mennekes,2021,4
+3991,11A1318,Trofa,6,Mennekes,2021,4
+3992,11A0119,Vale de Cambra,6,Mennekes,2021,4
+3993,11A1315,Valongo,7,Mennekes,2021,4
+3994,11A1316,Vila do Conde,12,Mennekes,2021,4
+3995,11A1317,Vila Nova de Gaia,82,Mennekes,2021,4
+3996,11A,Área Metropolitana do Porto,65,CHAdeMO,2021,4
+3997,11A0104,Arouca,,CHAdeMO,2021,4
+3998,11A0107,Espinho,,CHAdeMO,2021,4
+3999,11A1304,Gondomar,3,CHAdeMO,2021,4
+4000,11A1306,Maia,5,CHAdeMO,2021,4
+4001,11A1308,Matosinhos,8,CHAdeMO,2021,4
+4002,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,4
+4003,11A1310,Paredes,,CHAdeMO,2021,4
+4004,11A1312,Porto,18,CHAdeMO,2021,4
+4005,11A1313,Póvoa de Varzim,5,CHAdeMO,2021,4
+4006,11A0109,Santa Maria da Feira,4,CHAdeMO,2021,4
+4007,11A1314,Santo Tirso,3,CHAdeMO,2021,4
+4008,11A0116,São João da Madeira,1,CHAdeMO,2021,4
+4009,11A1318,Trofa,,CHAdeMO,2021,4
+4010,11A0119,Vale de Cambra,,CHAdeMO,2021,4
+4011,11A1315,Valongo,3,CHAdeMO,2021,4
+4012,11A1316,Vila do Conde,2,CHAdeMO,2021,4
+4013,11A1317,Vila Nova de Gaia,13,CHAdeMO,2021,4
+4014,11A,Área Metropolitana do Porto,67,CCS,2021,4
+4015,11A0104,Arouca,,CCS,2021,4
+4016,11A0107,Espinho,,CCS,2021,4
+4017,11A1304,Gondomar,3,CCS,2021,4
+4018,11A1306,Maia,5,CCS,2021,4
+4019,11A1308,Matosinhos,10,CCS,2021,4
+4020,11A0113,Oliveira de Azeméis,,CCS,2021,4
+4021,11A1310,Paredes,,CCS,2021,4
+4022,11A1312,Porto,19,CCS,2021,4
+4023,11A1313,Póvoa de Varzim,5,CCS,2021,4
+4024,11A0109,Santa Maria da Feira,4,CCS,2021,4
+4025,11A1314,Santo Tirso,3,CCS,2021,4
+4026,11A0116,São João da Madeira,1,CCS,2021,4
+4027,11A1318,Trofa,,CCS,2021,4
+4028,11A0119,Vale de Cambra,,CCS,2021,4
+4029,11A1315,Valongo,2,CCS,2021,4
+4030,11A1316,Vila do Conde,2,CCS,2021,4
+4031,11A1317,Vila Nova de Gaia,13,CCS,2021,4
+4032,11A,Área Metropolitana do Porto,,Industrial,2021,4
+4033,11A0104,Arouca,,Industrial,2021,4
+4034,11A0107,Espinho,,Industrial,2021,4
+4035,11A1304,Gondomar,,Industrial,2021,4
+4036,11A1306,Maia,,Industrial,2021,4
+4037,11A1308,Matosinhos,,Industrial,2021,4
+4038,11A0113,Oliveira de Azeméis,,Industrial,2021,4
+4039,11A1310,Paredes,,Industrial,2021,4
+4040,11A1312,Porto,,Industrial,2021,4
+4041,11A1313,Póvoa de Varzim,,Industrial,2021,4
+4042,11A0109,Santa Maria da Feira,,Industrial,2021,4
+4043,11A1314,Santo Tirso,,Industrial,2021,4
+4044,11A0116,São João da Madeira,,Industrial,2021,4
+4045,11A1318,Trofa,,Industrial,2021,4
+4046,11A0119,Vale de Cambra,,Industrial,2021,4
+4047,11A1315,Valongo,,Industrial,2021,4
+4048,11A1316,Vila do Conde,,Industrial,2021,4
+4049,11A1317,Vila Nova de Gaia,,Industrial,2021,4
+4050,11A,Área Metropolitana do Porto,410,Total,2021,3
+4051,11A0104,Arouca,2,Total,2021,3
+4052,11A0107,Espinho,2,Total,2021,3
+4053,11A1304,Gondomar,9,Total,2021,3
+4054,11A1306,Maia,24,Total,2021,3
+4055,11A1308,Matosinhos,64,Total,2021,3
+4056,11A0113,Oliveira de Azeméis,4,Total,2021,3
+4057,11A1310,Paredes,4,Total,2021,3
+4058,11A1312,Porto,123,Total,2021,3
+4059,11A1313,Póvoa de Varzim,13,Total,2021,3
+4060,11A0109,Santa Maria da Feira,16,Total,2021,3
+4061,11A1314,Santo Tirso,13,Total,2021,3
+4062,11A0116,São João da Madeira,2,Total,2021,3
+4063,11A1318,Trofa,4,Total,2021,3
+4064,11A0119,Vale de Cambra,6,Total,2021,3
+4065,11A1315,Valongo,10,Total,2021,3
+4066,11A1316,Vila do Conde,16,Total,2021,3
+4067,11A1317,Vila Nova de Gaia,98,Total,2021,3
+4068,11A,Área Metropolitana do Porto,292,Mennekes,2021,3
+4069,11A0104,Arouca,2,Mennekes,2021,3
+4070,11A0107,Espinho,2,Mennekes,2021,3
+4071,11A1304,Gondomar,3,Mennekes,2021,3
+4072,11A1306,Maia,16,Mennekes,2021,3
+4073,11A1308,Matosinhos,46,Mennekes,2021,3
+4074,11A0113,Oliveira de Azeméis,4,Mennekes,2021,3
+4075,11A1310,Paredes,4,Mennekes,2021,3
+4076,11A1312,Porto,88,Mennekes,2021,3
+4077,11A1313,Póvoa de Varzim,7,Mennekes,2021,3
+4078,11A0109,Santa Maria da Feira,8,Mennekes,2021,3
+4079,11A1314,Santo Tirso,7,Mennekes,2021,3
+4080,11A0116,São João da Madeira,2,Mennekes,2021,3
+4081,11A1318,Trofa,4,Mennekes,2021,3
+4082,11A0119,Vale de Cambra,6,Mennekes,2021,3
+4083,11A1315,Valongo,5,Mennekes,2021,3
+4084,11A1316,Vila do Conde,12,Mennekes,2021,3
+4085,11A1317,Vila Nova de Gaia,76,Mennekes,2021,3
+4086,11A,Área Metropolitana do Porto,58,CHAdeMO,2021,3
+4087,11A0104,Arouca,,CHAdeMO,2021,3
+4088,11A0107,Espinho,,CHAdeMO,2021,3
+4089,11A1304,Gondomar,3,CHAdeMO,2021,3
+4090,11A1306,Maia,4,CHAdeMO,2021,3
+4091,11A1308,Matosinhos,8,CHAdeMO,2021,3
+4092,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,3
+4093,11A1310,Paredes,,CHAdeMO,2021,3
+4094,11A1312,Porto,17,CHAdeMO,2021,3
+4095,11A1313,Póvoa de Varzim,3,CHAdeMO,2021,3
+4096,11A0109,Santa Maria da Feira,4,CHAdeMO,2021,3
+4097,11A1314,Santo Tirso,3,CHAdeMO,2021,3
+4098,11A0116,São João da Madeira,,CHAdeMO,2021,3
+4099,11A1318,Trofa,,CHAdeMO,2021,3
+4100,11A0119,Vale de Cambra,,CHAdeMO,2021,3
+4101,11A1315,Valongo,3,CHAdeMO,2021,3
+4102,11A1316,Vila do Conde,2,CHAdeMO,2021,3
+4103,11A1317,Vila Nova de Gaia,11,CHAdeMO,2021,3
+4104,11A,Área Metropolitana do Porto,60,CCS,2021,3
+4105,11A0104,Arouca,,CCS,2021,3
+4106,11A0107,Espinho,,CCS,2021,3
+4107,11A1304,Gondomar,3,CCS,2021,3
+4108,11A1306,Maia,4,CCS,2021,3
+4109,11A1308,Matosinhos,10,CCS,2021,3
+4110,11A0113,Oliveira de Azeméis,,CCS,2021,3
+4111,11A1310,Paredes,,CCS,2021,3
+4112,11A1312,Porto,18,CCS,2021,3
+4113,11A1313,Póvoa de Varzim,3,CCS,2021,3
+4114,11A0109,Santa Maria da Feira,4,CCS,2021,3
+4115,11A1314,Santo Tirso,3,CCS,2021,3
+4116,11A0116,São João da Madeira,,CCS,2021,3
+4117,11A1318,Trofa,,CCS,2021,3
+4118,11A0119,Vale de Cambra,,CCS,2021,3
+4119,11A1315,Valongo,2,CCS,2021,3
+4120,11A1316,Vila do Conde,2,CCS,2021,3
+4121,11A1317,Vila Nova de Gaia,11,CCS,2021,3
+4122,11A,Área Metropolitana do Porto,,Industrial,2021,3
+4123,11A0104,Arouca,,Industrial,2021,3
+4124,11A0107,Espinho,,Industrial,2021,3
+4125,11A1304,Gondomar,,Industrial,2021,3
+4126,11A1306,Maia,,Industrial,2021,3
+4127,11A1308,Matosinhos,,Industrial,2021,3
+4128,11A0113,Oliveira de Azeméis,,Industrial,2021,3
+4129,11A1310,Paredes,,Industrial,2021,3
+4130,11A1312,Porto,,Industrial,2021,3
+4131,11A1313,Póvoa de Varzim,,Industrial,2021,3
+4132,11A0109,Santa Maria da Feira,,Industrial,2021,3
+4133,11A1314,Santo Tirso,,Industrial,2021,3
+4134,11A0116,São João da Madeira,,Industrial,2021,3
+4135,11A1318,Trofa,,Industrial,2021,3
+4136,11A0119,Vale de Cambra,,Industrial,2021,3
+4137,11A1315,Valongo,,Industrial,2021,3
+4138,11A1316,Vila do Conde,,Industrial,2021,3
+4139,11A1317,Vila Nova de Gaia,,Industrial,2021,3
+4140,11A,Área Metropolitana do Porto,385,Total,2021,2
+4141,11A0104,Arouca,2,Total,2021,2
+4142,11A0107,Espinho,2,Total,2021,2
+4143,11A1304,Gondomar,9,Total,2021,2
+4144,11A1306,Maia,24,Total,2021,2
+4145,11A1308,Matosinhos,61,Total,2021,2
+4146,11A0113,Oliveira de Azeméis,2,Total,2021,2
+4147,11A1310,Paredes,4,Total,2021,2
+4148,11A1312,Porto,121,Total,2021,2
+4149,11A1313,Póvoa de Varzim,8,Total,2021,2
+4150,11A0109,Santa Maria da Feira,14,Total,2021,2
+4151,11A1314,Santo Tirso,11,Total,2021,2
+4152,11A0116,São João da Madeira,2,Total,2021,2
+4153,11A1318,Trofa,4,Total,2021,2
+4154,11A0119,Vale de Cambra,6,Total,2021,2
+4155,11A1315,Valongo,10,Total,2021,2
+4156,11A1316,Vila do Conde,16,Total,2021,2
+4157,11A1317,Vila Nova de Gaia,89,Total,2021,2
+4158,11A,Área Metropolitana do Porto,276,Mennekes,2021,2
+4159,11A0104,Arouca,2,Mennekes,2021,2
+4160,11A0107,Espinho,2,Mennekes,2021,2
+4161,11A1304,Gondomar,3,Mennekes,2021,2
+4162,11A1306,Maia,16,Mennekes,2021,2
+4163,11A1308,Matosinhos,45,Mennekes,2021,2
+4164,11A0113,Oliveira de Azeméis,2,Mennekes,2021,2
+4165,11A1310,Paredes,4,Mennekes,2021,2
+4166,11A1312,Porto,87,Mennekes,2021,2
+4167,11A1313,Póvoa de Varzim,4,Mennekes,2021,2
+4168,11A0109,Santa Maria da Feira,6,Mennekes,2021,2
+4169,11A1314,Santo Tirso,5,Mennekes,2021,2
+4170,11A0116,São João da Madeira,2,Mennekes,2021,2
+4171,11A1318,Trofa,4,Mennekes,2021,2
+4172,11A0119,Vale de Cambra,6,Mennekes,2021,2
+4173,11A1315,Valongo,5,Mennekes,2021,2
+4174,11A1316,Vila do Conde,12,Mennekes,2021,2
+4175,11A1317,Vila Nova de Gaia,71,Mennekes,2021,2
+4176,11A,Área Metropolitana do Porto,54,CHAdeMO,2021,2
+4177,11A0104,Arouca,,CHAdeMO,2021,2
+4178,11A0107,Espinho,,CHAdeMO,2021,2
+4179,11A1304,Gondomar,3,CHAdeMO,2021,2
+4180,11A1306,Maia,4,CHAdeMO,2021,2
+4181,11A1308,Matosinhos,7,CHAdeMO,2021,2
+4182,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,2
+4183,11A1310,Paredes,,CHAdeMO,2021,2
+4184,11A1312,Porto,17,CHAdeMO,2021,2
+4185,11A1313,Póvoa de Varzim,2,CHAdeMO,2021,2
+4186,11A0109,Santa Maria da Feira,4,CHAdeMO,2021,2
+4187,11A1314,Santo Tirso,3,CHAdeMO,2021,2
+4188,11A0116,São João da Madeira,,CHAdeMO,2021,2
+4189,11A1318,Trofa,,CHAdeMO,2021,2
+4190,11A0119,Vale de Cambra,,CHAdeMO,2021,2
+4191,11A1315,Valongo,3,CHAdeMO,2021,2
+4192,11A1316,Vila do Conde,2,CHAdeMO,2021,2
+4193,11A1317,Vila Nova de Gaia,9,CHAdeMO,2021,2
+4194,11A,Área Metropolitana do Porto,55,CCS,2021,2
+4195,11A0104,Arouca,,CCS,2021,2
+4196,11A0107,Espinho,,CCS,2021,2
+4197,11A1304,Gondomar,3,CCS,2021,2
+4198,11A1306,Maia,4,CCS,2021,2
+4199,11A1308,Matosinhos,9,CCS,2021,2
+4200,11A0113,Oliveira de Azeméis,,CCS,2021,2
+4201,11A1310,Paredes,,CCS,2021,2
+4202,11A1312,Porto,17,CCS,2021,2
+4203,11A1313,Póvoa de Varzim,2,CCS,2021,2
+4204,11A0109,Santa Maria da Feira,4,CCS,2021,2
+4205,11A1314,Santo Tirso,3,CCS,2021,2
+4206,11A0116,São João da Madeira,,CCS,2021,2
+4207,11A1318,Trofa,,CCS,2021,2
+4208,11A0119,Vale de Cambra,,CCS,2021,2
+4209,11A1315,Valongo,2,CCS,2021,2
+4210,11A1316,Vila do Conde,2,CCS,2021,2
+4211,11A1317,Vila Nova de Gaia,9,CCS,2021,2
+4212,11A,Área Metropolitana do Porto,,Industrial,2021,2
+4213,11A0104,Arouca,,Industrial,2021,2
+4214,11A0107,Espinho,,Industrial,2021,2
+4215,11A1304,Gondomar,,Industrial,2021,2
+4216,11A1306,Maia,,Industrial,2021,2
+4217,11A1308,Matosinhos,,Industrial,2021,2
+4218,11A0113,Oliveira de Azeméis,,Industrial,2021,2
+4219,11A1310,Paredes,,Industrial,2021,2
+4220,11A1312,Porto,,Industrial,2021,2
+4221,11A1313,Póvoa de Varzim,,Industrial,2021,2
+4222,11A0109,Santa Maria da Feira,,Industrial,2021,2
+4223,11A1314,Santo Tirso,,Industrial,2021,2
+4224,11A0116,São João da Madeira,,Industrial,2021,2
+4225,11A1318,Trofa,,Industrial,2021,2
+4226,11A0119,Vale de Cambra,,Industrial,2021,2
+4227,11A1315,Valongo,,Industrial,2021,2
+4228,11A1316,Vila do Conde,,Industrial,2021,2
+4229,11A1317,Vila Nova de Gaia,,Industrial,2021,2
+4230,11A,Área Metropolitana do Porto,347,Total,2021,1
+4231,11A0104,Arouca,4,Total,2021,1
+4232,11A0107,Espinho,2,Total,2021,1
+4233,11A1304,Gondomar,3,Total,2021,1
+4234,11A1306,Maia,14,Total,2021,1
+4235,11A1308,Matosinhos,61,Total,2021,1
+4236,11A0113,Oliveira de Azeméis,2,Total,2021,1
+4237,11A1310,Paredes,4,Total,2021,1
+4238,11A1312,Porto,102,Total,2021,1
+4239,11A1313,Póvoa de Varzim,8,Total,2021,1
+4240,11A0109,Santa Maria da Feira,11,Total,2021,1
+4241,11A1314,Santo Tirso,9,Total,2021,1
+4242,11A0116,São João da Madeira,2,Total,2021,1
+4243,11A1318,Trofa,4,Total,2021,1
+4244,11A0119,Vale de Cambra,6,Total,2021,1
+4245,11A1315,Valongo,10,Total,2021,1
+4246,11A1316,Vila do Conde,16,Total,2021,1
+4247,11A1317,Vila Nova de Gaia,89,Total,2021,1
+4248,11A,Área Metropolitana do Porto,250,Mennekes,2021,1
+4249,11A0104,Arouca,4,Mennekes,2021,1
+4250,11A0107,Espinho,2,Mennekes,2021,1
+4251,11A1304,Gondomar,1,Mennekes,2021,1
+4252,11A1306,Maia,10,Mennekes,2021,1
+4253,11A1308,Matosinhos,45,Mennekes,2021,1
+4254,11A0113,Oliveira de Azeméis,2,Mennekes,2021,1
+4255,11A1310,Paredes,4,Mennekes,2021,1
+4256,11A1312,Porto,70,Mennekes,2021,1
+4257,11A1313,Póvoa de Varzim,4,Mennekes,2021,1
+4258,11A0109,Santa Maria da Feira,5,Mennekes,2021,1
+4259,11A1314,Santo Tirso,3,Mennekes,2021,1
+4260,11A0116,São João da Madeira,2,Mennekes,2021,1
+4261,11A1318,Trofa,4,Mennekes,2021,1
+4262,11A0119,Vale de Cambra,6,Mennekes,2021,1
+4263,11A1315,Valongo,5,Mennekes,2021,1
+4264,11A1316,Vila do Conde,12,Mennekes,2021,1
+4265,11A1317,Vila Nova de Gaia,71,Mennekes,2021,1
+4266,11A,Área Metropolitana do Porto,48,CHAdeMO,2021,1
+4267,11A0104,Arouca,,CHAdeMO,2021,1
+4268,11A0107,Espinho,,CHAdeMO,2021,1
+4269,11A1304,Gondomar,1,CHAdeMO,2021,1
+4270,11A1306,Maia,2,CHAdeMO,2021,1
+4271,11A1308,Matosinhos,7,CHAdeMO,2021,1
+4272,11A0113,Oliveira de Azeméis,,CHAdeMO,2021,1
+4273,11A1310,Paredes,,CHAdeMO,2021,1
+4274,11A1312,Porto,16,CHAdeMO,2021,1
+4275,11A1313,Póvoa de Varzim,2,CHAdeMO,2021,1
+4276,11A0109,Santa Maria da Feira,3,CHAdeMO,2021,1
+4277,11A1314,Santo Tirso,3,CHAdeMO,2021,1
+4278,11A0116,São João da Madeira,,CHAdeMO,2021,1
+4279,11A1318,Trofa,,CHAdeMO,2021,1
+4280,11A0119,Vale de Cambra,,CHAdeMO,2021,1
+4281,11A1315,Valongo,3,CHAdeMO,2021,1
+4282,11A1316,Vila do Conde,2,CHAdeMO,2021,1
+4283,11A1317,Vila Nova de Gaia,9,CHAdeMO,2021,1
+4284,11A,Área Metropolitana do Porto,49,CCS,2021,1
+4285,11A0104,Arouca,,CCS,2021,1
+4286,11A0107,Espinho,,CCS,2021,1
+4287,11A1304,Gondomar,1,CCS,2021,1
+4288,11A1306,Maia,2,CCS,2021,1
+4289,11A1308,Matosinhos,9,CCS,2021,1
+4290,11A0113,Oliveira de Azeméis,,CCS,2021,1
+4291,11A1310,Paredes,,CCS,2021,1
+4292,11A1312,Porto,16,CCS,2021,1
+4293,11A1313,Póvoa de Varzim,2,CCS,2021,1
+4294,11A0109,Santa Maria da Feira,3,CCS,2021,1
+4295,11A1314,Santo Tirso,3,CCS,2021,1
+4296,11A0116,São João da Madeira,,CCS,2021,1
+4297,11A1318,Trofa,,CCS,2021,1
+4298,11A0119,Vale de Cambra,,CCS,2021,1
+4299,11A1315,Valongo,2,CCS,2021,1
+4300,11A1316,Vila do Conde,2,CCS,2021,1
+4301,11A1317,Vila Nova de Gaia,9,CCS,2021,1
+4302,11A,Área Metropolitana do Porto,,Industrial,2021,1
+4303,11A0104,Arouca,,Industrial,2021,1
+4304,11A0107,Espinho,,Industrial,2021,1
+4305,11A1304,Gondomar,,Industrial,2021,1
+4306,11A1306,Maia,,Industrial,2021,1
+4307,11A1308,Matosinhos,,Industrial,2021,1
+4308,11A0113,Oliveira de Azeméis,,Industrial,2021,1
+4309,11A1310,Paredes,,Industrial,2021,1
+4310,11A1312,Porto,,Industrial,2021,1
+4311,11A1313,Póvoa de Varzim,,Industrial,2021,1
+4312,11A0109,Santa Maria da Feira,,Industrial,2021,1
+4313,11A1314,Santo Tirso,,Industrial,2021,1
+4314,11A0116,São João da Madeira,,Industrial,2021,1
+4315,11A1318,Trofa,,Industrial,2021,1
+4316,11A0119,Vale de Cambra,,Industrial,2021,1
+4317,11A1315,Valongo,,Industrial,2021,1
+4318,11A1316,Vila do Conde,,Industrial,2021,1
+4319,11A1317,Vila Nova de Gaia,,Industrial,2021,1
